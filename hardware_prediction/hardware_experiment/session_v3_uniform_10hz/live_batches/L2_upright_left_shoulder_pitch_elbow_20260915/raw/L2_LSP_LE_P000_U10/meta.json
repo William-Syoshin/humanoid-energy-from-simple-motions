@@ -1,0 +1,12 @@
+{
+  "status": "complete",
+  "purpose": "primary",
+  "execute": true,
+  "score_start": 476935.8633781,
+  "score_end": 476943.8633781,
+  "clock": "time.perf_counter, same host boot only",
+  "error": null,
+  "original_config": 33427,
+  "last_command_ack_s": 476943.8755766,
+  "pc_control_retained": true
+}

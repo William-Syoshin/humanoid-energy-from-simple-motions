@@ -1,0 +1,19 @@
+{
+  "source_hash_match": true,
+  "counts": {
+    "train": 1000,
+    "validation": 90,
+    "test": 21,
+    "control": 3
+  },
+  "raw_sha256_verified": 1114,
+  "train_fit_samples": 100000,
+  "test_samples": 44040,
+  "all_finite": true,
+  "standing_controls_excluded_from_test": true,
+  "nontip_candidates": 582,
+  "mechanical_pass": 9,
+  "mechanical_total": 21,
+  "exact_replication": false,
+  "validation_only_hyperparameter_selection": true
+}

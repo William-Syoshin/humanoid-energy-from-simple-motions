@@ -1,0 +1,266 @@
+{
+  "summary": [
+    {
+      "condition": "R1",
+      "domain": "Real",
+      "metric": "energy_J",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 83.54251222181183,
+      "sd": 2.936850579437226,
+      "min": 79.0067557660845,
+      "max": 87.78550560310502
+    },
+    {
+      "condition": "R1",
+      "domain": "Sim (R2 predictor)",
+      "metric": "energy_J",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 82.20289084666445,
+      "sd": 3.3604251638236406,
+      "min": 78.25594127098304,
+      "max": 87.8338867050154
+    },
+    {
+      "condition": "R1",
+      "domain": "Real",
+      "metric": "mean_power_W",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 8.808200258497154,
+      "sd": 0.17859606234375117,
+      "min": 8.495350082385311,
+      "max": 8.963535557043151
+    },
+    {
+      "condition": "R1",
+      "domain": "Sim (R2 predictor)",
+      "metric": "mean_power_W",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 8.66665118854601,
+      "sd": 0.23477858026257298,
+      "min": 8.325100135210961,
+      "max": 8.899926634085638
+    },
+    {
+      "condition": "R1",
+      "domain": "Sim and Real matched",
+      "metric": "duration_s",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 9.483333333346915,
+      "sd": 0.21369760566995735,
+      "min": 9.299999999988358,
+      "max": 9.900000000023283
+    },
+    {
+      "condition": "R2",
+      "domain": "Real",
+      "metric": "energy_J",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 82.72736112068979,
+      "sd": 3.680838185324076,
+      "min": 77.90294734721958,
+      "max": 86.80570976229501
+    },
+    {
+      "condition": "R2",
+      "domain": "Sim (R2 predictor)",
+      "metric": "energy_J",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 81.31629797283277,
+      "sd": 2.587028582826161,
+      "min": 77.42241480952298,
+      "max": 84.27781586623674
+    },
+    {
+      "condition": "R2",
+      "domain": "Real",
+      "metric": "mean_power_W",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 8.78369096655051,
+      "sd": 0.32888060575232203,
+      "min": 8.287547590109215,
+      "max": 9.13591243712404
+    },
+    {
+      "condition": "R2",
+      "domain": "Sim (R2 predictor)",
+      "metric": "mean_power_W",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 8.635538325354887,
+      "sd": 0.2614154533743918,
+      "min": 8.324990839733653,
+      "max": 8.965725092152844
+    },
+    {
+      "condition": "R2",
+      "domain": "Sim and Real matched",
+      "metric": "duration_s",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 9.416666666666666,
+      "sd": 0.11690451944101794,
+      "min": 9.299999999988358,
+      "max": 9.599999999976717
+    },
+    {
+      "condition": "R3",
+      "domain": "Real",
+      "metric": "energy_J",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 82.13959433072965,
+      "sd": 1.8889426766189732,
+      "min": 78.42301093315018,
+      "max": 83.64007627813112
+    },
+    {
+      "condition": "R3",
+      "domain": "Sim (R2 predictor)",
+      "metric": "energy_J",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 79.98899516883559,
+      "sd": 1.6843860927353287,
+      "min": 78.2989521351215,
+      "max": 82.46669896029974
+    },
+    {
+      "condition": "R3",
+      "domain": "Real",
+      "metric": "mean_power_W",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 8.753281982128515,
+      "sd": 0.16009192452441756,
+      "min": 8.432581820779392,
+      "max": 8.854738918978972
+    },
+    {
+      "condition": "R3",
+      "domain": "Sim (R2 predictor)",
+      "metric": "mean_power_W",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 8.525872351345058,
+      "sd": 0.23312583931902828,
+      "min": 8.329675759055478,
+      "max": 8.867386984978467
+    },
+    {
+      "condition": "R3",
+      "domain": "Sim and Real matched",
+      "metric": "duration_s",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 9.383333333341094,
+      "sd": 0.07527726527915603,
+      "min": 9.299999999988358,
+      "max": 9.5
+    },
+    {
+      "condition": "Task-only",
+      "domain": "Real",
+      "metric": "energy_J",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 103.91049026944869,
+      "sd": 13.469755077843372,
+      "min": 80.46642338949329,
+      "max": 116.03652514039874
+    },
+    {
+      "condition": "Task-only",
+      "domain": "Sim (R2 predictor)",
+      "metric": "energy_J",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 106.9734250571259,
+      "sd": 11.059061078625614,
+      "min": 88.81819168101816,
+      "max": 118.51792293285817
+    },
+    {
+      "condition": "Task-only",
+      "domain": "Real",
+      "metric": "mean_power_W",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 8.530738085203174,
+      "sd": 0.15130266571213158,
+      "min": 8.371453955685393,
+      "max": 8.724550762443632
+    },
+    {
+      "condition": "Task-only",
+      "domain": "Sim (R2 predictor)",
+      "metric": "mean_power_W",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 8.81178827015974,
+      "sd": 0.3156144736468465,
+      "min": 8.43266167527404,
+      "max": 9.251894966772724
+    },
+    {
+      "condition": "Task-only",
+      "domain": "Sim and Real matched",
+      "metric": "duration_s",
+      "n_seeds": 6,
+      "physical_repeats_per_seed": 1,
+      "mean": 12.166666666647265,
+      "sd": 1.4389811210287722,
+      "min": 9.599999999976717,
+      "max": 13.299999999988358
+    }
+  ],
+  "effects": [
+    {
+      "condition": "R1",
+      "n_pairs": 6,
+      "energy_reduction_ratio_of_means_pct": 19.601464678706616,
+      "mean_paired_energy_reduction_pct": 18.19038082072887,
+      "power_change_ratio_of_means_pct": 3.2524990279006127,
+      "lower_energy_seeds": 5,
+      "lower_mean_power_seeds": 0
+    },
+    {
+      "condition": "R2",
+      "n_pairs": 6,
+      "energy_reduction_ratio_of_means_pct": 20.385938988286213,
+      "mean_paired_energy_reduction_pct": 19.361418945782166,
+      "power_change_ratio_of_means_pct": 2.965193384451603,
+      "lower_energy_seeds": 6,
+      "lower_mean_power_seeds": 2
+    },
+    {
+      "condition": "R3",
+      "n_pairs": 6,
+      "energy_reduction_ratio_of_means_pct": 20.951586199107773,
+      "mean_paired_energy_reduction_pct": 19.621291712962467,
+      "power_change_ratio_of_means_pct": 2.608729686723721,
+      "lower_energy_seeds": 5,
+      "lower_mean_power_seeds": 1
+    }
+  ],
+  "statistics": "Descriptive mean and sample SD across 6 seeds, 1 physical replay each; no inferential tests",
+  "sim_evaluation_seed": 20000,
+  "sim_primary_predictor": "R2",
+  "all_real_recordings_included": true,
+  "real_distance_unavailable": true,
+  "limitations": [
+    "Unmeasured displacement and task success",
+    "Provisional servo mapping, all recordings marked commissioning",
+    "Fixed R1-R3-R2-Task-only order within seed",
+    "One hardware replay per trained policy",
+    "Legacy receive timestamps and existing meter values; no new independent calibration",
+    "Calibration and return-to-pose energy excluded"
+  ]
+}

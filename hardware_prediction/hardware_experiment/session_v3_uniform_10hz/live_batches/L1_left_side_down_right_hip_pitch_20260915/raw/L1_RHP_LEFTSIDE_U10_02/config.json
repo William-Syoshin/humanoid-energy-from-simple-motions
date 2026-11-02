@@ -1,0 +1,272 @@
+{
+  "rcb_library": "C:/Users/BIRL-/OneDrive/Desktop/khr3hv_exploration/Rcb4Lib",
+  "robot_port": "COM3",
+  "robot_baud": 1250000,
+  "power_port": "COM4",
+  "power_baud": 115200,
+  "command_hz": 10,
+  "ad_hz": 10,
+  "feedback": true,
+  "feedback_hz": 5,
+  "mixing_off_verified": true,
+  "mapping_verified": true,
+  "max_initial_error_rad": 0.05,
+  "max_current_A": null,
+  "min_voltage_V": null,
+  "power_stale_s": 1.0,
+  "required_power_firmware": "LEGACY_USER_ACCEPTED_FOR_MEASUREMENT",
+  "max_gap_s": 0.3,
+  "analysis_hz": 10,
+  "max_energy_difference_fraction": 0.01,
+  "max_alignment_uncertainty_s": 0.11,
+  "analysis_schema": {
+    "feedback": true,
+    "tilt": "accelerometer",
+    "support": true
+  },
+  "timing": {
+    "verified": true,
+    "method": "calibrated_receive",
+    "receive_latency_s": 0.0,
+    "uncertainty_s": 0.101,
+    "max_receive_jitter_s": 0.003,
+    "evidence_path": "C:/Users/BIRL-/OneDrive/Desktop/KHR_3HV_Ver.7.10_jp/hardware_experiment/session_v2_proposed/calibration/legacy_receive_timing_supine_20260915.json",
+    "evidence_sha256": "01e77bd9e90d4d3aac519fb30eed6c77bc9f93333f84d05741b03462efb5af03"
+  },
+  "throughput": {
+    "verified": true,
+    "validated_analysis_hz": 10.0,
+    "feedback": true,
+    "command_hz": 10,
+    "ad_hz": 10,
+    "focused_feedback": true,
+    "focused_feedback_hz": 10,
+    "evidence_path": "C:/Users/BIRL-/OneDrive/Desktop/KHR_3HV_Ver.7.10_jp/hardware_experiment/session_v2_proposed/calibration/focused_feedback_throughput_20260915.json",
+    "evidence_sha256": "890087e70b6e232d09d11dac621754c5d0122bc48ed4a236f0536d5036f22b83"
+  },
+  "power_calibration": {
+    "verified": true,
+    "voltage_gain": 1.0,
+    "voltage_offset": 0.0,
+    "current_gain": 1.0,
+    "current_offset": 0.0,
+    "evidence_path": "C:/Users/BIRL-/OneDrive/Desktop/KHR_3HV_Ver.7.10_jp/hardware_experiment/session_v2_proposed/calibration/power_value_acceptance_20260915.json",
+    "evidence_sha256": "0ea01eeed74c9361e4138d1a9950ff1a23b3d1e1edd76c39a09de46d61e5d913",
+    "evidence_type": "user_accepted_identity_transform",
+    "absolute_accuracy_uncertainty": null
+  },
+  "alignment": {
+    "scale": null,
+    "offset_s": null,
+    "residual_s": null,
+    "method": null
+  },
+  "orientation": {
+    "verified": false,
+    "accel_zero": null,
+    "accel_per_g": null,
+    "gyro_zero": null,
+    "gyro_rad_s_per_count": null,
+    "accel_body_xy_matrix": null,
+    "gyro_body_xy_matrix": null,
+    "initial_gravity": null,
+    "correction_rate_s": null,
+    "accel_norm_tolerance": null
+  },
+  "tilt_calibration": {
+    "verified": true,
+    "ad3_zero": 306.4778761061947,
+    "ad4_zero": 336.98230088495575,
+    "ad3_per_g": 203.5,
+    "ad4_per_g": 209.4,
+    "reference_angle_deg": 15.0,
+    "ad3_direction": "negative_forward_positive_backward",
+    "ad4_direction": "negative_left_positive_right",
+    "evidence_path": "C:/Users/BIRL-/OneDrive/Desktop/KHR_3HV_Ver.7.10_jp/hardware_experiment/session_v2_proposed/calibration/imu_static_15deg_recovered_20260915.json",
+    "evidence_sha256": "2843630e555e0714fee789dd1144c0aa6422fb215dfade334472a142167fb507",
+    "note": "Recovered and user-confirmed 15-degree static two-axis accelerometer calibration. This does not verify gyro gain or dynamic fusion."
+  },
+  "joints": [
+    {
+      "name": "left_hip_roll",
+      "id": 6,
+      "sio": 1,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.500589048622548,
+      "max_rad": 0.4994109513774519,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "left_hip_pitch",
+      "id": 7,
+      "sio": 1,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.43167035978442203,
+      "max_rad": 0.568329640215578,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "left_knee_pitch",
+      "id": 8,
+      "sio": 1,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.5371100632205295,
+      "max_rad": 0.46288993677947055,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "left_ankle_pitch",
+      "id": 9,
+      "sio": 1,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.5164933614313464,
+      "max_rad": 0.4835066385686536,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "left_ankle_roll",
+      "id": 10,
+      "sio": 1,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.5106028752058656,
+      "max_rad": 0.48939712479413444,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "right_hip_roll",
+      "id": 6,
+      "sio": 2,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.49234236790687486,
+      "max_rad": 0.5076576320931251,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "right_hip_pitch",
+      "id": 7,
+      "sio": 2,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.5471238898038469,
+      "max_rad": 0.4528761101961531,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "right_knee_pitch",
+      "id": 8,
+      "sio": 2,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.4611227909118263,
+      "max_rad": 0.5388772090881737,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "right_ankle_pitch",
+      "id": 9,
+      "sio": 2,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.47172566611769184,
+      "max_rad": 0.5282743338823082,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "right_ankle_roll",
+      "id": 10,
+      "sio": 2,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.5106028752058656,
+      "max_rad": 0.48939712479413444,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "left_shoulder_pitch",
+      "id": 1,
+      "sio": 1,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.5182605072989906,
+      "max_rad": 0.48173949270100935,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "left_shoulder_roll",
+      "id": 2,
+      "sio": 1,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.5194386045440869,
+      "max_rad": 0.48056139545591314,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "left_elbow_pitch",
+      "id": 4,
+      "sio": 1,
+      "zero_pos": 7500,
+      "sign": -1,
+      "min_rad": -0.48880807617158634,
+      "max_rad": 0.5111919238284136,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "right_shoulder_pitch",
+      "id": 1,
+      "sio": 2,
+      "zero_pos": 7500,
+      "sign": -1,
+      "min_rad": -0.5088357293382213,
+      "max_rad": 0.4911642706617787,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "right_shoulder_roll",
+      "id": 2,
+      "sio": 2,
+      "zero_pos": 7500,
+      "sign": -1,
+      "min_rad": -0.4970547568872596,
+      "max_rad": 0.5029452431127405,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "right_elbow_pitch",
+      "id": 4,
+      "sio": 2,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.5,
+      "max_rad": 0.5,
+      "max_speed_rad_s": 2.0
+    },
+    {
+      "name": "head_yaw",
+      "id": 0,
+      "sio": 1,
+      "zero_pos": 7500,
+      "sign": 1,
+      "min_rad": -0.4994109513774519,
+      "max_rad": 0.500589048622548,
+      "max_speed_rad_s": 2.0
+    }
+  ],
+  "provisional_joint_basis": {
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v2_proposed\\connection_probe_20260915_002.json",
+    "source_sha256": "b8c7fbae4d53cf605bc8b608935d15b6821db35b95b77827692df2eb008152d2",
+    "meaning": "Scoped upright L1 upper-body sweep; isolated joint excitation at 15/18 deg at 0.125 Hz and 4.5 deg at 0.50 Hz."
+  },
+  "power_timestamp_mode": "receive_time_user_accepted",
+  "posture_center_source": "C:/Users/BIRL-/OneDrive/Desktop/KHR_3HV_Ver.7.10_jp/ics_pilot/logs/poses/pose_20260915_084711.json",
+  "joint_coordinate_note": "q=(position-zero_pos)*135deg/4000*sign; right shoulder pitch/roll sign=-1 from 2026-09-05 calibration. Elbows: left sign=-1, right sign=+1, visually verified 2026-09-15.",
+  "focused_feedback_hz": 10,
+  "velocity_smoothing_window_s": 0.4,
+  "dataset_generation": "v3_uniform_10hz"
+}

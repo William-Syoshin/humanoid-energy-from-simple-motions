@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "training_runs": 24,
+  "evaluation_episodes": 240,
+  "source_verified": true,
+  "maximum_offline_energy_difference_J": 9.947598300641403e-14,
+  "checked_utc": "2026-10-10T20:17:19.928890+00:00"
+}

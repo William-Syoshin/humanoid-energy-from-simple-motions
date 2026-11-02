@@ -1,0 +1,17 @@
+{
+  "energy_J": 83.64007627813112,
+  "mean_power_W": 8.80421855559275,
+  "duration_s": 9.5,
+  "timing_uncertainty_s": 0.101,
+  "negative_power_samples": 0,
+  "status": "complete",
+  "command_count": 475,
+  "commands_acknowledged": true,
+  "power_sample_count": 126,
+  "reader_errors": [],
+  "physical_outcome": "awaiting_operator_report",
+  "distance_m": null,
+  "distance_note": "User requested no distance measurement; no 20 cm completion claim.",
+  "commissioning": true,
+  "mapping_verified": false
+}

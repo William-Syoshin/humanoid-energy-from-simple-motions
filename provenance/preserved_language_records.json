@@ -1,0 +1,152 @@
+[
+  {
+    "path": "hardware_prediction/external/Rcb4Lib/Rcb4BaseLib.py",
+    "sha256": "bfc7a63f9e459aaceb2e07e38eedb6991120ea9f647c50d5e74473bb31efff30",
+    "reason": "Original third-party library or reference code; supplier text and notices preserved."
+  },
+  {
+    "path": "hardware_prediction/hardware_experiment/firmware/KHR3HV_PowerMonitor_v2/KHR3HV_PowerMonitor_v2.ino",
+    "sha256": "c1f5ef223f1e90f88587ec80656c704b407ff5cd2c14949dc6885696ca9a06cb",
+    "reason": "Original experiment analysis script; Japanese report strings retained, English result report supplied."
+  },
+  {
+    "path": "hardware_prediction/hardware_experiment/regression_results/ridge_20260915_143619/run_ridge_regression.py",
+    "sha256": "96de55739908975285fa0fd76a9798249b104a971d184695a1e5c755c7239dd0",
+    "reason": "Original experiment analysis script; Japanese report strings retained, English result report supplied."
+  },
+  {
+    "path": "hardware_prediction/hardware_experiment/session_v3_test_10hz/analysis_selection.csv",
+    "sha256": "e5ae8fa135338af325bfb4c2a48cc892b4b7bcafaa1f8e8cff515a3a05d5f291",
+    "reason": "Original data-selection metadata; translated CSV view supplied in docs/english_metadata/."
+  },
+  {
+    "path": "hardware_prediction/manuscript/data/all_test_trials.csv",
+    "sha256": "2c1cbd2f78c6bf62ecd9934c9a4a0e944672f26ce5ee31fb264926626f8c338d",
+    "reason": "Original data-selection metadata; translated CSV view supplied in docs/english_metadata/."
+  },
+  {
+    "path": "hardware_prediction/manuscript/data/analysis_selection.csv",
+    "sha256": "e5ae8fa135338af325bfb4c2a48cc892b4b7bcafaa1f8e8cff515a3a05d5f291",
+    "reason": "Original data-selection metadata; translated CSV view supplied in docs/english_metadata/."
+  },
+  {
+    "path": "hardware_prediction/manuscript/data/primary_test_trials.csv",
+    "sha256": "87e128881f6662f46122ba851fa87aaeb7b34d8f4db0ac64bb33d66e06a6ebee",
+    "reason": "Original data-selection metadata; translated CSV view supplied in docs/english_metadata/."
+  },
+  {
+    "path": "motion_learning/hardware_transfer_distance/firmware/KHR3HV_PowerMonitor_Transfer/KHR3HV_PowerMonitor_Transfer.ino",
+    "sha256": "b215ccf50e2ded4e5ab028b862003dc706f5b5d4dee9695bea3da62f6cb90eee",
+    "reason": "Original experiment analysis script; Japanese report strings retained, English result report supplied."
+  },
+  {
+    "path": "motion_learning/hardware_transfer_distance/vendor/Rcb4BaseLib.py",
+    "sha256": "bfc7a63f9e459aaceb2e07e38eedb6991120ea9f647c50d5e74473bb31efff30",
+    "reason": "Original third-party library or reference code; supplier text and notices preserved."
+  },
+  {
+    "path": "motion_learning/hardware_transfer_distance/vendor/desktop_power_monitor_reference.py",
+    "sha256": "351b5a598a3eda5ef766293c51082891b4ff7a5c43c08d4808ba5c5065a081ca",
+    "reason": "Original third-party library or reference code; supplier text and notices preserved."
+  },
+  {
+    "path": "motion_learning/logs/distance_goal_20261011/source/scripts/compose_learning_video.py",
+    "sha256": "4211b6be8a2457851a740676cad31061851e78226462e0bd270520a339a08599",
+    "reason": "Frozen or archived experiment source; report strings/comments preserved for provenance."
+  },
+  {
+    "path": "motion_learning/logs/distance_goal_20261011/source/scripts/finalize_distance_experiment.py",
+    "sha256": "3938bdd075c7179b2a47e400dbfeffdf3a7fb962b2df65fa9f24d3a2ef2fc529",
+    "reason": "Frozen or archived experiment source; report strings/comments preserved for provenance."
+  },
+  {
+    "path": "motion_learning/logs/distance_goal_20261011/source/scripts/finalize_model_extension.py",
+    "sha256": "661f010029611d6d05b563c93bf99b6aa08f5a8660255751fddce80dcdafa30e",
+    "reason": "Frozen or archived experiment source; report strings/comments preserved for provenance."
+  },
+  {
+    "path": "motion_learning/logs/distance_goal_20261011/source/scripts/finalize_sweep.py",
+    "sha256": "f96211987e2675fad5cf69d3a57016624c8de350ebb47d771eaa54d59a2d76c3",
+    "reason": "Frozen or archived experiment source; report strings/comments preserved for provenance."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/README_JA.txt",
+    "sha256": "ab93f798bfd3fb23d5891fe14cbb4cac40139ee184ed6ac94f2c251c0f5c2def",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/RESULTS.html",
+    "sha256": "77f87da43318856b1d994f63161b0955606a27b80f2e5d736e66bfc09a6ce948",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/README_JA.md",
+    "sha256": "488b1d53ba8a0e8494f0fa006c7f3abafe309e5007c8d1220e97b940ecaeed54",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/WINDOWS_HANDOFF_JA.txt",
+    "sha256": "7d2b6f1e4f1f982b4cc18ba1f7b66368c2167b550693b1f0fecbd0b8e93352e5",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/calibration/knee_direction_01/operator_confirmation.json",
+    "sha256": "879dfeb8e86fb964d6040d3ab378eb814ed2d43104326db0fadf4d7c4c97e7b7",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/calibration/supported_initial_01/operator_confirmation.json",
+    "sha256": "6aca121f34d750966e26c7cb4d9e8262070e7a94ee8250109b198de1035b095b",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/commissioning_raw/R1_commissioning_01/distance_reporting_note.json",
+    "sha256": "dd846cf70bf808782f91bf2580f25440b27d0e6abbc89b0a3bf0179909fffda0",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/commissioning_raw/R1_commissioning_01/operator_confirmation.json",
+    "sha256": "e1740b4b31d15bb103247afd0304c23ac2d416efe0e9d35c3ddfc683ec2cd7a0",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/commissioning_raw/continuous_execution_authorization.json",
+    "sha256": "90b4c7992bdd8b2abdb8a8aaf22a71e0e0c99703f721e311f73e11e24aa80614",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/commissioning_raw/seed11_authorization.json",
+    "sha256": "057ac3f4997c80accff5f46008ab8950fbdec047768080f4263b50e41464ccac",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/commissioning_raw/seed12_15_authorization.json",
+    "sha256": "e7152321175e32df8922cc56bc6dbe80fe6829baed923ce50503fdcd53dcbe2c",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/firmware/KHR3HV_PowerMonitor_Transfer/KHR3HV_PowerMonitor_Transfer.ino",
+    "sha256": "b215ccf50e2ded4e5ab028b862003dc706f5b5d4dee9695bea3da62f6cb90eee",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/provenance/SIMULATION_RESULTS_JA.md",
+    "sha256": "c287afc74d74c30c98ad2e4210278a42a8d7fa17db90d1d1b07a73523cef895a",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/vendor/Rcb4BaseLib.py",
+    "sha256": "bfc7a63f9e459aaceb2e07e38eedb6991120ea9f647c50d5e74473bb31efff30",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/vendor/desktop_power_monitor_reference.py",
+    "sha256": "351b5a598a3eda5ef766293c51082891b4ff7a5c43c08d4808ba5c5065a081ca",
+    "reason": "Byte-exact returned hardware archive: original records, code or documentation; original manifest preserved."
+  },
+  {
+    "path": "synthetic_webots/archived_source/analysis/analyze.py",
+    "sha256": "832291bd11a2a2e046f51b3240b7370e4bea1bc0d992f96fcceef7854b16ca92",
+    "reason": "Frozen or archived experiment source; report strings/comments preserved for provenance."
+  }
+]

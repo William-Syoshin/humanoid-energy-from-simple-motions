@@ -1,0 +1,58 @@
+[
+  {
+    "trial": "test_push_box_101",
+    "max_abs_difference": {
+      "q": 0.0,
+      "v": 0.0,
+      "tau": 0.0,
+      "h": 0.0,
+      "com_z": 0.0,
+      "root_omega": 0.0,
+      "position": 0.0,
+      "contact": 0.0
+    },
+    "allclose": true
+  },
+  {
+    "trial": "test_get_up_101",
+    "max_abs_difference": {
+      "q": 0.0,
+      "v": 0.0,
+      "tau": 0.0,
+      "h": 0.0,
+      "com_z": 0.0,
+      "root_omega": 0.0,
+      "position": 0.0,
+      "contact": 0.0
+    },
+    "allclose": true
+  },
+  {
+    "trial": "train_0",
+    "max_abs_difference": {
+      "q": 0.0,
+      "v": 0.0,
+      "tau": 0.0,
+      "h": 0.0,
+      "com_z": 0.0,
+      "root_omega": 0.0,
+      "position": 0.0,
+      "contact": 0.0
+    },
+    "allclose": true
+  },
+  {
+    "trial": "test_walk_101",
+    "max_abs_difference": {
+      "q": 0.0,
+      "v": 0.0,
+      "tau": 0.0,
+      "h": 0.0,
+      "com_z": 0.0,
+      "root_omega": 0.0,
+      "position": 0.0,
+      "contact": 0.0
+    },
+    "allclose": true
+  }
+]

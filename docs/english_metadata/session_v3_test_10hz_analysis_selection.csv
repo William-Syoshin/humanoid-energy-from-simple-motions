@@ -1,0 +1,18 @@
+trial_id,include_primary,reason,range_exceedance_verified,decision_timing,raw_retained
+M004_slow6_pc_20260915_175053,1,Included,Not applicable,Scope specified after inspecting the results,1
+M006_slow6_pc_20260915_174432,0,Prior instruction to exclude Handstand from the paper,Not applicable,Scope specified after inspecting the results,1
+M008_slow6_pc_20260915_174814,1,Included,Not applicable,Scope specified after inspecting the results,1
+M014_20260915_152337,0,User judged native timing too fast and outside the training movement range,Unverified,Scope specified after inspecting the results,1
+M015_slow6_pc_20260915_154650,1,Included,Not applicable,Scope specified after inspecting the results,1
+M016_20260915_145045,0,User judged native timing too fast and outside the training movement range,Unverified,Scope specified after inspecting the results,1
+M016_20260915_145536,0,User judged native timing too fast and outside the training movement range,Unverified,Scope specified after inspecting the results,1
+M016_20260915_175328,0,User judged native timing too fast and outside the training movement range,Unverified,Scope specified after inspecting the results,1
+M016_slow3_pc_20260915_155750,1,Included,Not applicable,Scope specified after inspecting the results,1
+M022_20260915_175236,0,User judged native timing too fast and outside the training movement range,Unverified,Scope specified after inspecting the results,1
+M026_20260915_152221,0,User judged native timing too fast and outside the training movement range,Unverified,Scope specified after inspecting the results,1
+M026_slow3_pc_20260915_154138,0,User-requested exclusion of the 3x-duration M026 variant from the primary analysis,Not applicable,Scope specified after inspecting the results,1
+M026_slow9_pc_20260915_154254,1,Included,Not applicable,Scope specified after inspecting the results,1
+M073_20260915_153043,1,Included,Not applicable,Scope specified after inspecting the results,1
+M074_20260915_153316,1,Included,Not applicable,Scope specified after inspecting the results,1
+M075_20260915_153356,1,Included,Not applicable,Scope specified after inspecting the results,1
+M076_20260915_153430,1,Included,Not applicable,Scope specified after inspecting the results,1

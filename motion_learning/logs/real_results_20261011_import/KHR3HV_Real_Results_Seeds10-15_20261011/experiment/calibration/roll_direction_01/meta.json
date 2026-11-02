@@ -1,0 +1,43 @@
+{
+  "status": "complete",
+  "purpose": "supported candidate roll direction check, not a walking trial",
+  "created_utc": "2026-10-11T04:19:05.126097+00:00",
+  "targets": [
+    {
+      "name": "left_hip_roll",
+      "id": 6,
+      "sio": 1,
+      "delta_counts": 59
+    },
+    {
+      "name": "right_hip_roll",
+      "id": 6,
+      "sio": 2,
+      "delta_counts": 59
+    },
+    {
+      "name": "left_ankle_roll",
+      "id": 10,
+      "sio": 1,
+      "delta_counts": -59
+    },
+    {
+      "name": "right_ankle_roll",
+      "id": 10,
+      "sio": 2,
+      "delta_counts": -59
+    }
+  ],
+  "basis": "Provisional roll signs; visual observation required, no verification claim",
+  "visual_confirmation": "pending",
+  "start_positions": [
+    7499,
+    7503,
+    7492,
+    7502
+  ],
+  "original_rcb_config": 33433,
+  "returned_to_start_targets": true,
+  "endpoint_behavior": "returned to original targets",
+  "power_reader_errors": []
+}

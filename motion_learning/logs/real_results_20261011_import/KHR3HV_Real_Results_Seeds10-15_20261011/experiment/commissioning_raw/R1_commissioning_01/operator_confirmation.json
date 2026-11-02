@@ -1,0 +1,9 @@
+{
+  "recorded_utc": "2026-10-11T04:25:53.894955+00:00",
+  "operator_statement": "正しく前に進みました",
+  "forward_motion_confirmed": true,
+  "distance_m": null,
+  "target_20cm_confirmed": null,
+  "hand_support": null,
+  "note": "Visual forward-motion confirmation only; no numerical displacement or per-axis simulator mapping confirmation supplied."
+}

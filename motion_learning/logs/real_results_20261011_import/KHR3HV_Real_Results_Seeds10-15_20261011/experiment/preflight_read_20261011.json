@@ -1,0 +1,64 @@
+{
+  "created_utc": "2026-10-11T04:02:04.439294+00:00",
+  "servo_targets_sent": false,
+  "robot": {
+    "ok": false,
+    "joints": [],
+    "opened": false,
+    "acknowledged": false
+  },
+  "power": {
+    "ok": true,
+    "samples": [
+      {
+        "device_s": 1011415.424,
+        "voltage_raw": 10.8038,
+        "current_raw": 0.0,
+        "clip": 0
+      },
+      {
+        "device_s": 1011415.524,
+        "voltage_raw": 10.8038,
+        "current_raw": -0.0006,
+        "clip": 0
+      },
+      {
+        "device_s": 1011415.624,
+        "voltage_raw": 10.8038,
+        "current_raw": 0.0,
+        "clip": 0
+      },
+      {
+        "device_s": 1011415.724,
+        "voltage_raw": 10.8038,
+        "current_raw": 0.0,
+        "clip": 0
+      },
+      {
+        "device_s": 1011415.824,
+        "voltage_raw": 10.8038,
+        "current_raw": 0.0,
+        "clip": 0
+      }
+    ]
+  },
+  "joint_order": [
+    "left_hip_roll",
+    "left_hip_pitch",
+    "left_knee_pitch",
+    "left_ankle_pitch",
+    "left_ankle_roll",
+    "right_hip_roll",
+    "right_hip_pitch",
+    "right_knee_pitch",
+    "right_ankle_pitch",
+    "right_ankle_roll",
+    "left_shoulder_pitch",
+    "left_shoulder_roll",
+    "left_elbow_pitch",
+    "right_shoulder_pitch",
+    "right_shoulder_roll",
+    "right_elbow_pitch",
+    "head_yaw"
+  ]
+}

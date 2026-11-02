@@ -1,0 +1,38 @@
+{
+  "spec": {
+    "split": "train",
+    "id": "151",
+    "action": "L2",
+    "context": "standing",
+    "duration": 4.0,
+    "seed": 561,
+    "level": 2,
+    "joints": [
+      5,
+      6
+    ],
+    "amplitude": 0.35,
+    "frequency": 0.3,
+    "offset": 0.15,
+    "phase": 3.141592653589793
+  },
+  "samples": 400,
+  "duration": 4.0,
+  "final_height": 0.09615989605591488,
+  "final_h": 0.9205072769142334,
+  "forward_m": -0.43210063046367897,
+  "yaw_change": -0.02468588374617258,
+  "object_displacement": 1.134510481823722e-18,
+  "max_tau": 1.379409659287085,
+  "contact_mean": [
+    16.13471682193804,
+    10.753936210136445,
+    3.475870912562397,
+    0.0,
+    5.972113826584877,
+    7.106461389955509,
+    2.4825
+  ],
+  "sha256": "0ddbcdcc9b7769e4df5aa65690256e7ea42ec0859611905fc5adc2f3e234a1bb",
+  "completed": 1791740299.7975528
+}

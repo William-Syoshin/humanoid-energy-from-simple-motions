@@ -1,0 +1,19 @@
+{
+  "name": "R2-lambda0.3-seed11",
+  "condition": "R2",
+  "weight": 0.3,
+  "seed": 11,
+  "status": "complete",
+  "started_utc": "2026-10-10T15:36:15.037689+00:00",
+  "wall_s": 1521.6937005830114,
+  "training": {
+    "status": "complete",
+    "timesteps": 100352,
+    "requested_timesteps": 100000,
+    "wall_s": 1487.9562957499875,
+    "actual_device": "cpu",
+    "condition": "R2",
+    "seed": 11
+  },
+  "model_sha256": "37cfa575284f5e34af2f5531177c18858ac028c94eb93abf40a3024c11629880"
+}

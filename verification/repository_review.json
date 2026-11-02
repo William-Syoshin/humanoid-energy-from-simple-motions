@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "english_reading_documents_checked": 60,
+  "local_links_checked": 200,
+  "preserved_language_records_verified": 30,
+  "files": 5889,
+  "maximum_file_bytes": 3786154,
+  "errors": [],
+  "publication_metadata_pending": [
+    "Complete actual author/repository/version metadata and activate CITATION.cff.",
+    "Declare approved author-owned reuse terms; retain third-party restrictions."
+  ],
+  "release_mode": false,
+  "checked_utc": "2026-11-02T00:33:26.399967+00:00",
+  "completed": true,
+  "original_files_unchanged": 5851,
+  "original_scientific_data_and_existing_source_unchanged": true,
+  "all_seven_offline_analysis_actions_passed": true,
+  "known_credential_signatures_detected": 0,
+  "manuscript_not_uploaded": true,
+  "github_upload_performed": false
+}

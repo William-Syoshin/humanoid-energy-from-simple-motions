@@ -1,0 +1,51 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "../protos/Khr3hv17.proto"
+
+WorldInfo {
+  basicTimeStep 8
+}
+Viewpoint {
+  orientation 0.1398960270433584 -0.02162846415405355 -0.989929952651106 3.615043289977382
+  position 5.178289497596925 -3.357224896939158 1.8585879945453612
+}
+Background {
+  skyColor [
+    0.85 0.9 0.95
+  ]
+}
+DirectionalLight {
+  direction -1 -1 -2
+}
+Solid {
+  translation 0 0 -0.025
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.65 0.68 0.7
+        roughness 1
+        metalness 0
+      }
+      geometry Box {
+        size 4 4 0.05
+      }
+    }
+  ]
+  name "floor"
+  boundingObject Box {
+    size 4 4 0.05
+  }
+}
+DEF KHR Khr3hv17 {
+  controller "khr_controller"
+  supervisor TRUE
+  bodySlot [
+    InertialUnit {
+      name "imu"
+    }
+    Gyro {
+    }
+    Accelerometer {
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "energy_J": 79.0067557660845,
+  "mean_power_W": 8.495350082385311,
+  "duration_s": 9.299999999988358,
+  "timing_uncertainty_s": 0.101,
+  "negative_power_samples": 0,
+  "condition": "R1",
+  "training_seed": 15,
+  "trial_id": "R1_seed15_01",
+  "command_count": 465,
+  "power_sample_count": 124,
+  "distance_m": null,
+  "physical_outcome": "not_individually_reported",
+  "commissioning": true,
+  "mapping_verified": false,
+  "source_dir": "C:\\khr-20cm-20261011\\KHR3HV_20cm_Transfer\\commissioning_raw\\R1_seed15_01"
+}

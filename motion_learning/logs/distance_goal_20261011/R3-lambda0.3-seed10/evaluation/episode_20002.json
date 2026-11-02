@@ -1,0 +1,75 @@
+{
+  "seed": 20002,
+  "policy": "/Users/yuchenzhou/Documents/Codex/2026-10-05/webots-khr-3hv-macbook-github-linux-2/outputs/khr3hv_rl/logs/distance_goal_20261011/R3-lambda0.3-seed10/final.zip",
+  "condition": "R3",
+  "duration_s": 9.5,
+  "distance_m": 0.2024237724765414,
+  "mean_speed_m_s": 0.021307765523846462,
+  "fallen": false,
+  "escaped": false,
+  "completed_horizon": false,
+  "task_success": true,
+  "heading_error_rad": 0.000993360815952669,
+  "lateral_error_m": 0.0004138124289298141,
+  "mean_abs_heading_rad": 0.0014119182853603782,
+  "predicted_energy_J": {
+    "R1": 82.93657888447358,
+    "R2": 79.68618234163553,
+    "R3": 78.0216912611088
+  },
+  "positive_energy_J": {
+    "R1": 82.93657888447358,
+    "R2": 79.68618234163553,
+    "R3": 78.0216912611088
+  },
+  "ood_rate": 0.03684210526315789,
+  "ood_component_sample_rates": {
+    "position": 0.0,
+    "command": 0.0,
+    "velocity": 0.0,
+    "error": 0.0,
+    "pairs": 0.020833333333333332,
+    "context": 0.020833333333333332
+  },
+  "negative_power_rate": 0.0,
+  "reward_terms": {
+    "alive": 0.0,
+    "speed": 0.0,
+    "progress": 20.0,
+    "upright": 0.0,
+    "tilt": -0.004343798827281719,
+    "heading": -1.0215048334909493e-05,
+    "lateral": -4.493304111086542e-05,
+    "joint_velocity": -0.0008146065570528296,
+    "action_change": -0.02716953994319833,
+    "ood": -0.175,
+    "fall": 0.0,
+    "energy": -23.406507378332638,
+    "time": -0.47500000000000037,
+    "goal": 200.0,
+    "timeout": 0.0
+  },
+  "energy_per_m_J": {
+    "R1": 409.71758341320793,
+    "R2": 393.6601979437482,
+    "R3": 385.4373935756514
+  },
+  "task_mode": "distance",
+  "target_distance_m": 0.2,
+  "reached_goal": true,
+  "timed_out": false,
+  "time_to_goal_s": 9.5,
+  "goal_overshoot_m": 0.0024237724765413804,
+  "termination_reason": "goal",
+  "in_distribution_success": true,
+  "joint_velocity_rms_rad_s": 0.13095652609712888,
+  "tracking_error_rms_rad": 0.01163986323595383,
+  "tilt_rms_rad": 0.02127155489575948,
+  "mean_gait_parameters": [
+    2.2706964482863734,
+    0.02762500000000002,
+    0.0018999198422456785,
+    0.03277325217612089,
+    0.028281249999999966
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "spec": {
+    "split": "test",
+    "id": "get_up_303",
+    "action": "get_up",
+    "context": "whole-body",
+    "duration": 9.0,
+    "seed": 303,
+    "level": null,
+    "joints": [],
+    "amplitude": 0.2,
+    "frequency": 0.3,
+    "offset": 0.15,
+    "phase": 1.5707963267948966
+  },
+  "samples": 900,
+  "duration": 9.0,
+  "final_height": 0.09615785636237591,
+  "final_h": 0.9205492969320136,
+  "forward_m": 0.005078064996264078,
+  "yaw_change": -0.002642055987556285,
+  "object_displacement": 3.864414132572995e-18,
+  "max_tau": 1.3731087146797276,
+  "contact_mean": [
+    16.639965791656643,
+    13.65662626357409,
+    16.741882164050804,
+    0.0,
+    1.9543709677542125,
+    1.6506000135759438,
+    4.917777777777777
+  ],
+  "sha256": "8d638f8098e6744a110c21a3868316da741eb45d36eb8ecb7840a80d28ab298d",
+  "completed": 1791740851.458325
+}

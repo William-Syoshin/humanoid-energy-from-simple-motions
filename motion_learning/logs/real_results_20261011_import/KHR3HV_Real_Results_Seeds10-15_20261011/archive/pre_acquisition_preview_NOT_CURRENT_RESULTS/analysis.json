@@ -1,0 +1,13 @@
+{
+  "sim_evaluator": "R2",
+  "planned_trials": 12,
+  "valid_trials": 0,
+  "observed_goal_trials": 0,
+  "mock": false,
+  "unregistered_attempts": [],
+  "pilot_one_training_seed": true,
+  "independent_unit": "training seed for learning generalization; physical repeats only characterize replay variability",
+  "pilot_plot": "Sim one trajectory without SD; Real mean and sample SD of available physical repeats, incomplete n explicitly shown",
+  "energy": "signed calibrated V*I trapezoidal integral; no idle subtraction; replay and observed first-arrival windows reported separately",
+  "interpretation": "Replay is open loop. Arrival time must be independently observed, never inferred from average speed. Failures remain in replay tables/plots. Goal plots are conditional on observed success and must be read with success counts. No automatic significance tests."
+}

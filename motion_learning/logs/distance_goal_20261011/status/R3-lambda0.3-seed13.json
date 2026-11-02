@@ -1,0 +1,19 @@
+{
+  "name": "R3-lambda0.3-seed13",
+  "condition": "R3",
+  "weight": 0.3,
+  "seed": 13,
+  "status": "complete",
+  "started_utc": "2026-10-10T19:39:08.202296+00:00",
+  "wall_s": 1668.7093803750467,
+  "training": {
+    "status": "complete",
+    "timesteps": 100352,
+    "requested_timesteps": 100000,
+    "wall_s": 1638.458294333017,
+    "actual_device": "cpu",
+    "condition": "R3",
+    "seed": 13
+  },
+  "model_sha256": "35d78b3563b3c3db4da5cf1e898ea660d6a59d137132801c114214f12a1792c6"
+}

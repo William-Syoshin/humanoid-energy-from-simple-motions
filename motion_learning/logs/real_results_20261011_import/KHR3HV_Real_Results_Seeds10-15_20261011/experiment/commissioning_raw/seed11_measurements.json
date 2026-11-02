@@ -1,0 +1,73 @@
+{
+  "results": [
+    {
+      "energy_J": 87.78550560310502,
+      "mean_power_W": 8.867222788171572,
+      "duration_s": 9.900000000023283,
+      "timing_uncertainty_s": 0.101,
+      "negative_power_samples": 0,
+      "condition": "R1",
+      "training_seed": 11,
+      "trial_id": "R1_seed11_01",
+      "command_count": 495,
+      "power_sample_count": 130,
+      "distance_m": null,
+      "physical_outcome": "not_individually_reported",
+      "commissioning": true,
+      "mapping_verified": false,
+      "source_dir": "C:\\khr-20cm-20261011\\KHR3HV_20cm_Transfer\\commissioning_raw\\R1_seed11_01"
+    },
+    {
+      "energy_J": 82.27723778554198,
+      "mean_power_W": 8.847014815660751,
+      "duration_s": 9.299999999988358,
+      "timing_uncertainty_s": 0.101,
+      "negative_power_samples": 0,
+      "condition": "R3",
+      "training_seed": 11,
+      "trial_id": "R3_seed11_01",
+      "command_count": 465,
+      "power_sample_count": 124,
+      "distance_m": null,
+      "physical_outcome": "not_individually_reported",
+      "commissioning": true,
+      "mapping_verified": false,
+      "source_dir": "C:\\khr-20cm-20261011\\KHR3HV_20cm_Transfer\\commissioning_raw\\R3_seed11_01"
+    },
+    {
+      "energy_J": 77.90294734721958,
+      "mean_power_W": 8.287547590109215,
+      "duration_s": 9.400000000023283,
+      "timing_uncertainty_s": 0.101,
+      "negative_power_samples": 0,
+      "condition": "R2",
+      "training_seed": 11,
+      "trial_id": "R2_seed11_01",
+      "command_count": 470,
+      "power_sample_count": 125,
+      "distance_m": null,
+      "physical_outcome": "not_individually_reported",
+      "commissioning": true,
+      "mapping_verified": false,
+      "source_dir": "C:\\khr-20cm-20261011\\KHR3HV_20cm_Transfer\\commissioning_raw\\R2_seed11_01"
+    },
+    {
+      "energy_J": 80.46642338949329,
+      "mean_power_W": 8.381919103092546,
+      "duration_s": 9.599999999976717,
+      "timing_uncertainty_s": 0.101,
+      "negative_power_samples": 0,
+      "condition": "Baseline",
+      "training_seed": 11,
+      "trial_id": "Baseline_seed11_01",
+      "command_count": 480,
+      "power_sample_count": 127,
+      "distance_m": null,
+      "physical_outcome": "not_individually_reported",
+      "commissioning": true,
+      "mapping_verified": false,
+      "source_dir": "C:\\khr-20cm-20261011\\KHR3HV_20cm_Transfer\\commissioning_raw\\Baseline_seed11_01"
+    }
+  ],
+  "note": "One replay per condition. Distance unmeasured. Return transitions excluded."
+}

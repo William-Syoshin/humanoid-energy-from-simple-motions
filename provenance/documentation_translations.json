@@ -1,0 +1,121 @@
+[
+  {
+    "original": "docs/RELEASE_JA.md",
+    "english": "docs/RELEASE.md",
+    "original_sha256": "871157743d931c25f14208f17c852038f8d2f10bb2a6909ef8940ea07f4e18b9",
+    "english_sha256": "8e3f0280d32944838792d3ceb3075730ae746e655aeaa9bfce461fedb6e61fea",
+    "original_retained": false
+  },
+  {
+    "original": "hardware_prediction/manuscript/frontiers_20261023/analysis/integration_windows_20261101/RESULTS_JA.txt",
+    "english": "hardware_prediction/manuscript/frontiers_20261023/analysis/integration_windows_20261101/RESULTS.txt",
+    "original_sha256": "35a3dcd8608716cc50d81bb9ab21925751bf174f7451086bed68d72b74d8ca16",
+    "english_sha256": "ac97f094465133d552dcea6b7a04902bfb44e98b109efe28333befed1b930b37",
+    "original_retained": false
+  },
+  {
+    "original": "hardware_prediction/hardware_experiment/regression_results/ridge_20260915_143619/RESULTS_JA.md",
+    "english": "hardware_prediction/hardware_experiment/regression_results/ridge_20260915_143619/RESULTS.md",
+    "original_sha256": "1c7b0a829a924674f9ec27f6afc08286389d106308225465e351c3daf2c58bd0",
+    "english_sha256": "4e3deb9de6f082ca574120aacc060956bdcbd5e2c6f36ca53263ced38d145c97",
+    "original_retained": false
+  },
+  {
+    "original": "motion_learning/docs/DISTANCE_GOAL_EXPERIMENT.md",
+    "english": "motion_learning/docs/DISTANCE_GOAL_EXPERIMENT.md",
+    "original_sha256": "2ba02939d34fe14daa7ea2fcd2580b94dc0dd95250ee8927ea02944a788a2460",
+    "english_sha256": "da16825bcb81662fc00b9c2d791ce308dfa6aba2b7ce1749143344c090ad2870",
+    "original_retained": false
+  },
+  {
+    "original": "motion_learning/docs/distance_goal_20261011_RESULTS.md",
+    "english": "motion_learning/docs/distance_goal_20261011_RESULTS.md",
+    "original_sha256": "c287afc74d74c30c98ad2e4210278a42a8d7fa17db90d1d1b07a73523cef895a",
+    "english_sha256": "c1f031fc5454c4b037f1d4a93bc32b058a4cfaad4fcb28da7f5f62b9a637a934",
+    "original_retained": false
+  },
+  {
+    "original": "motion_learning/hardware_transfer_distance/README_JA.md",
+    "english": "motion_learning/hardware_transfer_distance/README.md",
+    "original_sha256": "488b1d53ba8a0e8494f0fa006c7f3abafe309e5007c8d1220e97b940ecaeed54",
+    "english_sha256": "ce198687593b57c47a6fa5ad7f8c31efc8e1e0e583834e692ed4651bce67c677",
+    "original_retained": false
+  },
+  {
+    "original": "motion_learning/hardware_transfer_distance/WINDOWS_HANDOFF_JA.txt",
+    "english": "motion_learning/hardware_transfer_distance/WINDOWS_HANDOFF.md",
+    "original_sha256": "7d2b6f1e4f1f982b4cc18ba1f7b66368c2167b550693b1f0fecbd0b8e93352e5",
+    "english_sha256": "df253524a2e1542422c6818286063c216d44a1da872ba80b5fb2ad5e778273ea",
+    "original_retained": false
+  },
+  {
+    "original": "motion_learning/hardware_transfer_distance/provenance/SIMULATION_RESULTS_JA.md",
+    "english": "motion_learning/hardware_transfer_distance/provenance/SIMULATION_RESULTS.md",
+    "original_sha256": "c287afc74d74c30c98ad2e4210278a42a8d7fa17db90d1d1b07a73523cef895a",
+    "english_sha256": "027ce3ecff087df2e6a16fe9d260974af3d9ad55eee1834e8c477203a7f9ae99",
+    "original_retained": false
+  },
+  {
+    "original": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/README_JA.txt",
+    "english": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/README.md",
+    "original_sha256": "ab93f798bfd3fb23d5891fe14cbb4cac40139ee184ed6ac94f2c251c0f5c2def",
+    "english_sha256": "a0acb42358a1acca0c87c36c5d72b72b9865b62d03c09ae90bab7cd7721b7850",
+    "original_retained": true
+  },
+  {
+    "original": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/README_JA.md",
+    "english": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/README.md",
+    "original_sha256": "488b1d53ba8a0e8494f0fa006c7f3abafe309e5007c8d1220e97b940ecaeed54",
+    "english_sha256": "ce198687593b57c47a6fa5ad7f8c31efc8e1e0e583834e692ed4651bce67c677",
+    "original_retained": true
+  },
+  {
+    "original": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/WINDOWS_HANDOFF_JA.txt",
+    "english": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/WINDOWS_HANDOFF.md",
+    "original_sha256": "7d2b6f1e4f1f982b4cc18ba1f7b66368c2167b550693b1f0fecbd0b8e93352e5",
+    "english_sha256": "e61095be8b0077e779d051d30c34061df71c4926f3256529252d8caec04d9c6d",
+    "original_retained": true
+  },
+  {
+    "original": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/provenance/SIMULATION_RESULTS_JA.md",
+    "english": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/experiment/provenance/SIMULATION_RESULTS.md",
+    "original_sha256": "c287afc74d74c30c98ad2e4210278a42a8d7fa17db90d1d1b07a73523cef895a",
+    "english_sha256": "8c00f950c3f3b8a9cd61ce874510f1f4699dcd6f6d716b91b662126725cbf786",
+    "original_retained": true
+  },
+  {
+    "original": "hardware_prediction/manuscript/data/analysis_selection.csv",
+    "english": "docs/english_metadata/analysis_selection.csv",
+    "original_sha256": "e5ae8fa135338af325bfb4c2a48cc892b4b7bcafaa1f8e8cff515a3a05d5f291",
+    "english_sha256": "5feca0721113516bccabe1328ccdcf2d2a728e50d09da8e0111151a782f631c2",
+    "original_retained": true
+  },
+  {
+    "original": "hardware_prediction/manuscript/data/primary_test_trials.csv",
+    "english": "docs/english_metadata/primary_test_trials.csv",
+    "original_sha256": "87e128881f6662f46122ba851fa87aaeb7b34d8f4db0ac64bb33d66e06a6ebee",
+    "english_sha256": "d1f45126cf795bc11946cb18d818c2765763873c717d68fb85f27ac18f7f391b",
+    "original_retained": true
+  },
+  {
+    "original": "hardware_prediction/manuscript/data/all_test_trials.csv",
+    "english": "docs/english_metadata/all_test_trials.csv",
+    "original_sha256": "2c1cbd2f78c6bf62ecd9934c9a4a0e944672f26ce5ee31fb264926626f8c338d",
+    "english_sha256": "fc80b5c8771a71b421f827ed20a91f91d5fd8401b55b790f03e6a67b537d4012",
+    "original_retained": true
+  },
+  {
+    "original": "hardware_prediction/hardware_experiment/session_v3_test_10hz/analysis_selection.csv",
+    "english": "docs/english_metadata/session_v3_test_10hz_analysis_selection.csv",
+    "original_sha256": "e5ae8fa135338af325bfb4c2a48cc892b4b7bcafaa1f8e8cff515a3a05d5f291",
+    "english_sha256": "5feca0721113516bccabe1328ccdcf2d2a728e50d09da8e0111151a782f631c2",
+    "original_retained": true
+  },
+  {
+    "original": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/RESULTS.html",
+    "english": "motion_learning/logs/real_results_20261011_import/KHR3HV_Real_Results_Seeds10-15_20261011/RESULTS_EN.html",
+    "original_sha256": "77f87da43318856b1d994f63161b0955606a27b80f2e5d736e66bfc09a6ce948",
+    "english_sha256": "fd50a0475c59cc80f7860638fae843f20bd2358ac744d124657d64d7ed0838f3",
+    "original_retained": true
+  }
+]

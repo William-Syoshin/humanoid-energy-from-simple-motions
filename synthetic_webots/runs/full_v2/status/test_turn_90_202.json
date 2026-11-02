@@ -1,0 +1,35 @@
+{
+  "spec": {
+    "split": "test",
+    "id": "turn_90_202",
+    "action": "turn_90",
+    "context": "whole-body",
+    "duration": 32.27,
+    "seed": 202,
+    "level": null,
+    "joints": [],
+    "amplitude": 0.2,
+    "frequency": 0.6,
+    "offset": 0.0,
+    "phase": 1.5707963267948966
+  },
+  "samples": 3227,
+  "duration": 32.27,
+  "final_height": 0.33387197947559527,
+  "final_h": 9.92552800505031e-07,
+  "forward_m": -0.09456804758932733,
+  "yaw_change": 0.0005892452117589316,
+  "object_displacement": 2.0975917394612433e-18,
+  "max_tau": 1.3733675548339863,
+  "contact_mean": [
+    16.657186113105713,
+    15.63559152725895,
+    0.0,
+    0.0,
+    8.20547267504283,
+    8.451713438062916,
+    3.51781840718934
+  ],
+  "sha256": "2489d5c669044aeb75369d488d8c7daaca911708c3f5694e85893de69b1f7c3a",
+  "completed": 1791740901.411106
+}

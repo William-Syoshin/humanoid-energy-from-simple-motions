@@ -1,0 +1,157 @@
+{
+  "webots_release": "R2025a",
+  "upstream_commit": "c6793d8f7230a311c4bc2a3101d9f1a8bc0aa01b",
+  "upstream_proto_sha256": "dec8ae7a6d6a99b2e9025effd2c4dadd92b482db39bb6e95152a2b79fb85ad58",
+  "joints": [
+    {
+      "name": "Head",
+      "sensor": "Head_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "LeftShoulder",
+      "sensor": "LeftShoulder_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "LeftArm",
+      "sensor": "LeftArm_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "LeftForearm",
+      "sensor": "LeftForearm_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "RightShoulder",
+      "sensor": "RightShoulder_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "RightArm",
+      "sensor": "RightArm_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "RightForearm",
+      "sensor": "RightForearm_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "LeftFemurHead2",
+      "sensor": "LeftFemurHead2_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "LeftFemur",
+      "sensor": "LeftFemur_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "LeftCrus",
+      "sensor": "LeftCrus_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "LeftAnkle",
+      "sensor": "LeftAnkle_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "LeftFoot",
+      "sensor": "LeftFoot_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "RightFemurHead2",
+      "sensor": "RightFemurHead2_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "RightFemur",
+      "sensor": "RightFemur_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "RightCrus",
+      "sensor": "RightCrus_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "RightAnkle",
+      "sensor": "RightAnkle_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    },
+    {
+      "name": "RightFoot",
+      "sensor": "RightFoot_sensor",
+      "model_min_rad": -2.356,
+      "model_max_rad": 2.356,
+      "model_max_velocity_rad_s": 7.48,
+      "model_max_torque_nm": 1.3729
+    }
+  ],
+  "upstream_motor_count": 22,
+  "upstream_sensor_count": 0,
+  "fixed_expansion_joints": [
+    "LeftElbow",
+    "RightElbow",
+    "Waist",
+    "LeftFemurHead1",
+    "RightFemurHead1"
+  ],
+  "added_body_devices": {
+    "imu": "InertialUnit",
+    "gyro": "Gyro",
+    "accelerometer": "Accelerometer"
+  }
+}

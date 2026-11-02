@@ -1,0 +1,32 @@
+{
+  "schema": "khr-transfer-plan-v1",
+  "created_utc": "2026-10-11T02:11:22.957225+00:00",
+  "training_seeds": [
+    10
+  ],
+  "target_distance_m": 0.2,
+  "task": "20cm_distance_goal",
+  "order_seed": 20261011,
+  "manifest_sha256": "51c460f59d1942766d7e4007c77cc11f35b1d08ccb6d9ba8f25637af1e8464d4",
+  "repeats": 1,
+  "weights": [
+    0.3
+  ],
+  "trials": [
+    {
+      "trial_id": "R3_commissioning_01",
+      "condition": "R3",
+      "weight": 0.3,
+      "training_seed": 10,
+      "repeat": 1,
+      "motion": "motions/R3_lambda0.3_seed10.json",
+      "motion_sha256": "ec24e9507bf6c1a5d24d3fe00f4416776c6f925687fa3938107d54231c611926"
+    }
+  ],
+  "comparison": "R1/R2/R3 vs one shared Task-only; repeats nested within training seed",
+  "policy": "Keep every attempted trial and annotate failure. No automatic replacement, no fabricated significance brackets.",
+  "scope_note": "Four conditions once each per user preference. Bundled 12/72-trial plans are references, not execution authorization.",
+  "source_plan_sha256": "193185f5d186ae76d053f234ce17f51811c3879ed8212eb4acc5f0f8eb4b53b7",
+  "purpose": "Operator-attended commissioning only; does not replace formal four-condition plan",
+  "distance_reporting": "Unmeasured per user request; compare replay-window energy only."
+}

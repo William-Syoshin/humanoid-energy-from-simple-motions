@@ -1,0 +1,93 @@
+{
+  "repository": "https://github.com/William-Syoshin/humanoid-energy-paper",
+  "commit": "e167c835f5632e3512a100a31fde05edd27946d2",
+  "source_analysis_sha256": "9882399c5155a0c77be9435a9c6e726bcfa670e11ef637fc7bcc4c438fd49066",
+  "model_sha256": "fb9d381ec3b142353725c83f274fad181b509ef9e5a2916d70954fa43b6c1d5e",
+  "frozen_json_sha256": "fbd4ecbe171ee831e8c873c89b98e833ea0bb0af200da468f9dfc21859bc9a8d",
+  "bounds_sha256": "132b418f7db77d4eb9fc7399010a65b41a6860af77457634365bf93028ed4e80",
+  "train_trials": 116,
+  "train_samples": 9396,
+  "bounds_source": "training only; no validation or test samples",
+  "edges": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      3,
+      8
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      11,
+      12
+    ],
+    [
+      11,
+      14
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      13,
+      14
+    ],
+    [
+      14,
+      15
+    ]
+  ]
+}

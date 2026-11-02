@@ -1,0 +1,119 @@
+{
+  "runtime": "C:\\khr-transfer-20261010\\.venv\\Scripts\\python.exe",
+  "tests": "9 passed",
+  "bundle_verification": "passed; 24 motions and source provenance",
+  "source_hash_checks": {
+    "export.py": true,
+    "experiment.py": true,
+    "capture.py": true,
+    "common.py": true,
+    "verify_bundle.py": true,
+    "analyze.py": true
+  },
+  "selected_trials": [
+    {
+      "trial_id": "w0.3_s10_r1_R1",
+      "condition": "R1",
+      "duration_s": 9.4,
+      "initial_degrees": [
+        0.0,
+        -17.761404026956825,
+        35.36589063255398,
+        -17.604486605597153,
+        -0.0,
+        0.0,
+        -17.761404026956825,
+        35.36589063255398,
+        -17.604486605597153,
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max_speed_rad_s": 0.596552052087379
+    },
+    {
+      "trial_id": "w0.3_s10_r1_R3",
+      "condition": "R3",
+      "duration_s": 9.5,
+      "initial_degrees": [
+        0.0,
+        -17.761404026956825,
+        35.36589063255398,
+        -17.604486605597153,
+        -0.0,
+        0.0,
+        -17.761404026956825,
+        35.36589063255398,
+        -17.604486605597153,
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max_speed_rad_s": 0.5326448068839418
+    },
+    {
+      "trial_id": "w0.3_s10_r1_R2",
+      "condition": "R2",
+      "duration_s": 9.5,
+      "initial_degrees": [
+        0.0,
+        -17.761404026956825,
+        35.36589063255398,
+        -17.604486605597153,
+        -0.0,
+        0.0,
+        -17.761404026956825,
+        35.36589063255398,
+        -17.604486605597153,
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max_speed_rad_s": 0.6048173750209968
+    },
+    {
+      "trial_id": "w0.3_s10_r1_Task-only",
+      "condition": "Task-only",
+      "duration_s": 12.1,
+      "initial_degrees": [
+        0.0,
+        -17.761404026956825,
+        35.36589063255398,
+        -17.604486605597153,
+        -0.0,
+        0.0,
+        -17.761404026956825,
+        35.36589063255398,
+        -17.604486605597153,
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max_speed_rad_s": 0.5403053516788353
+    }
+  ],
+  "robot_commands_sent": false,
+  "mapping_status": "unverified simulator-to-hardware correspondence; blocked in config",
+  "connection_report": "preflight_read_20261011.json",
+  "remaining": "RCB-4 connection/power and supported posture/direction verification; independent distance/time measurement"
+}

@@ -1,0 +1,27 @@
+{
+  "config_sha256": "bb232f24c41f20c2e6cfd53b384afb99aa13f6d738cec52fb3be4b92b9452bd9",
+  "manifest_sha256": "fbdf6477617a06e3fdd0a019821b09402874563f1ba272f739c4e47ad95edb89",
+  "recipes": {
+    "V_L1_LSD_RK_A7F0375": "2b9fd4265179a58a06fd26278d3ee588d76067849acdff29c87cbab8160c4d45",
+    "V_L1_LSD_RAP_A7F0375": "80746fd52e59896d1b2e6d762cea7b15a9f07caac6cf06b42949a04b807f779a",
+    "V_L1_LSD_RAR_A7F0375": "6100f2df28396841eed42519571cd66f2d48a3d9d7088e71e09e02549d4e440f",
+    "V_L2_LSD_RHP_RK_A7F0375_P045": "8285b4de39fdcfa33371ec9c734ea53b2baf7a3b3b26fbee4c646677c62510fd",
+    "V_L2_LSD_RK_RAP_A7F0375_P045": "24b0cfb2fde1e6921a9e1b06573ed563a05e78685b4f660c0c43fb2414611d29"
+  },
+  "code": {
+    "acquire.py": "77010983ba1ce74969bb328c2fd18c37a67e7332f619ff939270baf7d96b92da",
+    "analysis.py": "9882399c5155a0c77be9435a9c6e726bcfa670e11ef637fc7bcc4c438fd49066",
+    "calibration.py": "bfee40b5fadc36c82fa550eaaf72823caa016356c3293cfdc4f1f8d94dcb8434",
+    "core.py": "0cdbbf3708147b9083cf9890f524e475247a371f3a45ac385a80a60a3aded92d",
+    "design.py": "bdfc065288715ffd9d517617972fb6f1e234b3e285d79630f5c52b80c1d7c27e",
+    "experiment_cli.py": "fb08f8b72b96943c10bacfbba2f41b85789ee14d539992865d4f10b2deffbde5",
+    "export_regression_data.py": "5989e5ea8e2aea0ae49b7a26ed1c1f7c56185c67cb5142a6a48cc86c06ededa8",
+    "orientation.py": "2b87d4c3f285168ce554dca593afcf8080c1b6f305fd0500c38c610bafd65ed7",
+    "probe_connections.py": "e862f6457831310a466a600d1efaf2e9cb57153d7ec7c35f3d1b5012cddf315d",
+    "processing.py": "eb508527f4d99efc69bcc33f899cc2219128236b2f1e6d9ea0ac4edc8be44945",
+    "protocol.py": "4496700690712ce61dc08e194677110fda86db42e37b4ecd1343f6b29fb2da1b",
+    "test_experiment.py": "82cfd86a576bb84dac829174f9e4315341ccd579b2d5c01b715952b44556a4f0",
+    "test_pipeline.py": "8cb7119c793342470793aa3575eca6f8cb05195d099e64e7fc5b6c2f913089ee"
+  },
+  "excluded": []
+}

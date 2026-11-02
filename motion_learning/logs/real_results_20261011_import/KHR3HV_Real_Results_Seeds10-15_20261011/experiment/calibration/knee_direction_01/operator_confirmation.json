@@ -1,0 +1,7 @@
+{
+  "confirmed_utc": "2026-10-11T04:14:38.226512+00:00",
+  "source": "User answered はい to whether both knees bent normally and returned",
+  "left_knee_flexion_raw_sign": 1,
+  "right_knee_flexion_raw_sign": -1,
+  "scope": "Knee direction only; other simulator axes not confirmed"
+}

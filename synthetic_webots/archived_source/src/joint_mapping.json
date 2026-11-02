@@ -1,0 +1,124 @@
+{
+  "coordinate_note": "Anatomical simulation coordinates mapped to archived bent-leg/left-right hardware conventions. Inferred signs; independent hardware sign/zero calibration unverified. R1-R3 use absolute velocity/error and absolute error products, invariant to consistent per-joint sign flips.",
+  "joints": [
+    {
+      "name": "left_hip_roll",
+      "motor": "LeftFemurHead2",
+      "webots_sign": 1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "left_hip_pitch",
+      "motor": "LeftFemur",
+      "webots_sign": 1,
+      "power_sign": -1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "left_knee_pitch",
+      "motor": "LeftCrus",
+      "webots_sign": 1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "left_ankle_pitch",
+      "motor": "LeftAnkle",
+      "webots_sign": 1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "left_ankle_roll",
+      "motor": "LeftFoot",
+      "webots_sign": 1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "right_hip_roll",
+      "motor": "RightFemurHead2",
+      "webots_sign": -1,
+      "power_sign": -1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "right_hip_pitch",
+      "motor": "RightFemur",
+      "webots_sign": -1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "right_knee_pitch",
+      "motor": "RightCrus",
+      "webots_sign": -1,
+      "power_sign": -1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "right_ankle_pitch",
+      "motor": "RightAnkle",
+      "webots_sign": -1,
+      "power_sign": -1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "right_ankle_roll",
+      "motor": "RightFoot",
+      "webots_sign": -1,
+      "power_sign": -1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "left_shoulder_pitch",
+      "motor": "LeftShoulder",
+      "webots_sign": 1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "left_shoulder_roll",
+      "motor": "LeftArm",
+      "webots_sign": 1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "left_elbow_pitch",
+      "motor": "LeftForearm",
+      "webots_sign": 1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "right_shoulder_pitch",
+      "motor": "RightShoulder",
+      "webots_sign": 1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "right_shoulder_roll",
+      "motor": "RightArm",
+      "webots_sign": -1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "right_elbow_pitch",
+      "motor": "RightForearm",
+      "webots_sign": 1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    },
+    {
+      "name": "head_yaw",
+      "motor": "Head",
+      "webots_sign": 1,
+      "power_sign": 1,
+      "power_offset_rad": 0
+    }
+  ]
+}

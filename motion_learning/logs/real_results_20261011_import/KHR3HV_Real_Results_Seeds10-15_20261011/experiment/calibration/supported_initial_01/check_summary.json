@@ -1,0 +1,50 @@
+{
+  "feedback": [
+    {
+      "joint": "left_hip_pitch",
+      "ok": true,
+      "position": 8012,
+      "target": 8026,
+      "error_counts": -14
+    },
+    {
+      "joint": "left_knee_pitch",
+      "ok": true,
+      "position": 8556,
+      "target": 8548,
+      "error_counts": 8
+    },
+    {
+      "joint": "left_ankle_pitch",
+      "ok": true,
+      "position": 7001,
+      "target": 6978,
+      "error_counts": 23
+    },
+    {
+      "joint": "right_hip_pitch",
+      "ok": true,
+      "position": 6973,
+      "target": 6974,
+      "error_counts": -1
+    },
+    {
+      "joint": "right_knee_pitch",
+      "ok": true,
+      "position": 6450,
+      "target": 6452,
+      "error_counts": -2
+    },
+    {
+      "joint": "right_ankle_pitch",
+      "ok": true,
+      "position": 8015,
+      "target": 8022,
+      "error_counts": -7
+    }
+  ],
+  "power_samples": 86,
+  "max_current_A": 0.7819,
+  "min_voltage_V": 10.4862,
+  "visual_confirmation": "pending"
+}

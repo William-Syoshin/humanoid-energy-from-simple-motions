@@ -1,0 +1,24 @@
+{
+  "source_run": "/Users/yuchenzhou/Documents/Codex/2026-10-05/webots-khr-3hv-macbook-github-linux-2/outputs/webots_power_replication_20261012/runs/full_v2",
+  "source_analysis": "/Users/yuchenzhou/Documents/Codex/2026-10-05/webots-khr-3hv-macbook-github-linux-2/outputs/webots_power_replication_20261012/runs/full_v2/analysis",
+  "raw_trials": 1114,
+  "source_hash_match": true,
+  "reanalysis_for_manuscript": false,
+  "new_simulation_trials_for_manuscript": false,
+  "files": {
+    "mechanical_checks.csv": "f0fe3cb6963ed3a6f1a44a187293991faffac18be81273b623e8eb46498f0969",
+    "per_trial_metrics.csv": "9e3ac15a5b14c1f95f9afbccee14e7933196471dd6fc279b5fa225a1936ff97d",
+    "audit.json": "78fe57942b2618bfc237e4cf167eca58ebe56a3d60cbb020f350f5f35ea33cc7",
+    "experience_comparisons.csv": "0f6376c1097d248825c5e78ee366a054dfeab5c66e1fc18f63ca980a39c7b4f7",
+    "independent_readback.json": "520bc497ecee16d8e9fb1b379540e3df22e5475ff6444aae974b22684a79458d",
+    "trial_summary.csv": "5fdb10c7fd63301346ff325af22aef1f47e240889278407bd87f326d7e1a1854",
+    "paper_equation_audit.json": "c225c257d8eeb7dc2e734fab2adccb67bc6a567864799832967e35485622c47a",
+    "instrumentation_checks.json": "a156bd221091c8740fa77a7b5568fe43eea4c151702421e7ec723880ee6cbfab",
+    "model_summary.csv": "95d2055e68eab53518b2e009fff31bcacd862285f34c9ffa5d91efda3f8f27fc",
+    "subsets.json": "ff4df638a1d7ee1bd3139d0301b76a7e824d6876ccadaf7337393eb973ba3169",
+    "validation_selection.json": "450f68f6e15173af0697a9c0662862096a5cd7e477a9188ddbc748f20e8ae92a",
+    "inventory.json": "1d758921244c400f3862ffa4e5b2cf5791ff365f506cd41b9659f5284a1c2e8c",
+    "design.json": "7bf746ae325fead3244213d418fa4503b91c0bcd33a0fe46911a903785417c5b",
+    "completion.json": "9af8abe84f2d65fb0db476e7725bae76500ff9a1c3e66b3d2b626c57d41f7d37"
+  }
+}

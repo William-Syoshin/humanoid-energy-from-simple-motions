@@ -1,0 +1,17 @@
+{
+  "energy_J": 104.43758825214815,
+  "mean_power_W": 8.631205640690009,
+  "duration_s": 12.099999999976717,
+  "timing_uncertainty_s": 0.101,
+  "negative_power_samples": 0,
+  "condition": "Baseline",
+  "status": "complete",
+  "command_count": 605,
+  "commands_acknowledged": true,
+  "power_sample_count": 152,
+  "distance_m": null,
+  "commissioning": true,
+  "mapping_verified": false,
+  "physical_outcome": "not_individually_reported",
+  "source_dir": "C:\\khr-20cm-20261011\\KHR3HV_20cm_Transfer\\commissioning_raw\\Baseline_commissioning_01"
+}

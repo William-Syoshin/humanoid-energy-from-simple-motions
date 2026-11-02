@@ -1,0 +1,19 @@
+{
+  "name": "task_only-lambda0-seed12",
+  "condition": "task_only",
+  "weight": 0.0,
+  "seed": 12,
+  "status": "complete",
+  "started_utc": "2026-10-10T19:09:52.498140+00:00",
+  "wall_s": 1751.3323865829734,
+  "training": {
+    "status": "complete",
+    "timesteps": 100352,
+    "requested_timesteps": 100000,
+    "wall_s": 1664.7854245000053,
+    "actual_device": "cpu",
+    "condition": "task_only",
+    "seed": 12
+  },
+  "model_sha256": "94969b98d91ccfd31960c06ffc991d1a5f49a2878c315c5dab629ec50f194192"
+}

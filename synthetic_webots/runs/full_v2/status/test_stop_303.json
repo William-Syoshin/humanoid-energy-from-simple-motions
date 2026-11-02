@@ -1,0 +1,35 @@
+{
+  "spec": {
+    "split": "test",
+    "id": "stop_303",
+    "action": "stop",
+    "context": "whole-body",
+    "duration": 6.0,
+    "seed": 303,
+    "level": null,
+    "joints": [],
+    "amplitude": 0.2,
+    "frequency": 0.3,
+    "offset": 0.15,
+    "phase": 1.5707963267948966
+  },
+  "samples": 600,
+  "duration": 6.0,
+  "final_height": 0.3336831430552987,
+  "final_h": 4.7959973437095016e-08,
+  "forward_m": 0.05564307707057681,
+  "yaw_change": -0.00531017266530764,
+  "object_displacement": 2.5905559563667716e-18,
+  "max_tau": 1.3730105152552181,
+  "contact_mean": [
+    16.683159918238978,
+    5.551524030296594,
+    0.0,
+    0.0,
+    8.140701352971972,
+    8.542458565267003,
+    3.87
+  ],
+  "sha256": "195cbba32be0f1a9004b21efa0c6a26b7f03a1396d63169dc40e6f1ed8726e2a",
+  "completed": 1791740865.873325
+}

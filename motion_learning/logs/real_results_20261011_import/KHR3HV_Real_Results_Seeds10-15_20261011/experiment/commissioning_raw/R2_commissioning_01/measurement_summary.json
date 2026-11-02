@@ -1,0 +1,17 @@
+{
+  "energy_J": 86.79116815267837,
+  "mean_power_W": 9.13591243712404,
+  "duration_s": 9.5,
+  "timing_uncertainty_s": 0.101,
+  "negative_power_samples": 0,
+  "condition": "R2",
+  "status": "complete",
+  "command_count": 475,
+  "commands_acknowledged": true,
+  "power_sample_count": 126,
+  "distance_m": null,
+  "commissioning": true,
+  "mapping_verified": false,
+  "physical_outcome": "not_individually_reported",
+  "source_dir": "C:\\khr-20cm-20261011\\KHR3HV_20cm_Transfer\\commissioning_raw\\R2_commissioning_01"
+}

@@ -1,0 +1,4 @@
+condition,n_pairs,energy_reduction_ratio_of_means_pct,mean_paired_energy_reduction_pct,power_change_ratio_of_means_pct,lower_energy_seeds,lower_mean_power_seeds
+R1,6,19.601464678706616,18.19038082072887,3.2524990279006127,5,0
+R2,6,20.385938988286213,19.361418945782166,2.965193384451603,6,2
+R3,6,20.951586199107773,19.621291712962467,2.608729686723721,5,1

@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "timesteps": 100352,
+  "requested_timesteps": 100000,
+  "wall_s": 2152.8946077920264,
+  "actual_device": "cpu",
+  "condition": "R1",
+  "seed": 15
+}

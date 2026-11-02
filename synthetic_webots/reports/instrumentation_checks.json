@@ -1,0 +1,15 @@
+{
+  "basis_dimensions": [
+    52,
+    72,
+    77,
+    84
+  ],
+  "oracle_dominant_basis_max_error_W": 1.4210854715202004e-14,
+  "standing_normal_force_N": 16.677000169289965,
+  "expected_weight_N": 16.677,
+  "free_contact_max": 0.0,
+  "free_min_height_m": 0.9991609749482686,
+  "joint_pair_count": 20,
+  "passed": true
+}

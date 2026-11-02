@@ -1,0 +1,170 @@
+{
+  "schema": "khr-transfer-plan-v1",
+  "created_utc": "2026-10-11T04:47:59.855050+00:00",
+  "training_seeds": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "target_distance_m": 0.2,
+  "task": "20cm_distance_goal",
+  "order_seed": 20261011,
+  "manifest_sha256": "51c460f59d1942766d7e4007c77cc11f35b1d08ccb6d9ba8f25637af1e8464d4",
+  "repeats": 1,
+  "weights": [
+    0.3
+  ],
+  "trials": [
+    {
+      "trial_id": "R1_seed12_01",
+      "condition": "R1",
+      "weight": 0.3,
+      "training_seed": 12,
+      "repeat": 1,
+      "motion": "motions/R1_lambda0.3_seed12.json",
+      "motion_sha256": "2ecb2be3175676aebdd68e63f97760ea378b8a9f164676037dfaa0ece4d97905"
+    },
+    {
+      "trial_id": "R3_seed12_01",
+      "condition": "R3",
+      "weight": 0.3,
+      "training_seed": 12,
+      "repeat": 1,
+      "motion": "motions/R3_lambda0.3_seed12.json",
+      "motion_sha256": "853c553e8a277009886cbf629a0abce765fae764ad54bb6e9c717bcd599db7b0"
+    },
+    {
+      "trial_id": "R2_seed12_01",
+      "condition": "R2",
+      "weight": 0.3,
+      "training_seed": 12,
+      "repeat": 1,
+      "motion": "motions/R2_lambda0.3_seed12.json",
+      "motion_sha256": "9b858219bd0938dd7d59d7f5d33cdeb3ead8ec41af5e317e4b16c8c45e041030"
+    },
+    {
+      "trial_id": "Baseline_seed12_01",
+      "condition": "Task-only",
+      "weight": 0.0,
+      "training_seed": 12,
+      "repeat": 1,
+      "motion": "motions/Task-only_lambda0_seed12.json",
+      "motion_sha256": "8a95fa993c626aad34e1dd39870b276c05b04819baf6649ab966db494c0916a6"
+    },
+    {
+      "trial_id": "R1_seed13_01",
+      "condition": "R1",
+      "weight": 0.3,
+      "training_seed": 13,
+      "repeat": 1,
+      "motion": "motions/R1_lambda0.3_seed13.json",
+      "motion_sha256": "36a693901d02517e2e31983a0b564879bfc989f109eb6d73beec9a2a34712a87"
+    },
+    {
+      "trial_id": "R3_seed13_01",
+      "condition": "R3",
+      "weight": 0.3,
+      "training_seed": 13,
+      "repeat": 1,
+      "motion": "motions/R3_lambda0.3_seed13.json",
+      "motion_sha256": "0ba3239d17f8c15c24c91617c67b4db49281a378c935b24f275e44d635d26c4c"
+    },
+    {
+      "trial_id": "R2_seed13_01",
+      "condition": "R2",
+      "weight": 0.3,
+      "training_seed": 13,
+      "repeat": 1,
+      "motion": "motions/R2_lambda0.3_seed13.json",
+      "motion_sha256": "7cc35fc41f657c8e9e463dedc349f8d32022c45546933a69d5fe2c7a9c234b6e"
+    },
+    {
+      "trial_id": "Baseline_seed13_01",
+      "condition": "Task-only",
+      "weight": 0.0,
+      "training_seed": 13,
+      "repeat": 1,
+      "motion": "motions/Task-only_lambda0_seed13.json",
+      "motion_sha256": "22bd5e565d23bb504d17f534e22c77c3c789c4544b67e3330e07bfde8e07072f"
+    },
+    {
+      "trial_id": "R1_seed14_01",
+      "condition": "R1",
+      "weight": 0.3,
+      "training_seed": 14,
+      "repeat": 1,
+      "motion": "motions/R1_lambda0.3_seed14.json",
+      "motion_sha256": "887ec894ca04f8a379ef7e7cb5f7b22af66c62eeb68b3c0f4cb60caaf1dd1e9f"
+    },
+    {
+      "trial_id": "R3_seed14_01",
+      "condition": "R3",
+      "weight": 0.3,
+      "training_seed": 14,
+      "repeat": 1,
+      "motion": "motions/R3_lambda0.3_seed14.json",
+      "motion_sha256": "104842a13b0cabd5ed18def80434779ada7b88796bbc1e1eb44306e27ffbd2a9"
+    },
+    {
+      "trial_id": "R2_seed14_01",
+      "condition": "R2",
+      "weight": 0.3,
+      "training_seed": 14,
+      "repeat": 1,
+      "motion": "motions/R2_lambda0.3_seed14.json",
+      "motion_sha256": "a44cd73fde24b4d472ea2277da2f1d155849ee72d2359081df03afdb4b1eb3fe"
+    },
+    {
+      "trial_id": "Baseline_seed14_01",
+      "condition": "Task-only",
+      "weight": 0.0,
+      "training_seed": 14,
+      "repeat": 1,
+      "motion": "motions/Task-only_lambda0_seed14.json",
+      "motion_sha256": "11730fada0e2a76ddf79a70795f27b203007614f1571a42498ae462de7045919"
+    },
+    {
+      "trial_id": "R1_seed15_01",
+      "condition": "R1",
+      "weight": 0.3,
+      "training_seed": 15,
+      "repeat": 1,
+      "motion": "motions/R1_lambda0.3_seed15.json",
+      "motion_sha256": "1277cce2096620b473018c2f4cfb48a089ec3d97e8ac0f87051190b5f6ede1ce"
+    },
+    {
+      "trial_id": "R3_seed15_01",
+      "condition": "R3",
+      "weight": 0.3,
+      "training_seed": 15,
+      "repeat": 1,
+      "motion": "motions/R3_lambda0.3_seed15.json",
+      "motion_sha256": "06a14a3c3890ee04f037a1818c50dae7f92110a3f31384ffc76a1e1b7abb792e"
+    },
+    {
+      "trial_id": "R2_seed15_01",
+      "condition": "R2",
+      "weight": 0.3,
+      "training_seed": 15,
+      "repeat": 1,
+      "motion": "motions/R2_lambda0.3_seed15.json",
+      "motion_sha256": "fe93c5ac92bb201eb2663903a0fc9d7187b08a0eee0a323db044507636ac782d"
+    },
+    {
+      "trial_id": "Baseline_seed15_01",
+      "condition": "Task-only",
+      "weight": 0.0,
+      "training_seed": 15,
+      "repeat": 1,
+      "motion": "motions/Task-only_lambda0_seed15.json",
+      "motion_sha256": "44f2c6bb40ed4a26cde3bdeedc28604f8ee2d4a4f51c32e844b89be7fb00dc4e"
+    }
+  ],
+  "comparison": "R1/R2/R3 vs one shared Task-only; repeats nested within training seed",
+  "policy": "Keep every attempted trial and annotate failure. No automatic replacement, no fabricated significance brackets.",
+  "scope_note": "User requested seeds12-15: each of four conditions once per seed, 16 total.",
+  "source_plan_sha256": "193185f5d186ae76d053f234ce17f51811c3879ed8212eb4acc5f0f8eb4b53b7",
+  "purpose": "Operator-attended commissioning only; does not replace formal four-condition plan",
+  "distance_reporting": "Unmeasured per user request"
+}

@@ -1,0 +1,13 @@
+{
+  "recorded_utc": "2026-10-11T04:39:59.399705+00:00",
+  "operator_statement": "これ今回の同様の実験をべつのseed値についても自動でやってよ",
+  "selected_seed": 11,
+  "repeats": 1,
+  "conditions": [
+    "R1",
+    "R3",
+    "R2",
+    "Baseline"
+  ],
+  "distance_m": null
+}

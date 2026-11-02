@@ -1,0 +1,35 @@
+{
+  "spec": {
+    "split": "test",
+    "id": "lie_down_202",
+    "action": "lie_down",
+    "context": "whole-body",
+    "duration": 9.0,
+    "seed": 202,
+    "level": null,
+    "joints": [],
+    "amplitude": 0.2,
+    "frequency": 0.6,
+    "offset": 0.0,
+    "phase": 1.5707963267948966
+  },
+  "samples": 900,
+  "duration": 9.0,
+  "final_height": 0.33967417410435197,
+  "final_h": 8.240998093933527e-07,
+  "forward_m": -1.8105699950331233e-05,
+  "yaw_change": -0.0033084091041680475,
+  "object_displacement": 3.864414132572995e-18,
+  "max_tau": 1.3728976097806649,
+  "contact_mean": [
+    16.575919620822482,
+    1.3586650792638282,
+    0.0,
+    0.0,
+    8.305777749637386,
+    8.270141871185078,
+    7.688888888888889
+  ],
+  "sha256": "d32ae1c198dfe0f84e6cc7aeb5480d0d80736092e19a890423246c3128a6fe0a",
+  "completed": 1791740854.317791
+}

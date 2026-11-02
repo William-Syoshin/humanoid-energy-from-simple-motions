@@ -1,0 +1,29 @@
+{
+  "script_sha256": "a5dede36785d5861ea4b9f1168dbe1cc56ef70af657571451901104276c7b4ab",
+  "mandatory": "One L1 trial per joint plus one L0 hold per posture (20 trials); remaining trials uniformly sampled without replacement.",
+  "exploratory": true,
+  "selection_uses_test_power": false,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "seed_offset": 20260928
+}

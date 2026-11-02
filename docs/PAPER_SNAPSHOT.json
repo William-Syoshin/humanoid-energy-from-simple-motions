@@ -1,0 +1,13 @@
+{
+  "title": "Predicting Whole-Body Electrical Energy from Simple Motor Experiences",
+  "manuscript_filename": "Humanoid_Energy_Revised_20261102_v4_code_availability.pdf",
+  "manuscript_sha256": "e8ca5ae3e37d54b7c4d04237938d949397972e200d8d06e81ecc2102de08eaf2",
+  "manuscript_included": false,
+  "reason": "Research artifact package; the branded manuscript is kept separately",
+  "snapshot_date": "2026-11-02",
+  "previous_snapshot": {
+    "manuscript_filename": "Humanoid_Energy_Revised_20261101_v7_intro_clean.pdf",
+    "manuscript_sha256": "099f054b1947ab377b17b746f292cdc8732595b1b94bd9f5bdd13ad2ab48a9b1"
+  },
+  "update_note": "Language review, restored Related Work, hidden counts and a code-availability paragraph; numerical results and figure artwork unchanged. GitHub upload is pending."
+}

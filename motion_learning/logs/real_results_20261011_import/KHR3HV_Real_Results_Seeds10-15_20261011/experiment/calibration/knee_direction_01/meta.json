@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "purpose": "supported physical knee-direction check, not a walking trial",
+  "created_utc": "2026-10-11T04:08:23.227189+00:00",
+  "targets": [
+    {
+      "id": 8,
+      "sio": 1,
+      "delta_counts": 148
+    },
+    {
+      "id": 8,
+      "sio": 2,
+      "delta_counts": -148
+    }
+  ],
+  "basis": "Opposite raw knee signs in archived physical squat pose_20260915_065552_post_trim_squat_target.json",
+  "visual_confirmation": "pending",
+  "start_positions": [
+    7504,
+    7488
+  ],
+  "original_rcb_config": 33435,
+  "returned_to_start_targets": true,
+  "power_reader_errors": []
+}

@@ -1,0 +1,62 @@
+{
+  "purpose": "English localization and reviewer navigation; original scientific data and existing source unchanged",
+  "changes": [
+    {
+      "path": "README.md",
+      "status": "documentation_or_snapshot_metadata_updated",
+      "old_sha256": "a334e9979cdaff5c1f7c3e5cd48d5cad840aac7ff57e7832d52c2ef49c8d78fb",
+      "new_sha256": "9fd463a8a8038811e245246859990e0031e58d89acbf7ad064f9d08bff9e182d"
+    },
+    {
+      "path": "docs/PAPER_SNAPSHOT.json",
+      "status": "documentation_or_snapshot_metadata_updated",
+      "old_sha256": "f9f63338bb60f2874bd007a1939d4f6200381cc5026fad0b1fefaeaa9a8666fd",
+      "new_sha256": "c0188298c0fd71cd96f385fad4c694b2dfc6c58c2df105c42ab7060c8713bdf3"
+    },
+    {
+      "path": "docs/RELEASE_JA.md",
+      "status": "renamed_or_replaced_by_English_document",
+      "old_sha256": "871157743d931c25f14208f17c852038f8d2f10bb2a6909ef8940ea07f4e18b9"
+    },
+    {
+      "path": "hardware_prediction/hardware_experiment/regression_results/ridge_20260915_143619/RESULTS_JA.md",
+      "status": "renamed_or_replaced_by_English_document",
+      "old_sha256": "1c7b0a829a924674f9ec27f6afc08286389d106308225465e351c3daf2c58bd0"
+    },
+    {
+      "path": "hardware_prediction/manuscript/frontiers_20261023/analysis/integration_windows_20261101/RESULTS_JA.txt",
+      "status": "renamed_or_replaced_by_English_document",
+      "old_sha256": "35a3dcd8608716cc50d81bb9ab21925751bf174f7451086bed68d72b74d8ca16"
+    },
+    {
+      "path": "motion_learning/docs/DISTANCE_GOAL_EXPERIMENT.md",
+      "status": "documentation_or_snapshot_metadata_updated",
+      "old_sha256": "2ba02939d34fe14daa7ea2fcd2580b94dc0dd95250ee8927ea02944a788a2460",
+      "new_sha256": "da16825bcb81662fc00b9c2d791ce308dfa6aba2b7ce1749143344c090ad2870"
+    },
+    {
+      "path": "motion_learning/docs/distance_goal_20261011_RESULTS.md",
+      "status": "documentation_or_snapshot_metadata_updated",
+      "old_sha256": "c287afc74d74c30c98ad2e4210278a42a8d7fa17db90d1d1b07a73523cef895a",
+      "new_sha256": "c1f031fc5454c4b037f1d4a93bc32b058a4cfaad4fcb28da7f5f62b9a637a934"
+    },
+    {
+      "path": "motion_learning/hardware_transfer_distance/README_JA.md",
+      "status": "renamed_or_replaced_by_English_document",
+      "old_sha256": "488b1d53ba8a0e8494f0fa006c7f3abafe309e5007c8d1220e97b940ecaeed54"
+    },
+    {
+      "path": "motion_learning/hardware_transfer_distance/WINDOWS_HANDOFF_JA.txt",
+      "status": "renamed_or_replaced_by_English_document",
+      "old_sha256": "7d2b6f1e4f1f982b4cc18ba1f7b66368c2167b550693b1f0fecbd0b8e93352e5"
+    },
+    {
+      "path": "motion_learning/hardware_transfer_distance/provenance/SIMULATION_RESULTS_JA.md",
+      "status": "renamed_or_replaced_by_English_document",
+      "old_sha256": "c287afc74d74c30c98ad2e4210278a42a8d7fa17db90d1d1b07a73523cef895a"
+    }
+  ],
+  "unchanged_original_files": 5851,
+  "original_checksums_sha256": "17e4d1d3481cb4bd5e8914e1271180c26e149d9fa56f5c934624e4a61a7d9abe",
+  "old_unprotected_documents_backed_up_outside_public_folder": true
+}

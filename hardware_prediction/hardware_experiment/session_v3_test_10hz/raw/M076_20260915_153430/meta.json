@@ -1,0 +1,17 @@
+{
+  "trial_id": "M076_20260915_153430",
+  "motion": 76,
+  "status": "complete",
+  "support": "changing_crawl_contacts",
+  "command_source": "RCB device position register offset 6; interpolation semantics unverified",
+  "model_fit_used": false,
+  "stop_policy": "Native single-shot completion; final pose matches M078",
+  "initial_config": 33427,
+  "startup_buffer_bytes_discarded": 500,
+  "power_buffer_reset_pc_s": 489509.3598272,
+  "start_request_s": 489511.3914771,
+  "start_ack_s": 489511.4041088,
+  "motion_end_observed_s": 489529.6924876,
+  "score_end_s": 489531.6924876,
+  "score_start_s": 489511.4041088
+}

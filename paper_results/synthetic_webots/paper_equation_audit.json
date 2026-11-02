@@ -1,0 +1,220 @@
+{
+  "paper_section": "III: synthetic simulation benchmark",
+  "trials_checked": 21,
+  "all_passed": true,
+  "checks": [
+    {
+      "trial": "test_get_up_101",
+      "max_power_equation_difference_W": 7.105427357601002e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_get_up_202",
+      "max_power_equation_difference_W": 1.4210854715202004e-14,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_get_up_303",
+      "max_power_equation_difference_W": 1.4210854715202004e-14,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_lie_down_101",
+      "max_power_equation_difference_W": 5.329070518200751e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_lie_down_202",
+      "max_power_equation_difference_W": 3.552713678800501e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_lie_down_303",
+      "max_power_equation_difference_W": 5.329070518200751e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_push_box_101",
+      "max_power_equation_difference_W": 3.552713678800501e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_push_box_202",
+      "max_power_equation_difference_W": 3.552713678800501e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_push_box_303",
+      "max_power_equation_difference_W": 5.329070518200751e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_stop_101",
+      "max_power_equation_difference_W": 5.329070518200751e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_stop_202",
+      "max_power_equation_difference_W": 5.329070518200751e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_stop_303",
+      "max_power_equation_difference_W": 7.105427357601002e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_turn_180_101",
+      "max_power_equation_difference_W": 1.0658141036401503e-14,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_turn_180_202",
+      "max_power_equation_difference_W": 1.0658141036401503e-14,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_turn_180_303",
+      "max_power_equation_difference_W": 1.0658141036401503e-14,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_turn_90_101",
+      "max_power_equation_difference_W": 1.0658141036401503e-14,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_turn_90_202",
+      "max_power_equation_difference_W": 1.0658141036401503e-14,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_turn_90_303",
+      "max_power_equation_difference_W": 1.0658141036401503e-14,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_walk_101",
+      "max_power_equation_difference_W": 5.329070518200751e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_walk_202",
+      "max_power_equation_difference_W": 5.329070518200751e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    },
+    {
+      "trial": "test_walk_303",
+      "max_power_equation_difference_W": 7.105427357601002e-15,
+      "dimensions": [
+        52,
+        72,
+        77,
+        84
+      ]
+    }
+  ],
+  "scope": "Checks algebra against the paper using reconstructed coefficient draws and joint graph. Does not verify original MuJoCo coefficient realization or dynamics.",
+  "temperature_integration": "10 ms forward Euler",
+  "original_mujoco_code_available": false
+}

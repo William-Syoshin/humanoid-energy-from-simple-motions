@@ -1,0 +1,221 @@
+{
+  "robot_port": "COM3",
+  "robot_baud": 1250000,
+  "power_port": "COM4",
+  "power_baud": 115200,
+  "mapping_verified": false,
+  "mixing_off_verified": false,
+  "servo_frame": 1,
+  "max_current_A": null,
+  "min_voltage_V": null,
+  "max_initial_error_rad": null,
+  "max_command_lateness_s": 0.015,
+  "power_stale_s": 0.5,
+  "max_power_gap_s": 0.3,
+  "pre_s": 2.0,
+  "post_s": 1.0,
+  "power_timestamp_contract": "legacy_receive",
+  "power_calibration": {
+    "verified": false,
+    "voltage_gain": null,
+    "voltage_offset": null,
+    "current_gain": null,
+    "current_offset": null,
+    "notes": "Record reference meter/calibration evidence"
+  },
+  "timing": {
+    "verified": false,
+    "receive_latency_s": null,
+    "uncertainty_s": null,
+    "notes": "Measure serial acquisition latency; legacy firmware may repeat stale readings"
+  },
+  "joints": [
+    {
+      "name": "left_hip_roll",
+      "id": 6,
+      "sio": 1,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "left_hip_pitch",
+      "id": 7,
+      "sio": 1,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "left_knee_pitch",
+      "id": 8,
+      "sio": 1,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "left_ankle_pitch",
+      "id": 9,
+      "sio": 1,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "left_ankle_roll",
+      "id": 10,
+      "sio": 1,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "right_hip_roll",
+      "id": 6,
+      "sio": 2,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "right_hip_pitch",
+      "id": 7,
+      "sio": 2,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "right_knee_pitch",
+      "id": 8,
+      "sio": 2,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "right_ankle_pitch",
+      "id": 9,
+      "sio": 2,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "right_ankle_roll",
+      "id": 10,
+      "sio": 2,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "left_shoulder_pitch",
+      "id": 1,
+      "sio": 1,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "left_shoulder_roll",
+      "id": 2,
+      "sio": 1,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "left_elbow_pitch",
+      "id": 4,
+      "sio": 1,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "right_shoulder_pitch",
+      "id": 1,
+      "sio": 2,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "right_shoulder_roll",
+      "id": 2,
+      "sio": 2,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "right_elbow_pitch",
+      "id": 4,
+      "sio": 2,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    },
+    {
+      "name": "head_yaw",
+      "id": 0,
+      "sio": 1,
+      "zero_pos": null,
+      "sign": null,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": null,
+      "max_rad": null,
+      "max_speed_rad_s": null
+    }
+  ]
+}
