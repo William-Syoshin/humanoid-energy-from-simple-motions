@@ -1,0 +1,18 @@
+% Supplementary draft; not inserted into the existing manuscript.
+\subsection{Reconstructed Webots benchmark}
+To examine whether the synthetic identification result transfers to another simulator, we reconstructed the benchmark in Webots R2025a. The archived catalogue determined the split, category, context, and duration of 1,000 identification trials, 90 validation trials, 21 non-static test trials, and three standing controls. Physics used a 2 ms step, with 100 Hz commands and observations and 25 Hz fitting. The electrical reference retained the published functional form and coefficient ranges. Ridge regularization was selected exclusively by validation power RMSE.
+
+This reconstruction did not have access to the original MuJoCo model, trajectory generator, coefficient realization, or state traces. Consequently, the Webots robot geometry, command recipes, coefficient draw order, and contact implementation were explicitly redefined. The comparison is descriptive and does not isolate a change of physics engine.
+
+\begin{table}[t]\centering
+\caption{Mean absolute relative energy error on all 21 commanded test trajectories. MuJoCo values are archived; Webots values are newly collected under the reconstructed protocol. Mechanical completion is assessed separately.}
+\begin{tabular}{lrr}\hline
+Model & MuJoCo (\%) & Webots (\%)\\\hline
+M1 & 11.780 & 14.974\\
+M2 & 10.579 & 12.284\\
+M3 & 2.532 & 2.204\\
+M4 & 0.165 & 0.342\\
+M5 & 5.552 & 2.344\\
+\hline\end{tabular}\end{table}
+
+Mechanical endpoint checks were satisfied by 9 of the 21 commanded trajectories. All trajectories, including unsuccessful commands, were retained for prediction evaluation. These results therefore do not establish reproduction of all successful whole-body behaviors in the original study. The reconstructed two-trial selection failed (mean energy error approximately 2498\%). Both benchmarks evaluate prediction against a synthetic electrical reference rather than measured hardware power.

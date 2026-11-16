@@ -1,0 +1,81 @@
+{
+  "checked_utc": "2026-11-01T15:55:50.615229+00:00",
+  "checks": {
+    "hardware": {
+      "passed": true,
+      "train": 116,
+      "validation": 23,
+      "held_out_motions": 9,
+      "refit_max_differences": {
+        "R0_scale": 0.0,
+        "R0_coef": 0.0,
+        "R1_scale": 0.0,
+        "R1_coef": 4.1278508389197555e-12,
+        "R2_scale": 0.0,
+        "R2_coef": 6.560141319056356e-12,
+        "R3_scale": 0.0,
+        "R3_coef": 3.636504430915011e-10
+      },
+      "max_prediction_difference_W": 6.039613253960852e-14,
+      "mean_energy_error_pct": {
+        "R0": 10.522898339579099,
+        "R1": 5.443018743706797,
+        "R2": 3.550783607325003,
+        "R3": 2.5907131784346764
+      },
+      "validation_selected_model": "R2",
+      "raw_test_signals_reconstructed": true
+    },
+    "coverage": {
+      "passed": true,
+      "all_saved_subsets_and_metrics_match": true,
+      "seeds": 20,
+      "design": "retrospective; validation-only hyperparameter selection"
+    },
+    "windows": {
+      "passed": true,
+      "all_window_summaries_match": true,
+      "intervals_s": [
+        2,
+        5,
+        10
+      ]
+    },
+    "rl": {
+      "passed": true,
+      "training_runs": 24,
+      "evaluation_episodes": 240,
+      "maximum_energy_difference_J": 9.947598300641403e-14,
+      "all_pairwise_statistics_match": true,
+      "primary_criterion_passed": {
+        "R1": false,
+        "R2": false,
+        "R3": false
+      },
+      "ppo_retraining_performed": false
+    },
+    "replay": {
+      "passed": true,
+      "physical_recordings": 24,
+      "all_summary_values_match": true,
+      "maximum_reintegration_difference_J": 0,
+      "physical_distance_measured": false
+    },
+    "synthetic": {
+      "passed": true,
+      "train": 1000,
+      "validation": 90,
+      "test": 21,
+      "separate_controls": 3,
+      "all_refitted_metrics_match": true,
+      "webots_rerun_performed": false,
+      "power_targets": "synthetic"
+    },
+    "figures": {
+      "passed": true,
+      "recreated": "numeric panels for Figs. 4, 5, 6, 7, and 10; same saved statistics, portable typography"
+    }
+  },
+  "all_passed": true,
+  "scope": "offline reanalysis and refitting; no new PPO training, simulator rollout or physical acquisition"
+}

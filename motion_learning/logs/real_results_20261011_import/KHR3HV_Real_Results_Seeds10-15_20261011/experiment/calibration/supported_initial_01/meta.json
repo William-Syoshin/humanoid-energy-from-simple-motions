@@ -1,0 +1,57 @@
+{
+  "status": "complete",
+  "purpose": "supported six-pitch-joint start pose check, not a walking trial",
+  "created_utc": "2026-10-11T04:14:43.152789+00:00",
+  "targets": [
+    {
+      "name": "left_hip_pitch",
+      "id": 7,
+      "sio": 1,
+      "absolute_position": 8026
+    },
+    {
+      "name": "left_knee_pitch",
+      "id": 8,
+      "sio": 1,
+      "absolute_position": 8548
+    },
+    {
+      "name": "left_ankle_pitch",
+      "id": 9,
+      "sio": 1,
+      "absolute_position": 6978
+    },
+    {
+      "name": "right_hip_pitch",
+      "id": 7,
+      "sio": 2,
+      "absolute_position": 6974
+    },
+    {
+      "name": "right_knee_pitch",
+      "id": 8,
+      "sio": 2,
+      "absolute_position": 6452
+    },
+    {
+      "name": "right_ankle_pitch",
+      "id": 9,
+      "sio": 2,
+      "absolute_position": 8022
+    }
+  ],
+  "basis": "Opposite raw knee signs in archived physical squat pose_20260915_065552_post_trim_squat_target.json",
+  "visual_confirmation": "pending",
+  "start_positions": [
+    7490,
+    7514,
+    7510,
+    7496,
+    7479,
+    7499
+  ],
+  "original_rcb_config": 33433,
+  "returned_to_start_targets": false,
+  "endpoint_behavior": "hold supported initial targets",
+  "power_reader_errors": []
+}

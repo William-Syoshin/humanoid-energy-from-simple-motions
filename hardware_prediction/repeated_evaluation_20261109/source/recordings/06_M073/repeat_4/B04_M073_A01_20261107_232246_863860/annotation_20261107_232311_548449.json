@@ -1,0 +1,11 @@
+{
+  "time_utc": "2026-11-07T14:23:11.548449+00:00",
+  "outcome": "not_reported",
+  "observer": "",
+  "video": "",
+  "notes": "No post-trial input requested. Mechanical outcome was not entered.",
+  "source": "automatic_acquisition_status",
+  "acquisition_status": "complete",
+  "mechanical_outcome_confirmed": false,
+  "interrupted": false
+}

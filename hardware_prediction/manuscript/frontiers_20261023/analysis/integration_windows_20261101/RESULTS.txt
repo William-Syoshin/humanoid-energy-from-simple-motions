@@ -1,0 +1,36 @@
+Energy prediction errors over 2-, 5-, and 10-second integration windows (2026-11-01)
+
+Scope: the existing nine unseen motions, using saved R0-R3 predictions at 10 Hz.
+No refitting, prediction clipping, or additional smoothing is applied.
+Complete non-overlapping windows start at each original evaluation interval's beginning. Trapezoidal integration uses linear interpolation at window boundaries. Settling is retained where included in the original interval; incomplete tails are excluded.
+Window error = 100 * abs(predicted_J - measured_J) / measured_J.
+Errors are averaged within each motion, then equally across nine motions. Windows are not independent experimental repetitions.
+
+Mean absolute relative energy error (%)
+Interval, R0, R1, R2, R3
+2 s, 11.98, 6.12, 5.76, 5.29
+5 s, 11.38, 5.84, 4.71, 4.33
+10 s, 10.67, 6.02, 4.71, 3.72
+Full movement, 10.52, 5.44, 3.55, 2.59
+
+Interpretation:
+- R3 has the lowest mean at each length, but does not improve every motion or window.
+- R3's error is 2.59% for complete movements versus 5.29% for 2 s windows. Over- and underprediction can cancel in a full integral.
+- Supine get-up: R3 full-movement error 0.90%; mean 2 s error 10.54%; maximum 36.32%. Full energy error does not guarantee peak or local accuracy.
+- R2/R3 are worse than R0 for Cheer. R1 has lower error than R2/R3 for Crawl. The aggregate ranking is not universal.
+- Different window lengths exclude different tails. Differences cannot be attributed solely to integration duration.
+- Each motion has one recording. This retrospective analysis was designed after examining the existing tests and is not independent confirmation.
+
+Coverage:
+2 s: 135 windows; 270 of 275 s retained; 5 s excluded.
+5 s: 52 windows; 260 of 275 s retained; 15 s excluded.
+10 s: 24 windows; 240 of 275 s retained; 35 s excluded.
+
+Start-position sensitivity: complete overlapping windows with starts every 0.1 s give the same aggregate ranking. They are not independent samples.
+2 s (R0/R1/R2/R3): 11.96%, 6.20%, 6.03%, 5.56%.
+5 s: 11.50%, 5.92%, 5.08%, 4.56%.
+10 s: 11.43%, 6.01%, 4.86%, 3.99%.
+
+Verification reproduced all nine full-movement integrals for all four models. Two integration implementations differed by at most 8.4e-13 J. Source SHA-256 values are recorded.
+Files: protocol.json (fixed before computation), windows.csv, per_motion.csv, summary.csv, coverage.csv, full_motion.csv, audit.json.
+The separate integration-window figure is supporting material; the manuscript retains ten figures.

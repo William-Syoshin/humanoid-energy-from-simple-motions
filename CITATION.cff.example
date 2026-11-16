@@ -1,0 +1,14 @@
+# Template: replace author placeholders and URL, then rename to CITATION.cff.
+# Do not cite an invented DOI. Add the version DOI after Zenodo creates it.
+cff-version: 1.2.0
+message: "Please cite the paper and this version of the accompanying research artifact."
+type: software
+title: "Predicting Whole-Body Electrical Energy from Simple Motor Experiences: Research Artifacts"
+authors:
+  - family-names: "REPLACE_WITH_AUTHOR_SURNAME"
+    given-names: "REPLACE_WITH_AUTHOR_GIVEN_NAMES"
+version: "1.0.0"
+date-released: "2026-11-02"
+repository-code: "https://github.com/OWNER/REPOSITORY"
+# license: REPLACE_WITH_APPROVED_SPDX_IDENTIFIER
+# doi: ADD_ACTUAL_VERSION_DOI_AFTER_ARCHIVING

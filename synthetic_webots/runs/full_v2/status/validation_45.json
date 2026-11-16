@@ -1,0 +1,37 @@
+{
+  "spec": {
+    "split": "validation",
+    "id": "45",
+    "action": "L1",
+    "context": "standing",
+    "duration": 4.0,
+    "seed": 200455,
+    "level": 1,
+    "joints": [
+      4
+    ],
+    "amplitude": 0.2,
+    "frequency": 1.0,
+    "offset": 0.15,
+    "phase": 3.141592653589793
+  },
+  "samples": 400,
+  "duration": 4.0,
+  "final_height": 0.3342467676938135,
+  "final_h": 0.00010716455968351468,
+  "forward_m": -2.3669983159432806e-05,
+  "yaw_change": 5.0730331898977184e-05,
+  "object_displacement": 1.134510481823722e-18,
+  "max_tau": 1.373359224454804,
+  "contact_mean": [
+    16.592445355597203,
+    3.864760483416482,
+    0.0,
+    0.0,
+    13.611741527101797,
+    2.980703828495408,
+    2.6275
+  ],
+  "sha256": "8fcc92e663aa1a668e6cd54542938ca4742f81be77b666e13afc97317282e37d",
+  "completed": 1791740822.526003
+}

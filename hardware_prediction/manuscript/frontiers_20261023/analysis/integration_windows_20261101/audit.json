@@ -1,0 +1,95 @@
+{
+  "protocol_sha256": "2281106aba207d92c48363c0300471950d9c906a244beaf7e5fd264fb1ac224f",
+  "source_hashes_unchanged": true,
+  "all_nine_published_full_trial_values_reproduced": true,
+  "all_values_finite": true,
+  "no_refit": true,
+  "no_clipping": true,
+  "max_quadrature_difference_J": 8.384404281969182e-13,
+  "trials": [
+    {
+      "trial_id": "M004_slow6_pc_20260915_175053",
+      "motion": "Cheer",
+      "n_samples": 363,
+      "duration_s": 36.20000000001164,
+      "actual_J": 308.57697227411836,
+      "full_trial_match": true
+    },
+    {
+      "trial_id": "M008_slow6_pc_20260915_174814",
+      "motion": "Clap",
+      "n_samples": 463,
+      "duration_s": 46.20000000001164,
+      "actual_J": 381.63186803730025,
+      "full_trial_match": true
+    },
+    {
+      "trial_id": "M015_slow6_pc_20260915_154650",
+      "motion": "Supine get-up",
+      "n_samples": 465,
+      "duration_s": 46.40000000002328,
+      "actual_J": 501.38230146462706,
+      "full_trial_match": true
+    },
+    {
+      "trial_id": "M016_slow3_pc_20260915_155750",
+      "motion": "Work",
+      "n_samples": 352,
+      "duration_s": 35.09999999997672,
+      "actual_J": 290.8014077036257,
+      "full_trial_match": true
+    },
+    {
+      "trial_id": "M026_slow9_pc_20260915_154254",
+      "motion": "Kick",
+      "n_samples": 243,
+      "duration_s": 24.20000000001164,
+      "actual_J": 200.62677287232995,
+      "full_trial_match": true
+    },
+    {
+      "trial_id": "M073_20260915_153043",
+      "motion": "Crawl",
+      "n_samples": 204,
+      "duration_s": 20.29999999998836,
+      "actual_J": 222.46878646578543,
+      "full_trial_match": true
+    },
+    {
+      "trial_id": "M074_20260915_153316",
+      "motion": "Crawl turn left",
+      "n_samples": 233,
+      "duration_s": 23.20000000001164,
+      "actual_J": 234.16575871709995,
+      "full_trial_match": true
+    },
+    {
+      "trial_id": "M075_20260915_153356",
+      "motion": "Crawl turn right",
+      "n_samples": 233,
+      "duration_s": 23.20000000001164,
+      "actual_J": 203.08942949735678,
+      "full_trial_match": true
+    },
+    {
+      "trial_id": "M076_20260915_153430",
+      "motion": "Backward crawl",
+      "n_samples": 203,
+      "duration_s": 20.20000000001164,
+      "actual_J": 227.81172840940596,
+      "full_trial_match": true
+    }
+  ],
+  "primary_window_counts": {
+    "2": 135,
+    "5": 52,
+    "10": 24
+  },
+  "full_motion_mean_errors_pct": {
+    "R0": 10.522898339579099,
+    "R1": 5.443018743706804,
+    "R2": 3.550783607325005,
+    "R3": 2.5907131784346755
+  },
+  "independent_executions_per_motion": 1
+}

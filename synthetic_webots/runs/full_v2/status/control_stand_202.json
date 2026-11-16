@@ -1,0 +1,35 @@
+{
+  "spec": {
+    "split": "control",
+    "id": "stand_202",
+    "action": "stand",
+    "context": "whole-body",
+    "duration": 4.0,
+    "seed": 202,
+    "level": null,
+    "joints": [],
+    "amplitude": 0.2,
+    "frequency": 0.6,
+    "offset": 0.0,
+    "phase": 1.5707963267948966
+  },
+  "samples": 400,
+  "duration": 4.0,
+  "final_height": 0.3336914982364847,
+  "final_h": 6.17284001691587e-14,
+  "forward_m": -2.5100594819797706e-05,
+  "yaw_change": -0.0033084182336772846,
+  "object_displacement": 1.134510481823722e-18,
+  "max_tau": 1.3728976056307145,
+  "contact_mean": [
+    16.67763245175389,
+    2.911263052775709,
+    0.0,
+    0.0,
+    8.381276209603355,
+    8.296356242150535,
+    7.3025
+  ],
+  "sha256": "edc700519a3e2e5815c4d6af97ad1284e51c152d84c3b52461653af11c4c49d9",
+  "completed": 1791740862.741589
+}

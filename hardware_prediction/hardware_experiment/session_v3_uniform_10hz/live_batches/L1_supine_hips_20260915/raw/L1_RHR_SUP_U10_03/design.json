@@ -1,0 +1,32 @@
+{
+  "config_sha256": "5805c1d39dd04fed3896718efa675e2989a36e001bfbf5545f9c2c55c3c24f2e",
+  "manifest_sha256": "c93a68dd1cee7b3e1a11439f89f7ee5a7ce4466e71ce5c0c2fdd5cf26da096d4",
+  "recipes": {
+    "L1_LHP_SUP_U10_01": "6a3642aa28365ed6ac29aebf58b81c8f774c8ae7485a6301499afb8482f2a5f1",
+    "L1_LHP_SUP_U10_02": "8229136e084e7007506a508e02787baf4868adb43d630bfe6053120a72e9d96c",
+    "L1_LHP_SUP_U10_03": "28f1143c8f1766822744cd03bef3837202032a2a87c2f4076ea0a482094d2373",
+    "L1_LHR_SUP_U10_01": "53f733416a50849114edb83dbd0ad654c1e3d3d60186f6087c7a7ce064f2f94e",
+    "L1_LHR_SUP_U10_02": "9d0b0bd7cbcb740136ea622c4971ee7f527375d460c6ae3062eab211901bda7c",
+    "L1_LHR_SUP_U10_03": "c1c5388c8093b9d5bdd2c86609cfb56b2b29858e795bcfbdb391b751888f28b6",
+    "L1_RHP_SUP_U10_01": "406d5d0e3b696a78c2e024faa5c18efe7d930fdb553be0d4b22bbdd55805a882",
+    "L1_RHP_SUP_U10_02": "3f4ad96e2e28f480a3a7b980988cc8399a78609fb9d09086fe87c9f6d677559f",
+    "L1_RHP_SUP_U10_03": "650f9c5b0f594298bfc2a0ec17da893bc1684bc000670fdefc26dd6073f9d0b9",
+    "L1_RHR_SUP_U10_01": "44c423dfcf8dfacc6f6b01e023b06e2405564db98043b622874a286b4b4f0a29",
+    "L1_RHR_SUP_U10_02": "2ebb97daaa6a32b744e23085cc903a0a5dd50c6c35c2db7c0a69ec6fc40b9e56",
+    "L1_RHR_SUP_U10_03": "0aff5c7090cb0ed43dabdec0b68a7e7f29e34981fc8c24467bcf06d2fda87356"
+  },
+  "code": {
+    "acquire.py": "6a78873f581cbc1d21a47c07f8b30bb7615a1b05533ead1f43739e6eabf7c14f",
+    "analysis.py": "9882399c5155a0c77be9435a9c6e726bcfa670e11ef637fc7bcc4c438fd49066",
+    "calibration.py": "bfee40b5fadc36c82fa550eaaf72823caa016356c3293cfdc4f1f8d94dcb8434",
+    "core.py": "0cdbbf3708147b9083cf9890f524e475247a371f3a45ac385a80a60a3aded92d",
+    "design.py": "bdfc065288715ffd9d517617972fb6f1e234b3e285d79630f5c52b80c1d7c27e",
+    "experiment_cli.py": "fb08f8b72b96943c10bacfbba2f41b85789ee14d539992865d4f10b2deffbde5",
+    "export_regression_data.py": "30b266e17b6a047f25630ae979aacb74f9dbfabd12e6e0360f186e6040b39d43",
+    "orientation.py": "2b87d4c3f285168ce554dca593afcf8080c1b6f305fd0500c38c610bafd65ed7",
+    "probe_connections.py": "e862f6457831310a466a600d1efaf2e9cb57153d7ec7c35f3d1b5012cddf315d",
+    "processing.py": "eb508527f4d99efc69bcc33f899cc2219128236b2f1e6d9ea0ac4edc8be44945",
+    "protocol.py": "48a21657508570519ee6730cd3f13909be5af766712790e19bf2075d1ac90799"
+  },
+  "excluded": []
+}

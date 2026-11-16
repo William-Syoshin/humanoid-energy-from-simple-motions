@@ -1,0 +1,32 @@
+{
+  "motion": 75,
+  "name": "Crawl turn right",
+  "original_trial": "M075_20260915_153356",
+  "mode": "onboard",
+  "frame_multiplier": 1,
+  "support": "ground",
+  "original_observed_motion_s": 21.340698899992276,
+  "original_scored_s": 23.20000000001164,
+  "commands": [],
+  "historical_initial_positions": [
+    7499,
+    10459,
+    11041,
+    4569,
+    7492,
+    7493,
+    4566,
+    3950,
+    10427,
+    7502,
+    10040,
+    7516,
+    5329,
+    4921,
+    7495,
+    9602,
+    7501
+  ],
+  "original_meta_sha256": "e400526d04f1c86cb84f6d8e75d5ae2d594acaa86b01dff814f1e19d42564596",
+  "historical_project_sha256": null
+}

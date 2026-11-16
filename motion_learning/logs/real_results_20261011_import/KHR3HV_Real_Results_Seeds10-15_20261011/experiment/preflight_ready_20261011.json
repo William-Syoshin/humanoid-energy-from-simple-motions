@@ -1,0 +1,218 @@
+{
+  "created_utc": "2026-10-11T04:07:08.296533+00:00",
+  "servo_targets_sent": false,
+  "robot": {
+    "ok": false,
+    "joints": [
+      {
+        "name": "left_hip_roll",
+        "ok": true,
+        "position": 7499,
+        "q_rad": -0.0005890486225480862,
+        "target_rad": 0.0,
+        "error_rad": -0.0005890486225480862,
+        "within_initial_tolerance": true
+      },
+      {
+        "name": "left_hip_pitch",
+        "ok": true,
+        "position": 7490,
+        "q_rad": -0.005890486225480862,
+        "target_rad": -0.3099949800473763,
+        "error_rad": 0.3041044938218954,
+        "within_initial_tolerance": false
+      },
+      {
+        "name": "left_knee_pitch",
+        "ok": true,
+        "position": 7504,
+        "q_rad": 0.002356194490192345,
+        "target_rad": 0.617251234438287,
+        "error_rad": -0.6148950399480947,
+        "within_initial_tolerance": false
+      },
+      {
+        "name": "left_ankle_pitch",
+        "ok": true,
+        "position": 7500,
+        "q_rad": 0.0,
+        "target_rad": -0.3072562543909107,
+        "error_rad": 0.3072562543909107,
+        "within_initial_tolerance": false
+      },
+      {
+        "name": "left_ankle_roll",
+        "ok": true,
+        "position": 7492,
+        "q_rad": -0.00471238898038469,
+        "target_rad": -0.0,
+        "error_rad": -0.00471238898038469,
+        "within_initial_tolerance": true
+      },
+      {
+        "name": "right_hip_roll",
+        "ok": true,
+        "position": 7503,
+        "q_rad": 0.0017671458676442587,
+        "target_rad": 0.0,
+        "error_rad": 0.0017671458676442587,
+        "within_initial_tolerance": true
+      },
+      {
+        "name": "right_hip_pitch",
+        "ok": true,
+        "position": 7496,
+        "q_rad": -0.002356194490192345,
+        "target_rad": -0.3099949800473763,
+        "error_rad": 0.30763878555718394,
+        "within_initial_tolerance": false
+      },
+      {
+        "name": "right_knee_pitch",
+        "ok": true,
+        "position": 7498,
+        "q_rad": -0.0011780972450961724,
+        "target_rad": 0.617251234438287,
+        "error_rad": -0.6184293316833832,
+        "within_initial_tolerance": false
+      },
+      {
+        "name": "right_ankle_pitch",
+        "ok": true,
+        "position": 7499,
+        "q_rad": -0.0005890486225480862,
+        "target_rad": -0.3072562543909107,
+        "error_rad": 0.3066672057683626,
+        "within_initial_tolerance": false
+      },
+      {
+        "name": "right_ankle_roll",
+        "ok": true,
+        "position": 7502,
+        "q_rad": 0.0011780972450961724,
+        "target_rad": -0.0,
+        "error_rad": 0.0011780972450961724,
+        "within_initial_tolerance": true
+      },
+      {
+        "name": "left_shoulder_pitch",
+        "ok": true,
+        "position": 7517,
+        "q_rad": 0.010013826583317465,
+        "target_rad": 0.0,
+        "error_rad": 0.010013826583317465,
+        "within_initial_tolerance": true
+      },
+      {
+        "name": "left_shoulder_roll",
+        "ok": true,
+        "position": 7496,
+        "q_rad": -0.002356194490192345,
+        "target_rad": 0.0,
+        "error_rad": -0.002356194490192345,
+        "within_initial_tolerance": true
+      },
+      {
+        "name": "left_elbow_pitch",
+        "ok": true,
+        "position": 7500,
+        "q_rad": -0.0,
+        "target_rad": 0.0,
+        "error_rad": -0.0,
+        "within_initial_tolerance": true
+      },
+      {
+        "name": "right_shoulder_pitch",
+        "ok": true,
+        "position": 7505,
+        "q_rad": -0.002945243112740431,
+        "target_rad": -0.0,
+        "error_rad": -0.002945243112740431,
+        "within_initial_tolerance": true
+      },
+      {
+        "name": "right_shoulder_roll",
+        "ok": true,
+        "position": 7495,
+        "q_rad": 0.002945243112740431,
+        "target_rad": 0.0,
+        "error_rad": 0.002945243112740431,
+        "within_initial_tolerance": true
+      },
+      {
+        "name": "right_elbow_pitch",
+        "ok": true,
+        "position": 7500,
+        "q_rad": 0.0,
+        "target_rad": 0.0,
+        "error_rad": 0.0,
+        "within_initial_tolerance": true
+      },
+      {
+        "name": "head_yaw",
+        "ok": true,
+        "position": 7501,
+        "q_rad": 0.0005890486225480862,
+        "target_rad": 0.0,
+        "error_rad": 0.0005890486225480862,
+        "within_initial_tolerance": true
+      }
+    ],
+    "opened": true,
+    "acknowledged": true
+  },
+  "power": {
+    "ok": true,
+    "samples": [
+      {
+        "device_s": 1011719.258,
+        "voltage_raw": 10.4862,
+        "current_raw": 0.7895,
+        "clip": 0
+      },
+      {
+        "device_s": 1011719.358,
+        "voltage_raw": 10.4875,
+        "current_raw": 0.7812,
+        "clip": 0
+      },
+      {
+        "device_s": 1011719.458,
+        "voltage_raw": 10.4862,
+        "current_raw": 0.7819,
+        "clip": 0
+      },
+      {
+        "device_s": 1011719.558,
+        "voltage_raw": 10.4862,
+        "current_raw": 0.7803,
+        "clip": 0
+      },
+      {
+        "device_s": 1011719.658,
+        "voltage_raw": 10.4862,
+        "current_raw": 0.784,
+        "clip": 0
+      }
+    ]
+  },
+  "joint_order": [
+    "left_hip_roll",
+    "left_hip_pitch",
+    "left_knee_pitch",
+    "left_ankle_pitch",
+    "left_ankle_roll",
+    "right_hip_roll",
+    "right_hip_pitch",
+    "right_knee_pitch",
+    "right_ankle_pitch",
+    "right_ankle_roll",
+    "left_shoulder_pitch",
+    "left_shoulder_roll",
+    "left_elbow_pitch",
+    "right_shoulder_pitch",
+    "right_shoulder_roll",
+    "right_elbow_pitch",
+    "head_yaw"
+  ]
+}

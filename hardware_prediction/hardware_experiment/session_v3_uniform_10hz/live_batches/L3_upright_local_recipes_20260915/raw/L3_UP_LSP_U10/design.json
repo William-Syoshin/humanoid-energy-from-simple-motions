@@ -1,0 +1,27 @@
+{
+  "config_sha256": "334b21009f4623fd80dff179067f3684121626b5bfb3e6986517ffc3101f064f",
+  "manifest_sha256": "f1a995e5122f1318fddfc7cc4b5051f94f9a40227577a310145b988e19fd2798",
+  "recipes": {
+    "L3_UP_LHP_U10": "44a045cbe9b29fb615d07512ad6cae7539a56947270d87a13193ec640bddf158",
+    "L3_UP_RHP_U10": "1cc370e70f5cdf49c261fdd7c4b57ca3a6e967d347515da56f8a69c39c9eacc6",
+    "L3_UP_LK_U10": "fcc15fccb7163c15368cc1f0c49e375bc0b7de983a0ee7305a38432d62b20a95",
+    "L3_UP_LSP_U10": "ee07e7b7dc07c7bc4330b524a13054e199e69372ae8d89d0bbd3732f8b1e0b7c",
+    "L3_UP_RSP_U10": "fb32028bd7f5275c361ae13f2e63fb31d6ab8a3e58a434151e8afb9a1dd51744"
+  },
+  "code": {
+    "acquire.py": "77010983ba1ce74969bb328c2fd18c37a67e7332f619ff939270baf7d96b92da",
+    "analysis.py": "9882399c5155a0c77be9435a9c6e726bcfa670e11ef637fc7bcc4c438fd49066",
+    "calibration.py": "bfee40b5fadc36c82fa550eaaf72823caa016356c3293cfdc4f1f8d94dcb8434",
+    "core.py": "0cdbbf3708147b9083cf9890f524e475247a371f3a45ac385a80a60a3aded92d",
+    "design.py": "bdfc065288715ffd9d517617972fb6f1e234b3e285d79630f5c52b80c1d7c27e",
+    "experiment_cli.py": "fb08f8b72b96943c10bacfbba2f41b85789ee14d539992865d4f10b2deffbde5",
+    "export_regression_data.py": "b7e9c8080e5893fd94ee334e1d21f82213a6b57e72388aed0c0f1821e411104f",
+    "orientation.py": "2b87d4c3f285168ce554dca593afcf8080c1b6f305fd0500c38c610bafd65ed7",
+    "probe_connections.py": "e862f6457831310a466a600d1efaf2e9cb57153d7ec7c35f3d1b5012cddf315d",
+    "processing.py": "eb508527f4d99efc69bcc33f899cc2219128236b2f1e6d9ea0ac4edc8be44945",
+    "protocol.py": "4496700690712ce61dc08e194677110fda86db42e37b4ecd1343f6b29fb2da1b",
+    "test_experiment.py": "82cfd86a576bb84dac829174f9e4315341ccd579b2d5c01b715952b44556a4f0",
+    "test_pipeline.py": "8cb7119c793342470793aa3575eca6f8cb05195d099e64e7fc5b6c2f913089ee"
+  },
+  "excluded": []
+}

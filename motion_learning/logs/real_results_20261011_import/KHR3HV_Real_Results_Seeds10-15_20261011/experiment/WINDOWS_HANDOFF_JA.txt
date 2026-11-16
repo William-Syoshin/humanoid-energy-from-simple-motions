@@ -1,0 +1,87 @@
+﻿Windows担当者向け：20 cm到達動作の実機検証（2026-10-11）
+
+目的：Task-only / R1 / R2 / R3 の4動作を各3回、合計12回計測する。
+学習seed10、評価seed20000を全条件で固定。Task-only λ=0、R1/R2/R3 λ=0.3。
+以前の20秒固定版とは異なり、各動作に保存された長さで再生する。
+必ず同梱 README_JA.md を先に読むこと。
+
+重要：保存された関節指令のオープンループ再生であり、実機PPO推論ではない。
+実機ではシミュレーションと移動距離が異なる。自動で20 cmを検出して止まるコードではない。
+実機で20 cmに達した時刻を同期動画等から読み取り、その時刻までのV×Iを積分できる。
+未達・転倒を隠さない。実測値をシミュレーション値で代用しない。
+最後の目標姿勢を保持する。Ctrl+Cは電源遮断ではない。自動直立復帰はしない。
+Windows実機とファームウェアの動作・校正は未検証。
+
+1. ZIPをOneDrive外に展開し、experiment.pyがあるフォルダでPowerShellを開く。
+   Python 3.11（Windows py launcher付き）を用意する。
+
+   powershell -ExecutionPolicy Bypass -File .\setup_windows.ps1
+   .\.venv\Scripts\python.exe experiment.py config --out hardware.json
+   .\.venv\Scripts\python.exe -m serial.tools.list_ports
+
+2. hardware.jsonのCOM、17関節のID/SIO/ゼロ点/符号/可動域/速度上限を実機で確認する。
+   関節の符号を推測しない。設定不足時に拒否されるのは意図した動作。
+   電流・電圧・初期姿勢誤差の限界値、電力校正、受信遅延・不確かさも設定する。
+   mapping_verified / mixing_off_verified / power_calibration.verified / timing.verified は確認後のみtrueにする。
+   元のESP32計測器はlegacy_receive。派生ファームウェアを検証・書込みした時のみfresh_device。
+   他のロボットGUIなど、COMポートを使用するプログラムを閉じる。
+   支持した試運転で指令方向・通信周期・終端姿勢を確認する。試運転を正式12回に混ぜない。
+
+3. 同梱plan_pilot.jsonを使う（新たに作り直す必要はない）。
+   trial_sheet.csvが記録用紙。各反復で4条件をランダム化済み。
+
+   $plan = Get-Content .\plan_pilot.json -Raw | ConvertFrom-Json
+   $plan.trials | Format-Table trial_id,condition,training_seed,repeat
+
+   下の番号iは0〜11。1試行ずつ、planの順序で実行する。
+   初回はi=0。次の試行は1、2…と変更する。自動連続運転にしない。
+
+   $i = 0
+   $trial = $plan.trials[$i].trial_id
+   $trial
+   .\.venv\Scripts\python.exe experiment.py run --trial $trial --out "raw\$trial"
+
+   上はドライラン。ポートは開かず、運動もしない。
+   初期姿勢をmotion JSONのinitial_pose_radに合わせ、物理停止手段を確保する。
+   カメラで基準点、20 cmの床目盛り、PCのSCORE START/ENDを同期して記録する。
+
+   .\.venv\Scripts\python.exe experiment.py run --trial $trial --out "raw\$trial" --execute
+
+4. 実測値を記録する。
+   再生開始から終了までの、同じ体幹基準点の前方変位を測る。
+   到達した場合、最初の20 cm通過の時刻を開始からの秒数で読み取る。
+   以下の0.203、9.1、0.05は書式例。必ず実測値に置き換える。
+
+   .\.venv\Scripts\python.exe experiment.py annotate --raw "raw\$trial" --distance-m 0.203 --outcome success --method "Synchronized calibrated overhead video" --goal-time-s 9.1 --goal-time-uncertainty-s 0.05 --note "video filename and experiment conditions"
+
+   未達の場合の書式例（0.16を実測値へ置換）：
+   .\.venv\Scripts\python.exe experiment.py annotate --raw "raw\$trial" --distance-m 0.16 --outcome shortfall --method "Calibrated overhead video" --note "Not reached 20 cm"
+
+   outcome：success / shortfall / fall / deviation / operator_stop / other_failure。
+   到達時刻が不明ならgoal-time関連2項目を省略。20 cm到達エネルギーは未測定になる。
+   平均速度から到達時刻を逆算しない。転倒による変位を歩行成功としない。
+   試行の失敗、電圧、温度、床、休止時間、支持具の接触、動画名はtrial_sheet.csvにも残す。
+   出力は上書きしない。失敗したrawフォルダを削除しない。
+   再試行が必要なら元データを保持し、別計画・理由を記録。最良試行だけの採用は禁止。
+
+5. 全試行後、図と集計を作る（途中でも未完了と明示して出力可能）。
+
+   .\.venv\Scripts\python.exe experiment.py analyze --raw raw --out figures_R2 --sim-evaluator R2
+
+   figures_R2/sim_real_replay.pdf : 再生窓の速度・エネルギー。
+   figures_R2/sim_real_goal.pdf   : 独立に時刻確認した成功試行の20 cm到達時間・エネルギー。
+   PNG/SVG、全試行CSV、seed集計、図の数値も出る。
+   12試行ではRealの誤差棒は同一seedの3反復SD。学習seed間のSDではない。
+   Simは1点、誤差棒なし。Real未測定なら図は空欄。人工データは通常解析で拒否される。
+   未達・失敗を除いてよく見える図だけを報告しない。成功数と全試行表を添える。
+   Sim予測エネルギーと実機実測エネルギーは区別する。有意差は自動判定しない。
+
+6. データをMacへ戻す。
+   rawフォルダ全体、使用plan_pilot.json、hardware.json、trial_sheet.csv、figures_R2、同期動画を保存する。
+   データを追加して解析し直す場合はfigures_R2_v2など新しい出力先にする。
+
+任意の拡張：全6seedの24動作と72試行のplan_all_seeds.jsonも同梱。
+使用時はrun/analyzeに --plan plan_all_seeds.json を付け、raw_allなど別の保存先を使う。
+pilotのseed10を再測定しても独立した新しい学習seedにはならない。
+移行時にはpilotデータを破棄せず、利用・再測定・重複の扱いを事前に記録する。
+12試行は予備検証用。論文で一般的優位性を主張する必要数は効果・精度・ばらつきから別途計画する。

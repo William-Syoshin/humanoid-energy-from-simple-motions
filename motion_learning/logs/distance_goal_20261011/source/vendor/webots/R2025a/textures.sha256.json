@@ -1,0 +1,15 @@
+{
+  "textures/torso.jpg": "5193f035569e6969db00f71e455da9a8ac5804567b583c9b2b89d5efcf11c949",
+  "textures/head.jpg": "d5ddad5cf68342916342ec2bda0c86e978bb581a6069e41299e3cdeca6e4fdac",
+  "textures/shoulder.jpg": "df4eed5988e220814812d223adac4a238abd75576c09153bff475c3fc5490e12",
+  "textures/arm.jpg": "7c15998bca58b6fdbccab7dcd52c4f853d5bf7c7234f708212d1ee4c0cfea088",
+  "textures/elbow.jpg": "dbb32eb64fb93ded8f85a36302ad00f2f63c818c490698e3ea17ee43d5bda62d",
+  "textures/forearm.jpg": "989e279d0a63584c2ca244b8558b516791fada96241c612fef15c7c46ef9ba60",
+  "textures/waist.jpg": "c7ee12e6649355d6e3570812545e8b7dbd5d6ad354dc7f1f14dd895d701e566d",
+  "textures/femurHead1.jpg": "d9cff69e9f9711ca8eb5063a0e48164cd872b298ede803b9189b1f2bf0976ccd",
+  "textures/femurHead2.jpg": "8b0b3a5ac3f522b789555a521b0501e99276894f0c2a7d4d03b252ba778ced98",
+  "textures/femur.jpg": "b0afbff952ae481c1eff822259697e36d6637195b7656dae99e370d09e58da62",
+  "textures/crus.jpg": "e9f03fc9d18dc68e699e490ab84ac0a52e51dc16ebbcb4af818449f90ce6d87f",
+  "textures/ankle.jpg": "2ba9c5e3d497858ea38ebbd67acee693903614ca925122fb0d79934366bf5c2e",
+  "textures/foot.jpg": "772d17c37a76f146339e2272edf29606b31ec13c9bee12c4c0884ae370a59d1f"
+}

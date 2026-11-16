@@ -1,0 +1,836 @@
+[
+  {
+    "trial_id": "L0_SQUAT_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l0_squat_0001.csv",
+    "sha256": "3a8e6fb2cd42a90261d11a03c5bda4280988342531c2e6235eafde6b006467f0",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L0_SQUAT_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l0_squat_0002.csv",
+    "sha256": "14a994d19a4df5a88207df5aef0fc922c373eb52fcaeec66f76d0f295d0db524",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L0_SUPINE_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l0_supine_0001.csv",
+    "sha256": "5197ae3a17f8c61bb9157e245751f77378d4f7abbe55451880e48ec49793a3ac",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L0_SUPINE_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l0_supine_0002.csv",
+    "sha256": "b72132b9d43130d23a8f7c125f0aaf2143735d4c8542eafb0782b10282b3fe48",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L0_UPRIGHT_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l0_stand_0001.csv",
+    "sha256": "d647e9d60a7a4b047971894f24ff32c69179c264b621e72c0a2ee6db0c151069",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L0_UPRIGHT_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l0_stand_0002.csv",
+    "sha256": "b9aa724a911b7dda572ebb251df049547b22f5681c29240251bc0e84da80b437",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RHP_LEFTSIDE_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_hip_pitch_0001.csv",
+    "sha256": "05e150deeb5120b0918d809c19ec53b51a5fc9da3fe4490ec2655bf204689ac7",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RHP_LEFTSIDE_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_hip_pitch_0002.csv",
+    "sha256": "b6df92564fcbcb91948cea5eac2b6f192b9509fad8238bfb5d52283eeffa0e24",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RHP_LEFTSIDE_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_hip_pitch_0003.csv",
+    "sha256": "2be607065f506799add3dd976c53530a9b1c3435f350238f4ae4dba0c19340a7",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RK_LEFTSIDE_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee_pitch_0001.csv",
+    "sha256": "a6d4d9250cdfc0767bd810da7367e32de913eb470fe77bb54596d58b6c1734a5",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RK_LEFTSIDE_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee_pitch_0002.csv",
+    "sha256": "554c0909384256598ae387986efa1b062a9e4cfd40ee71d5d3e78a35bfcb87ab",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RK_LEFTSIDE_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee_pitch_0003.csv",
+    "sha256": "81005fce71508e345393d8f5ae90e2591fd1e3fe0613911116cb4233baabd545",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RAP_KNEE70_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee70_right_ankle_pitch_0001.csv",
+    "sha256": "f82951fe165934a4757b2989ddea535fce1909815b6ecfe2ec6ad8bc884bac45",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RAP_KNEE70_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee70_right_ankle_pitch_0002.csv",
+    "sha256": "a35a6304f3c32b20b277a5c1a15ecd4385a639c208a61b825a775574417af50c",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RAP_KNEE70_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee70_right_ankle_pitch_0003.csv",
+    "sha256": "9b65c257d9e224b846e4d33b9bb203019dc42635701c0faf15ea32a3bf05cc8f",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RAR_KNEE70_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee70_right_ankle_roll_0001.csv",
+    "sha256": "7136832a49c406175e221580dfe939162213f4c978f3bc0c340fa69aa3588b92",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RAR_KNEE70_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee70_right_ankle_roll_0002.csv",
+    "sha256": "04036c33bad7195c0607965ccb1baf5b337e01df24a45b0a17c2f80551751b5f",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RAR_KNEE70_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee70_right_ankle_roll_0003.csv",
+    "sha256": "979bad22eab36c4212ee0b486b8a1852c80b985d0114086989424dee5f49ffdd",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LHP_RIGHTSIDE_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_hip_pitch_0001.csv",
+    "sha256": "99a9be95f3434de914318795e53d600d207d5afafb81d22d09ea89868757cf9f",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LHP_RIGHTSIDE_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_hip_pitch_0002.csv",
+    "sha256": "a2e8e1d65b5a0d7370fd3298a01eaa67457b9610cad533bffc574a83a3a2c527",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LHP_RIGHTSIDE_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_hip_pitch_0003.csv",
+    "sha256": "a8048f9fbbcff89c56777ea8da45d3609a3a6ab00125cb801c4efb439b08c5f5",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LAP_RIGHTSIDE_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_knee70_0001.csv",
+    "sha256": "57f2832aaa03c7af90af0bdfbfb1ad147b33bf108bde217ed8af5a1497f32038",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LAP_RIGHTSIDE_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_knee70_0002.csv",
+    "sha256": "3fcfa691b6d5b8e81fb753f203459e925c51bbdb744bda9f475929c4c097425e",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LAP_RIGHTSIDE_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_knee70_0003.csv",
+    "sha256": "07ef678ce4d765fce1cb2af263f8f00e364b5a52c275677a50b613df49401d2b",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LAR_RIGHTSIDE_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_knee70_0004.csv",
+    "sha256": "4e83107b139bd11094a980f4b12ba4a70f760013b33d48fdb615288037f7b8af",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LAR_RIGHTSIDE_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_knee70_0005.csv",
+    "sha256": "5bc4558af77c29672e3e01279a48f910ca3f195be30ad9dd3016eed76876fc56",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LAR_RIGHTSIDE_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_knee70_0006.csv",
+    "sha256": "d2999365e01e2ca59b61eb2fdc0c4e097ccb31bae7ac2f6026d6ac8eaec7bec8",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LKP_RIGHTSIDE_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_knee70_0007.csv",
+    "sha256": "df48294a24ae7456fa9bf7ee7fd2fe564cfe34e5ca666242c2998e83eb3db622",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LKP_RIGHTSIDE_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_knee70_0008.csv",
+    "sha256": "d7d84052ddad625c74985072cb865d8cd56b17196e2724a273a59976cb7dd611",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LKP_RIGHTSIDE_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_knee70_0009.csv",
+    "sha256": "211fdf523111128d467894f43800183a7049c001d3cb7cbfe19586d889718efe",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LHR_SUP_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_supine_shoulders_roll_plus60_left_hip_roll_0001.csv",
+    "sha256": "79b7a04ce4c739b9d1261ea3dd1b3f9364e30b9d28558725dc19753dfcad72d4",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LHR_SUP_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_supine_shoulders_roll_plus60_left_hip_roll_0002.csv",
+    "sha256": "97ca46b31ccf3346aa7bd5fe5abbc0b0fd7fa227d78dbac84155ead0529f416c",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LHR_SUP_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_supine_shoulders_roll_plus60_left_hip_roll_0003.csv",
+    "sha256": "916cafbdcdf8afda98174a77c4cb14edf678af6d8fc64085ca45a59822e2eca9",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RHR_SUP_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_supine_shoulders_roll_plus60_right_hip_roll_0001.csv",
+    "sha256": "43131f9df6d534662c9ae1df75df62260c0d7320d68ec02fc0288cfcbc2587e8",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RHR_SUP_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_supine_shoulders_roll_plus60_right_hip_roll_0002.csv",
+    "sha256": "8301d1d9a4a67cefc757992130f46960745978e2ae14f56d755bef3803e9e1fb",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RHR_SUP_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_supine_shoulders_roll_plus60_right_hip_roll_0003.csv",
+    "sha256": "c53b6815e8ec4ce21a212d5421dad175ace2d65d1470d87a2a73e7c63009f9d1",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_HEAD_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_head_yaw_0001.csv",
+    "sha256": "40903f5200c66f72298a9f684a5fc59c13c4455852f0b74bc474eacd2deae22a",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_HEAD_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_head_yaw_0002.csv",
+    "sha256": "cff1adf06e647f7a9a73ba217a3abc9bca45023c3e9d70ebea730b32cd803cec",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_HEAD_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_head_yaw_0003.csv",
+    "sha256": "23137915a91f3c5b78def7196c444d01ba636f71a9e684810368f6029945bdf5",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LEP_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_left_elbow_pitch_0001.csv",
+    "sha256": "e6cf1971f6d961744f393e81be4cad2baa66e6c25db7937680de8d2223cfb14d",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LEP_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_left_elbow_pitch_0002.csv",
+    "sha256": "efba7503430d089a12dc4dc8756cea857b81cc8b2b112f94c111327a1db0e684",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LEP_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_left_elbow_pitch_0003.csv",
+    "sha256": "ab2991b46aca7b1031322b9363c020ae12a5367405a104a69bb33f7f0752be05",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LSP_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_left_shoulder_pitch_0001.csv",
+    "sha256": "e71443e576244c57e1c1e5e67b4705db84967a5488dfa19dcbfac5ddda931652",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LSP_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_left_shoulder_pitch_0002.csv",
+    "sha256": "3c023884a8729ca0a56134ea41804e9948e0c32dcaf98b9f0df0e88e3030dc88",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LSP_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_left_shoulder_pitch_0003.csv",
+    "sha256": "3d597f2629085879292106bee62db41d9dac353ee28eb26053e315d48a3362b2",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LSR_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_left_shoulder_roll_0001.csv",
+    "sha256": "895b98801aaebd43e3fff46a6c3c8a50d42b08ce13c69581647a96ef5bbfecbb",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LSR_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_left_shoulder_roll_0002.csv",
+    "sha256": "9b83c1667102a6f4c0fe0fa90627a3915c206528e06f756befe3af1661175c68",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_LSR_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_left_shoulder_roll_0003.csv",
+    "sha256": "ecb4403b46fd31d04ba90095e58f54f10caa528e1033f6c46333033df10100da",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_REP_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_right_elbow_pitch_0001.csv",
+    "sha256": "d7e5313dfdad063b636d772ee03ee06c7fded833e1d2d1fde388d3ae720e3078",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_REP_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_right_elbow_pitch_0002.csv",
+    "sha256": "fd02512d3d19f37dca44e8749ae0f59fe52b70a904abd23f6fa4ec8728c00d18",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_REP_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_right_elbow_pitch_0003.csv",
+    "sha256": "d89c05dd3b0130538e7b804b1ce3f094bf96bbfea4bc4b767521d00fb745886b",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RSP_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_right_shoulder_pitch_0001.csv",
+    "sha256": "ffaf535fbd3d6eb729192e1bae0952ef68010bd7e9ad4bbbdbeee38166d78cb0",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RSP_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_right_shoulder_pitch_0002.csv",
+    "sha256": "e9545863f8b7dfef7cd45ad0b88ed5c376d6631bc5b9a3fca7731828f732ee2b",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RSP_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_right_shoulder_pitch_0003.csv",
+    "sha256": "5c8277b19e783efda8fd875906ef92e1eb693af8c1aac61d1d10d8ed05e2b1fc",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RSR_U10_01",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_right_shoulder_roll_0001.csv",
+    "sha256": "7511c2a2fc00898e86c7eec68964682bd5048e4c1cb56cd04bdff9956e618844",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RSR_U10_02",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_right_shoulder_roll_0002.csv",
+    "sha256": "dadd8a48e92d9d03a693e5d64a44d06d1edc920318f047f87674419cad02f954",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L1_RSR_U10_03",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l1_stand_right_shoulder_roll_0003.csv",
+    "sha256": "96a5dbdf4f382f7581156925bd425aea10e2d859b2022c4f4d78de84d433c707",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_RHP_RK_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_left_side_down_right_knee70_right_hip_pitch_right_knee_pitch_a10deg_f0p50hz_phase0deg_0001.csv",
+    "sha256": "aa63dc870d3a8133a427aa86578322b8401e7c6cb40601cbf7181d126a601ebe",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_RHP_RK_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_left_side_down_right_knee70_right_hip_pitch_right_knee_pitch_a10deg_f0p50hz_phase90deg_0001.csv",
+    "sha256": "54ef476567ac713a2cbbb17d3e8c6aa9719e9d81a3f190a8ea6bf907b0db470f",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_RHP_RK_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_left_side_down_right_knee70_right_hip_pitch_right_knee_pitch_a10deg_f0p50hz_phase180deg_0001.csv",
+    "sha256": "a04ef23015c340d6d6f0d1cba41afc40285cc76fd3b303ede3314aaafd72d9bc",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_RK_RAP_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_left_side_down_right_knee70_right_knee_pitch_right_ankle_pitch_a10deg_f0p50hz_phase0deg_0001.csv",
+    "sha256": "2aa8b27568bae25e875abab82e6860bdb1986c5767de039663181a64fd8373f8",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_RK_RAP_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_left_side_down_right_knee70_right_knee_pitch_right_ankle_pitch_a10deg_f0p50hz_phase90deg_0001.csv",
+    "sha256": "426c54c06f07b3ee53d6040b88752e9ef03bef9cd858474d1cfd936f2814dca8",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_RK_RAP_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_left_side_down_right_knee70_right_knee_pitch_right_ankle_pitch_a10deg_f0p50hz_phase180deg_0001.csv",
+    "sha256": "0449c9f42ebb595ada784498f3944183454f48f26e43fdd2ef4e090e3be9539e",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_LHP_LK_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_right_side_down_left_knee70_left_hip_pitch_left_knee_pitch_a10deg_f0p50hz_phase0deg_0001.csv",
+    "sha256": "c449139dfa53869910abd4cab78e4c050ecfb33cb12709b58e3b9ca36b45c4c1",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_LHP_LK_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_right_side_down_left_knee70_left_hip_pitch_left_knee_pitch_a10deg_f0p50hz_phase90deg_0001.csv",
+    "sha256": "4b222f56f4df4afe19e410ce315a999c3d52f8074fb2259d627dec490b0f26d2",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_LHP_LK_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_right_side_down_left_knee70_left_hip_pitch_left_knee_pitch_a10deg_f0p50hz_phase180deg_0001.csv",
+    "sha256": "12aa81cd2e5a4f1e01cfb1cc4f9a0683984c6b1b5a9eddea3c78841c6d24fe7c",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_LK_LAP_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_right_side_down_left_knee70_left_knee_pitch_left_ankle_pitch_a10deg_f0p50hz_phase0deg_0001.csv",
+    "sha256": "fba1731d59b8415ad9b2b9e8d4778ac29397b3bcd35cc7a647629befb272a9af",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_LK_LAP_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_right_side_down_left_knee70_left_knee_pitch_left_ankle_pitch_a10deg_f0p50hz_phase90deg_0001.csv",
+    "sha256": "69651d74a5d3f4bd97c25e513d99ef8958409102802c6b30b89c1cb9eadcdec5",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_LK_LAP_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_right_side_down_left_knee70_left_knee_pitch_left_ankle_pitch_a10deg_f0p50hz_phase180deg_0001.csv",
+    "sha256": "ce1bce85ae19243efeb061a5a44effcdd599af3bb706dba15fc8b6fa1f74a84d",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BAP_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_supine_left_ankle_pitch_right_ankle_pitch_a10deg_f0p50hz_phase0deg_0001.csv",
+    "sha256": "2ac38e138834867ab2677bef15fa8b800273d8ace9628f9772dc1273aac632d3",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BAP_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_supine_left_ankle_pitch_right_ankle_pitch_a10deg_f0p50hz_phase90deg_0001.csv",
+    "sha256": "7d26406975bfa374b68a0268f7d633712906880c31ca349e0fe0ff12217a2232",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BAP_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_supine_left_ankle_pitch_right_ankle_pitch_a10deg_f0p50hz_phase180deg_0001.csv",
+    "sha256": "0aac7d55bfc2c1f4078bfc53cd0f63c8be3b2d11626088b749103b11f7a67850",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BHP_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_supine_left_hip_pitch_right_hip_pitch_a10deg_f0p50hz_phase0deg_0001.csv",
+    "sha256": "05e933eb9f597393dc989911aa8a602df2064309bb0cecbf2ca419a4ffa68647",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BHP_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_supine_left_hip_pitch_right_hip_pitch_a10deg_f0p50hz_phase90deg_0001.csv",
+    "sha256": "9fd418019a9a762eccd8f99fa4a0952b77685647ca767cadc67a89858a68c215",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BHP_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_supine_left_hip_pitch_right_hip_pitch_a10deg_f0p50hz_phase180deg_0001.csv",
+    "sha256": "3bc76ced0886f0ca7df2f4f354b0c9ea9c04a126d8676971694f07f005528359",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BK_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_supine_left_knee_pitch_right_knee_pitch_a10deg_f0p50hz_phase0deg_0001.csv",
+    "sha256": "b9e23a4ba0045a88f9578c9ef9442b62ce8b2d419d1713832f6660d05862e7d1",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BK_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_supine_left_knee_pitch_right_knee_pitch_a10deg_f0p50hz_phase90deg_0001.csv",
+    "sha256": "2f1a6a6d8fdfc49e4e337ecb19cd2e89924214b2bba78957c2ad963452afa4e1",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BK_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_supine_left_knee_pitch_right_knee_pitch_a10deg_f0p50hz_phase180deg_0001.csv",
+    "sha256": "d20fd6ac72c07e14cc90f54e866e5ef0036bcd54947a1a883b879e99f271e275",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BSP_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_stand_left_shoulder_pitch_right_shoulder_pitch_a10deg_f0p50hz_phase0deg_0001.csv",
+    "sha256": "f91da773f415ac32999cf679e0efc0c958bbfe841595349f4d7c57e81b39e656",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BSP_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_stand_left_shoulder_pitch_right_shoulder_pitch_a10deg_f0p50hz_phase90deg_0001.csv",
+    "sha256": "5fca71354ed03a8050e2d82f149d48e8210ee2c699793db09d9bbc961cf5c943",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_BSP_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_stand_left_shoulder_pitch_right_shoulder_pitch_a10deg_f0p50hz_phase180deg_0001.csv",
+    "sha256": "8a0fc72f4ad04d13bfbb2f1e77a48a08c77d75f0e4244172db3b5da55faa4dfc",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_LSP_LE_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_stand_left_shoulder_pitch_left_elbow_pitch_a10deg_f0p50hz_phase0deg_0001.csv",
+    "sha256": "19262612d068a32f464f3933d9a471a7b1a3b388137b22debf34723ba7b545ab",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_LSP_LE_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_stand_left_shoulder_pitch_left_elbow_pitch_a10deg_f0p50hz_phase90deg_0001.csv",
+    "sha256": "6d0fe58a8fea571e4e4de31152e78c2e89716d924e789586a96db7cc95c78b24",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_LSP_LE_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_stand_left_shoulder_pitch_left_elbow_pitch_a10deg_f0p50hz_phase180deg_0001.csv",
+    "sha256": "1cfdf71b65f1d41938730969616f8e844b4e1ebb4e13824b7a43688000312370",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_RSP_RE_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_stand_right_shoulder_pitch_right_elbow_pitch_a10deg_f0p50hz_phase0deg_0001.csv",
+    "sha256": "99220a9b9a1c5037fac9a658306633cde4cedaef5bd0ecfffc2d80eb8a3cc623",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_RSP_RE_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_stand_right_shoulder_pitch_right_elbow_pitch_a10deg_f0p50hz_phase90deg_0001.csv",
+    "sha256": "f84ac84cdb3c330de28d28dc0a5876183efdc692c685c2b5ec5966d4e20f149c",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L2_RSP_RE_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l2_stand_right_shoulder_pitch_right_elbow_pitch_a10deg_f0p50hz_phase180deg_0001.csv",
+    "sha256": "447e4fa5c5eb4a974275f4bd4b2870b8292d014fb782fa41fc558797ed0d12d6",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_SQ_LHP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_squat_left_hip_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "f91a298e2b01b41815187615ee69aaecff58fa2fcd6a173f429889a33d048ebf",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_SQ_LK_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_squat_left_knee_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "4d36f6dee638052739120d3a4565d3e5e3da702551ef3b8d9a24809e639a5805",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_SQ_LSP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_squat_left_shoulder_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "52e2b08b5bd442aae8f9f1a2ae48a706041bc8b4831088dbd668a4950fa80500",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_SQ_RHP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_squat_right_hip_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "e3b23daa35e0687f3451e9ce7b31a436c031e81e736f6cd16d025a81675cb5dc",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_SQ_RSP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_squat_right_shoulder_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "b9889c395b21362e62398ef2019e83bc4f3997b4799cbe3b9857a41c01b95ccf",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_SUP_LHP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_supine_left_hip_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "a510674a3f91f5c73602bc4139d9a08ec98491198a96607692f764a02f074ec9",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_SUP_LK_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_supine_left_knee_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "926e0de5973a20fa41c558e0a3db428afa3bc2c19a1f655a0c6a4d988077e6f5",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_SUP_LSP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_supine_left_shoulder_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "69464d2554f138cc94907c74e2736d0878cc83d59df10918763c005bb9eed6ea",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_SUP_RHP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_supine_right_hip_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "c7359346dbe53d6239dfef7e6854d4fa2ebe6b2fb954d885614cd54822d9e467",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_SUP_RSP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_supine_right_shoulder_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "47d2dfcb78e3848d3106a9c850676a10bf2f335c423345c8e7baeb2d004c5623",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_UP_LHP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_stand_left_hip_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "acbc0b98aa587ba61d2292978992a5130081dda3f375b1362131bbba3b1560db",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_UP_LK_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_stand_left_knee_pitch_a0to10deg_f0p25hz_0001.csv",
+    "sha256": "b8f5bc96d7a08023d86f5b409f0919d05bdd04cb2ac4e3433fdea2ba90a10234",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_UP_LSP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_stand_left_shoulder_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "6350c19b1464dcda1fd7af6cebf17b6242396b50b3cd0b3c1779f56faac4b557",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_UP_RHP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_stand_right_hip_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "4120b702077e4eec0a84af95ba100120fdb4fe251cbf981597ef05be218c7002",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L3_UP_RSP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l3_stand_right_shoulder_pitch_a10deg_f0p25hz_0001.csv",
+    "sha256": "7aecd49e034da91f6814ec92df54b43ef02fae788976f738d39bda4bd54bfa07",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L4_HAND_LHP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l4_prone_hand_loading_left_hip_pitch_prone_hand_loading_a10deg_f0p25hz_0001.csv",
+    "sha256": "1c5a3e225ff25ede796a68f18b32aadceac5d5bdbd132da13a3c87120e54fd3d",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L4_HAND_LK_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l4_prone_hand_loading_left_knee_pitch_prone_hand_loading_a0to10deg_f0p25hz_0001.csv",
+    "sha256": "aab826d6444139ea50db1bd5027fc2d590d383a1a3f08061605da3676001443a",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L4_HAND_LSP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l4_prone_hand_loading_left_shoulder_pitch_prone_hand_loading_a10deg_f0p25hz_0001.csv",
+    "sha256": "4bbbd536cf70f2e72e692a20458c5847c837ee4bdc03ce4dc6008a99ceb50684",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L4_HAND_RHP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l4_prone_hand_loading_right_hip_pitch_prone_hand_loading_a10deg_f0p25hz_0001.csv",
+    "sha256": "78c9093098b99d16abe212cedbce2e4446b9d0efa6c2514e63b7a47886fbb9d0",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L4_FEET_LHP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l4_stand_left_hip_pitch_two_feet_a10deg_f0p25hz_0001.csv",
+    "sha256": "bbbcffca3a522e1c8ac561626a43efca942c601d5af9883e216692d31addc451",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L4_FEET_LK_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l4_stand_left_knee_pitch_two_feet_a0to10deg_f0p25hz_0001.csv",
+    "sha256": "7d9318200a1904e20cc51b965e14adbe0df09c2dd1e09bf68426c937dac4b66a",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L4_FEET_LSP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l4_stand_left_shoulder_pitch_two_feet_a10deg_f0p25hz_0001.csv",
+    "sha256": "6faf6bc1fd6c741242ae449c8b033e9e246d51a71668089c0a8b30be1fa124f0",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L4_FEET_RHP_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l4_stand_right_hip_pitch_two_feet_a10deg_f0p25hz_0001.csv",
+    "sha256": "9e837189fb0921e74d3fae0aed47708ed591350272c27c46cfa24ed88a0ddafa",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L5_LOWER_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l5_supine_left_hip_pitch_left_knee_pitch_right_hip_pitch_right_knee_pitch_a10deg_f0p25hz_phase000deg_0001.csv",
+    "sha256": "9711587eabd657e8efe91675843ad97e92e3c955fd4061ba40a04b09682ede9b",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L5_LOWER_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l5_supine_left_hip_pitch_left_knee_pitch_right_hip_pitch_right_knee_pitch_a10deg_f0p25hz_phase090deg_0001.csv",
+    "sha256": "c59b43aab175f1748fa7abf13e45bf655e1b18df71fd4628a369b943f7651ac6",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L5_LOWER_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l5_supine_left_hip_pitch_left_knee_pitch_right_hip_pitch_right_knee_pitch_a10deg_f0p25hz_phase180deg_0001.csv",
+    "sha256": "072e9d1c497337fb6545a306669e0f33713ef1af007aebffa0cc6da5fdbe74a5",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L5_UPPER_P000_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l5_stand_left_shoulder_pitch_left_elbow_pitch_right_shoulder_pitch_right_elbow_pitch_a10deg_f0p25hz_phase000deg_0001.csv",
+    "sha256": "0e529a1b5a44389030bd7989625989f4e9ccfcb62789465a70fb820a59fde893",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L5_UPPER_P090_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l5_stand_left_shoulder_pitch_left_elbow_pitch_right_shoulder_pitch_right_elbow_pitch_a10deg_f0p25hz_phase090deg_0001.csv",
+    "sha256": "08810f43dbfbbfa987a530416882d209830737bb1dc8dac4526b56f269062143",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "L5_UPPER_P180_U10",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\regression_data\\aligned\\l5_stand_left_shoulder_pitch_left_elbow_pitch_right_shoulder_pitch_right_elbow_pitch_a10deg_f0p25hz_phase180deg_0001.csv",
+    "sha256": "1bc0a98303521abe5d84175ebc56f1d620a5b93c33079f4cb8ba18e939b9928d",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_LSD_RHP_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_left_side_down_right_hip_pitch_0001.csv",
+    "sha256": "1d084dc8f9dd75ddec383a514d133dc7481a8274197620804c5423076e34e653",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_LSD_RAP_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee70_right_ankle_pitch_0001.csv",
+    "sha256": "d1cc0428f250a844699b1ddb35dfc2061b879c0be07a7cbb76dda4d7c2394485",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_LSD_RAR_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee70_right_ankle_roll_0001.csv",
+    "sha256": "c77f1717db4e5300beeabcd436615259b03e23045595963ea3abf89fe615887b",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_LSD_RK_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_left_side_down_right_knee70_right_knee_pitch_0001.csv",
+    "sha256": "e84b2859e2c913364890452aced5c87e3c25e23bfffa67c8528f214cc8d21c16",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_RSD_LHP_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_right_side_down_left_hip_pitch_0001.csv",
+    "sha256": "758d8a13a6f267d7a74443e3f09c03bf2f889ccea3ada698d2aed6f59ee18c7c",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_RSD_LAP_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_ankle_pitch_0001.csv",
+    "sha256": "d044ec7e0aca6792c4c664ffeefd3394f2e3ce183be61d42a945cd2ee1005c7e",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_RSD_LAR_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_ankle_roll_0001.csv",
+    "sha256": "50403209eeff0cdc19325ba26fe53edb2f89ae1d809983cdfbac0987f72138a3",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_RSD_LK_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_right_side_down_left_knee70_left_knee_pitch_0001.csv",
+    "sha256": "327f1dd0061492e2c07a03a6cd99937c7224433c769ae6f19800d5b493fb2af2",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_SUP_LHR_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_supine_shoulders_roll_plus60_left_hip_roll_0001.csv",
+    "sha256": "19057f37df3cab788a51e39eddb3c7417068faafb07172430f13ca9a3f33ac43",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_SUP_RHR_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_supine_shoulders_roll_plus60_right_hip_roll_0001.csv",
+    "sha256": "16335aabd84efc27c6bd54eb34fc4ff450099d8df283f20688d44d71d483a9bb",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_UP_LSP_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_stand_left_shoulder_pitch_0001.csv",
+    "sha256": "81eaff173207fc0f3cded917c6808ebfc6a9ad877593ed95db121ad9732a989c",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L1_UP_LSR_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l1_stand_left_shoulder_roll_0001.csv",
+    "sha256": "300991f4e84d3ab550b7a17d9c5e1e28b407233b38dddb38cf8b80e7dc86f442",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L2_LSD_RHP_RK_A7F0375_P045",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l2_left_side_down_right_knee70_right_hip_pitch_right_knee_pitch_a7deg_f0p375hz_phase45deg_0001.csv",
+    "sha256": "8171a2c071423ec647229bd3314779a0c4d6b937f6617172102faa004ba03f87",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L2_LSD_RK_RAP_A7F0375_P045",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l2_left_side_down_right_knee70_right_knee_pitch_right_ankle_pitch_a7deg_f0p375hz_phase45deg_0001.csv",
+    "sha256": "ce1ff6949d46998fe0c6de0554b56d18aeae1e0430890efd8c5e3d6fc89ded96",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L2_RSD_LHP_LK_A7F0375_P045",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l2_right_side_down_left_knee70_left_hip_pitch_left_knee_pitch_a7deg_f0p375hz_phase45deg_0001.csv",
+    "sha256": "080a8233de149c7303bbdb351430cb226d08faed453ef16d7b0996b71b95ea07",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L2_RSD_LK_LAP_A7F0375_P045",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l2_right_side_down_left_knee70_left_knee_pitch_left_ankle_pitch_a7deg_f0p375hz_phase45deg_0001.csv",
+    "sha256": "23ece04b22016602169cf94dbfea0abf99d241eefeb96fa41817d09c992388cb",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L2_UP_LSP_LE_A7F0375_P045",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l2_stand_left_shoulder_pitch_left_elbow_pitch_a7deg_f0p375hz_phase45deg_0001.csv",
+    "sha256": "336baf3b858bcc39aa1eaa1a1b90599731e5b25c05f8609d5e38ff1583ce8f3e",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L2_UP_RSP_RE_A7F0375_P045",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l2_stand_right_shoulder_pitch_right_elbow_pitch_a7deg_f0p375hz_phase45deg_0001.csv",
+    "sha256": "3b3ea1e40ef9b74d7ae320904fc1dd660fe96f495efe2aebf8f360a479b1e26e",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L3_SQ_LHP_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l3_squat_left_hip_pitch_a7deg_f0p375hz_0001.csv",
+    "sha256": "ca3cc57274c62f0b9e9dc88e2f9faea4a23beeae6f98334a0a8441092055c4db",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L3_SUP_LHP_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l3_supine_left_hip_pitch_a7deg_f0p375hz_0001.csv",
+    "sha256": "29d36dcd43f6e908c1acf3988ee9b2e1c5d649e44bddda0ec2f0b7f20d8de415",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L3_UP_LHP_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l3_stand_left_hip_pitch_a7deg_f0p375hz_0001.csv",
+    "sha256": "168d345c7e7ff1a9c1d46b8002d07ad91371f4bf94d07462af91476234c621f1",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L4_HAND_RHP_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l4_prone_hand_loading_right_hip_pitch_validation_prone_hand_loading_a7deg_f0p375hz_0001.csv",
+    "sha256": "4a7b3e502eafe004c29e318819641829772dd3449a6e694becae84b1e18d93a4",
+    "mechanical_success": "pending"
+  },
+  {
+    "trial_id": "V_L4_FEET_RHP_A7F0375",
+    "source": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_validation_10hz\\regression_data\\aligned\\l4_stand_right_hip_pitch_validation_two_feet_a7deg_f0p375hz_0001.csv",
+    "sha256": "32e2e09cdf299e997e5bc70f43d6b363f3b33575e793b6085975e246c04457cc",
+    "mechanical_success": "pending"
+  }
+]

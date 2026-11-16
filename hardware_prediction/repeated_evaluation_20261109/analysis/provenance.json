@@ -1,0 +1,16 @@
+{
+  "test_recordings": 45,
+  "motion_types": 9,
+  "training_recordings": 116,
+  "validation_recordings": 23,
+  "primary_models_refitted": false,
+  "primary_model_sha256": "fb9d381ec3b142353725c83f274fad181b509ef9e5a2916d70954fa43b6c1d5e",
+  "exploratory_models_refitted": true,
+  "subset_selection_unchanged": true,
+  "test_power_used_for_fit_or_selection": false,
+  "original_subset_sha256": {
+    "hardware_prediction/manuscript/data/transfer_audit_20260928/subsets.json": "0276c873aa02f561c7ee8be35a127c06b91f798893db4553a26ec2589af27927",
+    "hardware_prediction/manuscript/data/transfer_audit_20260928/coverage/subsets.json": "2bea46eb077dd863f5742ce41bf8481a152c946179b32675119e32edf8bfeb1f"
+  },
+  "script_sha256": "857b9d2ef6200f8f54c582069cdd6aa5d24dbe4129fce1c978e9c97e8c30deca"
+}

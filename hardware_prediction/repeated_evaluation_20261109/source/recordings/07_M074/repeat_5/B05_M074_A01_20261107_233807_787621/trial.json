@@ -1,0 +1,17 @@
+{
+  "order": 44,
+  "trial_id": "B05_M074",
+  "block": 5,
+  "motion": 74,
+  "name": "Crawl turn left",
+  "mode": "onboard",
+  "frame_multiplier": 1,
+  "support": "ground",
+  "attempt": 1,
+  "started_utc": "2026-11-07T14:38:07.787621+00:00",
+  "retry_reason": "",
+  "primary_attempt": true,
+  "operator": "yuchen",
+  "config_sha256": "2f8d32e133eb15d40334a382ff2df9eeebcd3c62d57db3ba65c9dece4e706b15",
+  "spec_sha256": "3f2efc79d4d82f2c6a78ce1223f3908b7212b35333dfa1717e5039ea6b2d2074"
+}

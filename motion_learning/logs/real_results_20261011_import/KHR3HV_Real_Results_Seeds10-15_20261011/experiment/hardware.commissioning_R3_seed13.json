@@ -1,0 +1,256 @@
+{
+  "robot_port": "COM3",
+  "robot_baud": 1250000,
+  "power_port": "COM4",
+  "power_baud": 115200,
+  "mapping_verified": false,
+  "mixing_off_verified": true,
+  "servo_frame": 1,
+  "max_current_A": 3.5,
+  "min_voltage_V": 9.0,
+  "max_initial_error_rad": 0.08,
+  "max_command_lateness_s": 0.019,
+  "power_stale_s": 0.5,
+  "max_power_gap_s": 0.3,
+  "pre_s": 2.0,
+  "post_s": 1.0,
+  "power_timestamp_contract": "legacy_receive",
+  "power_calibration": {
+    "verified": true,
+    "voltage_gain": 1.0,
+    "voltage_offset": 0.0,
+    "current_gain": 1.0,
+    "current_offset": 0.0,
+    "notes": "User accepted the existing voltage/current readings without additional calibration. Evidence: session_v2_proposed/calibration/power_value_acceptance_20260915.json, sha256 0ea01eeed74c9361e4138d1a9950ff1a23b3d1e1edd76c39a09de46d61e5d913."
+  },
+  "timing": {
+    "verified": true,
+    "receive_latency_s": 0.0,
+    "uncertainty_s": 0.101,
+    "notes": "Legacy receive timing previously measured; evidence: session_v2_proposed/calibration/legacy_receive_timing_supine_20260915.json, sha256 01e77bd9e90d4d3aac519fb30eed6c77bc9f93333f84d05741b03462efb5af03."
+  },
+  "joints": [
+    {
+      "name": "left_hip_roll",
+      "id": 6,
+      "sio": 1,
+      "zero_pos": 7500.0,
+      "sign": 1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.04,
+      "max_rad": 0.04,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "left_hip_pitch",
+      "id": 7,
+      "sio": 1,
+      "zero_pos": 7500.0,
+      "sign": -1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.4844582047951861,
+      "max_rad": -0.17,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "left_knee_pitch",
+      "id": 8,
+      "sio": 1,
+      "zero_pos": 7500.0,
+      "sign": 1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": 0.56,
+      "max_rad": 0.813976054732939,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "left_ankle_pitch",
+      "id": 9,
+      "sio": 1,
+      "zero_pos": 7500.0,
+      "sign": 1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.4514059725172801,
+      "max_rad": -0.16,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "left_ankle_roll",
+      "id": 10,
+      "sio": 1,
+      "zero_pos": 7500.0,
+      "sign": 1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.04,
+      "max_rad": 0.04,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "right_hip_roll",
+      "id": 6,
+      "sio": 2,
+      "zero_pos": 7500.0,
+      "sign": 1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.04,
+      "max_rad": 0.04,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "right_hip_pitch",
+      "id": 7,
+      "sio": 2,
+      "zero_pos": 7500.0,
+      "sign": 1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.48352859700633,
+      "max_rad": -0.17,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "right_knee_pitch",
+      "id": 8,
+      "sio": 2,
+      "zero_pos": 7500.0,
+      "sign": -1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": 0.56,
+      "max_rad": 0.8063464016852159,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "right_ankle_pitch",
+      "id": 9,
+      "sio": 2,
+      "zero_pos": 7500.0,
+      "sign": -1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.4544551281782383,
+      "max_rad": -0.16,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "right_ankle_roll",
+      "id": 10,
+      "sio": 2,
+      "zero_pos": 7500.0,
+      "sign": 1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.04,
+      "max_rad": 0.04,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "left_shoulder_pitch",
+      "id": 1,
+      "sio": 1,
+      "zero_pos": 7500.0,
+      "sign": 1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.085,
+      "max_rad": 0.085,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "left_shoulder_roll",
+      "id": 2,
+      "sio": 1,
+      "zero_pos": 7500.0,
+      "sign": 1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.01,
+      "max_rad": 0.01,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "left_elbow_pitch",
+      "id": 4,
+      "sio": 1,
+      "zero_pos": 7500.0,
+      "sign": -1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.01,
+      "max_rad": 0.01,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "right_shoulder_pitch",
+      "id": 1,
+      "sio": 2,
+      "zero_pos": 7500.0,
+      "sign": -1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.085,
+      "max_rad": 0.085,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "right_shoulder_roll",
+      "id": 2,
+      "sio": 2,
+      "zero_pos": 7500.0,
+      "sign": -1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.01,
+      "max_rad": 0.01,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "right_elbow_pitch",
+      "id": 4,
+      "sio": 2,
+      "zero_pos": 7500.0,
+      "sign": 1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.01,
+      "max_rad": 0.01,
+      "max_speed_rad_s": 0.85
+    },
+    {
+      "name": "head_yaw",
+      "id": 0,
+      "sio": 1,
+      "zero_pos": 7500.0,
+      "sign": 1,
+      "units_per_rad": 1697.6527263135504,
+      "min_rad": -0.01,
+      "max_rad": 0.01,
+      "max_speed_rad_s": 0.85
+    }
+  ],
+  "provenance": {
+    "source_config": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v4_controlled_10hz_retry01\\config.json",
+    "joint_mapping_basis": "Previously verified 17-joint RCB-4 mapping, zero positions, and command signs.",
+    "joint_bounds": "Prior bounds extended only as needed for archived motion plus 0.005 rad; absolute cap50 degrees. Supplied 16 motions peak49.488 degrees.",
+    "speed_limit_basis": "Unchanged 0.85 rad/s command cap; supplied motions peak0.8156 rad/s.",
+    "current_limit_basis": "Abort threshold above the maximum 3.309 A observed across 35,550 prior hardware power samples.",
+    "voltage_limit_basis": "Abort threshold below the minimum 9.3675 V observed across 35,550 prior hardware power samples.",
+    "created_for": "KHR3HV_SimReal_Transfer_Windows_20261010",
+    "mapping_status": "Six pitch signs confirmed; R1 forward motion operator-confirmed; individual roll correspondence remains provisional.",
+    "purpose": "Seed13 R3 commissioning replay",
+    "reset_bound": "At most400 counts per joint over8 seconds; remain within85 counts of previous completed endpoint before return."
+  },
+  "commissioning": {
+    "operator_requested": true,
+    "motion_id": "R3_lambda0.3_seed13",
+    "purpose": "Check motion visually before confirming remaining axis mapping; not formal study data",
+    "confirmed_pitch_signs": {
+      "left_hip_pitch": -1,
+      "left_knee_pitch": 1,
+      "left_ankle_pitch": 1,
+      "right_hip_pitch": 1,
+      "right_knee_pitch": -1,
+      "right_ankle_pitch": -1
+    },
+    "unconfirmed_axes": [
+      "left_hip_roll",
+      "right_hip_roll",
+      "left_ankle_roll",
+      "right_ankle_roll"
+    ],
+    "user_request": "Run seeds12 through15, all four conditions once each, automatically.",
+    "max_duration_s": 14,
+    "max_abs_angle_deg": 50,
+    "max_speed_rad_s": 0.85
+  }
+}

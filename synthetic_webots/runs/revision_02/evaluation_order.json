@@ -1,0 +1,27 @@
+{
+  "session": "one persistent Webots session",
+  "keys": [
+    "test_get_up_101",
+    "test_get_up_202",
+    "test_get_up_303",
+    "test_lie_down_101",
+    "test_lie_down_202",
+    "test_lie_down_303",
+    "test_push_box_101",
+    "test_push_box_202",
+    "test_push_box_303",
+    "test_stop_101",
+    "test_stop_202",
+    "test_stop_303",
+    "test_turn_180_101",
+    "test_turn_180_202",
+    "test_turn_180_303",
+    "test_turn_90_101",
+    "test_turn_90_202",
+    "test_turn_90_303",
+    "test_walk_101",
+    "test_walk_202",
+    "test_walk_303"
+  ],
+  "note": "Contact trajectories may depend on preceding trials despite identical reset commands. Differences from the original are recorded, not excluded."
+}

@@ -1,0 +1,384 @@
+{
+  "export_id": "FINAL_9motions_5repeats_original_models_20261109",
+  "created_utc": "2026-11-09T14:00:29.181441+00:00",
+  "scope": "9 selected motions x 5 current repetitions; original frozen R0-R3",
+  "model_sha256": "fb9d381ec3b142353725c83f274fad181b509ef9e5a2916d70954fa43b6c1d5e",
+  "selected_motions": [
+    1,
+    2,
+    10,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "excluded_console_numbers": [
+    3,
+    11,
+    12
+  ],
+  "recordings": [
+    {
+      "number": 1,
+      "motion": 16,
+      "name": "Walk",
+      "repeat": 1,
+      "capture_id": "B01_M016_A01_20261107_235054_897335",
+      "export_path": "recordings/01_M016/repeat_1/B01_M016_A01_20261107_235054_897335"
+    },
+    {
+      "number": 1,
+      "motion": 16,
+      "name": "Walk",
+      "repeat": 2,
+      "capture_id": "B02_M016_A01_20261107_235148_354253",
+      "export_path": "recordings/01_M016/repeat_2/B02_M016_A01_20261107_235148_354253"
+    },
+    {
+      "number": 1,
+      "motion": 16,
+      "name": "Walk",
+      "repeat": 3,
+      "capture_id": "B03_M016_A01_20261107_235242_328219",
+      "export_path": "recordings/01_M016/repeat_3/B03_M016_A01_20261107_235242_328219"
+    },
+    {
+      "number": 1,
+      "motion": 16,
+      "name": "Walk",
+      "repeat": 4,
+      "capture_id": "B04_M016_A01_20261107_235339_750105",
+      "export_path": "recordings/01_M016/repeat_4/B04_M016_A01_20261107_235339_750105"
+    },
+    {
+      "number": 1,
+      "motion": 16,
+      "name": "Walk",
+      "repeat": 5,
+      "capture_id": "B05_M016_A01_20261107_235540_085954",
+      "export_path": "recordings/01_M016/repeat_5/B05_M016_A01_20261107_235540_085954"
+    },
+    {
+      "number": 2,
+      "motion": 8,
+      "name": "Clap",
+      "repeat": 1,
+      "capture_id": "B01_M008_A01_20261108_001254_930768",
+      "export_path": "recordings/02_M008/repeat_1/B01_M008_A01_20261108_001254_930768"
+    },
+    {
+      "number": 2,
+      "motion": 8,
+      "name": "Clap",
+      "repeat": 2,
+      "capture_id": "B02_M008_A01_20261108_001421_972414",
+      "export_path": "recordings/02_M008/repeat_2/B02_M008_A01_20261108_001421_972414"
+    },
+    {
+      "number": 2,
+      "motion": 8,
+      "name": "Clap",
+      "repeat": 3,
+      "capture_id": "B03_M008_A01_20261108_001711_753938",
+      "export_path": "recordings/02_M008/repeat_3/B03_M008_A01_20261108_001711_753938"
+    },
+    {
+      "number": 2,
+      "motion": 8,
+      "name": "Clap",
+      "repeat": 4,
+      "capture_id": "B04_M008_A01_20261108_002257_973456",
+      "export_path": "recordings/02_M008/repeat_4/B04_M008_A01_20261108_002257_973456"
+    },
+    {
+      "number": 2,
+      "motion": 8,
+      "name": "Clap",
+      "repeat": 5,
+      "capture_id": "B05_M008_A01_20261108_002401_613601",
+      "export_path": "recordings/02_M008/repeat_5/B05_M008_A01_20261108_002401_613601"
+    },
+    {
+      "number": 10,
+      "motion": 1,
+      "name": "Bow",
+      "repeat": 1,
+      "capture_id": "B01_M001_A01_20261109_215110_960363",
+      "export_path": "recordings/10_M001/repeat_1/B01_M001_A01_20261109_215110_960363"
+    },
+    {
+      "number": 10,
+      "motion": 1,
+      "name": "Bow",
+      "repeat": 2,
+      "capture_id": "B02_M001_A01_20261109_215208_951956",
+      "export_path": "recordings/10_M001/repeat_2/B02_M001_A01_20261109_215208_951956"
+    },
+    {
+      "number": 10,
+      "motion": 1,
+      "name": "Bow",
+      "repeat": 3,
+      "capture_id": "B03_M001_A01_20261109_215255_992021",
+      "export_path": "recordings/10_M001/repeat_3/B03_M001_A01_20261109_215255_992021"
+    },
+    {
+      "number": 10,
+      "motion": 1,
+      "name": "Bow",
+      "repeat": 4,
+      "capture_id": "B04_M001_A01_20261109_215354_097602",
+      "export_path": "recordings/10_M001/repeat_4/B04_M001_A01_20261109_215354_097602"
+    },
+    {
+      "number": 10,
+      "motion": 1,
+      "name": "Bow",
+      "repeat": 5,
+      "capture_id": "B05_M001_A01_20261109_215444_554499",
+      "export_path": "recordings/10_M001/repeat_5/B05_M001_A01_20261109_215444_554499"
+    },
+    {
+      "number": 4,
+      "motion": 4,
+      "name": "Cheer",
+      "repeat": 1,
+      "capture_id": "B01_M004_A01_20261109_221246_117798",
+      "export_path": "recordings/04_M004/repeat_1/B01_M004_A01_20261109_221246_117798"
+    },
+    {
+      "number": 4,
+      "motion": 4,
+      "name": "Cheer",
+      "repeat": 2,
+      "capture_id": "B02_M004_A01_20261108_000206_306652",
+      "export_path": "recordings/04_M004/repeat_2/B02_M004_A01_20261108_000206_306652"
+    },
+    {
+      "number": 4,
+      "motion": 4,
+      "name": "Cheer",
+      "repeat": 3,
+      "capture_id": "B03_M004_A01_20261108_000304_391142",
+      "export_path": "recordings/04_M004/repeat_3/B03_M004_A01_20261108_000304_391142"
+    },
+    {
+      "number": 4,
+      "motion": 4,
+      "name": "Cheer",
+      "repeat": 4,
+      "capture_id": "B04_M004_A01_20261108_000426_028729",
+      "export_path": "recordings/04_M004/repeat_4/B04_M004_A01_20261108_000426_028729"
+    },
+    {
+      "number": 4,
+      "motion": 4,
+      "name": "Cheer",
+      "repeat": 5,
+      "capture_id": "B05_M004_A01_20261108_000615_561423",
+      "export_path": "recordings/04_M004/repeat_5/B05_M004_A01_20261108_000615_561423"
+    },
+    {
+      "number": 5,
+      "motion": 26,
+      "name": "Kick",
+      "repeat": 1,
+      "capture_id": "B01_M026_A01_20261108_000721_440206",
+      "export_path": "recordings/05_M026/repeat_1/B01_M026_A01_20261108_000721_440206"
+    },
+    {
+      "number": 5,
+      "motion": 26,
+      "name": "Kick",
+      "repeat": 2,
+      "capture_id": "B02_M026_A01_20261108_000803_173214",
+      "export_path": "recordings/05_M026/repeat_2/B02_M026_A01_20261108_000803_173214"
+    },
+    {
+      "number": 5,
+      "motion": 26,
+      "name": "Kick",
+      "repeat": 3,
+      "capture_id": "B03_M026_A01_20261108_000935_051351",
+      "export_path": "recordings/05_M026/repeat_3/B03_M026_A01_20261108_000935_051351"
+    },
+    {
+      "number": 5,
+      "motion": 26,
+      "name": "Kick",
+      "repeat": 4,
+      "capture_id": "B04_M026_A01_20261108_001018_099348",
+      "export_path": "recordings/05_M026/repeat_4/B04_M026_A01_20261108_001018_099348"
+    },
+    {
+      "number": 5,
+      "motion": 26,
+      "name": "Kick",
+      "repeat": 5,
+      "capture_id": "B05_M026_A01_20261108_001103_219597",
+      "export_path": "recordings/05_M026/repeat_5/B05_M026_A01_20261108_001103_219597"
+    },
+    {
+      "number": 6,
+      "motion": 73,
+      "name": "Crawl forward",
+      "repeat": 1,
+      "capture_id": "B01_M073_A01_20261107_232510_545241",
+      "export_path": "recordings/06_M073/repeat_1/B01_M073_A01_20261107_232510_545241"
+    },
+    {
+      "number": 6,
+      "motion": 73,
+      "name": "Crawl forward",
+      "repeat": 2,
+      "capture_id": "B02_M073_A01_20261107_231942_109694",
+      "export_path": "recordings/06_M073/repeat_2/B02_M073_A01_20261107_231942_109694"
+    },
+    {
+      "number": 6,
+      "motion": 73,
+      "name": "Crawl forward",
+      "repeat": 3,
+      "capture_id": "B03_M073_A01_20261107_232041_952267",
+      "export_path": "recordings/06_M073/repeat_3/B03_M073_A01_20261107_232041_952267"
+    },
+    {
+      "number": 6,
+      "motion": 73,
+      "name": "Crawl forward",
+      "repeat": 4,
+      "capture_id": "B04_M073_A01_20261107_232246_863860",
+      "export_path": "recordings/06_M073/repeat_4/B04_M073_A01_20261107_232246_863860"
+    },
+    {
+      "number": 6,
+      "motion": 73,
+      "name": "Crawl forward",
+      "repeat": 5,
+      "capture_id": "B05_M073_A01_20261109_214314_171166",
+      "export_path": "recordings/06_M073/repeat_5/B05_M073_A01_20261109_214314_171166"
+    },
+    {
+      "number": 7,
+      "motion": 74,
+      "name": "Crawl left",
+      "repeat": 1,
+      "capture_id": "B01_M074_A01_20261107_232616_290714",
+      "export_path": "recordings/07_M074/repeat_1/B01_M074_A01_20261107_232616_290714"
+    },
+    {
+      "number": 7,
+      "motion": 74,
+      "name": "Crawl left",
+      "repeat": 2,
+      "capture_id": "B02_M074_A01_20261107_232807_263284",
+      "export_path": "recordings/07_M074/repeat_2/B02_M074_A01_20261107_232807_263284"
+    },
+    {
+      "number": 7,
+      "motion": 74,
+      "name": "Crawl left",
+      "repeat": 3,
+      "capture_id": "B03_M074_A01_20261107_232849_999230",
+      "export_path": "recordings/07_M074/repeat_3/B03_M074_A01_20261107_232849_999230"
+    },
+    {
+      "number": 7,
+      "motion": 74,
+      "name": "Crawl left",
+      "repeat": 4,
+      "capture_id": "B04_M074_A01_20261107_232935_974865",
+      "export_path": "recordings/07_M074/repeat_4/B04_M074_A01_20261107_232935_974865"
+    },
+    {
+      "number": 7,
+      "motion": 74,
+      "name": "Crawl left",
+      "repeat": 5,
+      "capture_id": "B05_M074_A01_20261107_233807_787621",
+      "export_path": "recordings/07_M074/repeat_5/B05_M074_A01_20261107_233807_787621"
+    },
+    {
+      "number": 8,
+      "motion": 75,
+      "name": "Crawl right",
+      "repeat": 1,
+      "capture_id": "B01_M075_A01_20261107_233112_456719",
+      "export_path": "recordings/08_M075/repeat_1/B01_M075_A01_20261107_233112_456719"
+    },
+    {
+      "number": 8,
+      "motion": 75,
+      "name": "Crawl right",
+      "repeat": 2,
+      "capture_id": "B02_M075_A01_20261107_233215_090282",
+      "export_path": "recordings/08_M075/repeat_2/B02_M075_A01_20261107_233215_090282"
+    },
+    {
+      "number": 8,
+      "motion": 75,
+      "name": "Crawl right",
+      "repeat": 3,
+      "capture_id": "B03_M075_A01_20261107_233303_091444",
+      "export_path": "recordings/08_M075/repeat_3/B03_M075_A01_20261107_233303_091444"
+    },
+    {
+      "number": 8,
+      "motion": 75,
+      "name": "Crawl right",
+      "repeat": 4,
+      "capture_id": "B04_M075_A01_20261107_233445_760127",
+      "export_path": "recordings/08_M075/repeat_4/B04_M075_A01_20261107_233445_760127"
+    },
+    {
+      "number": 8,
+      "motion": 75,
+      "name": "Crawl right",
+      "repeat": 5,
+      "capture_id": "B05_M075_A01_20261107_233622_191296",
+      "export_path": "recordings/08_M075/repeat_5/B05_M075_A01_20261107_233622_191296"
+    },
+    {
+      "number": 9,
+      "motion": 76,
+      "name": "Crawl backward",
+      "repeat": 1,
+      "capture_id": "B01_M076_A01_20261107_234415_320812",
+      "export_path": "recordings/09_M076/repeat_1/B01_M076_A01_20261107_234415_320812"
+    },
+    {
+      "number": 9,
+      "motion": 76,
+      "name": "Crawl backward",
+      "repeat": 2,
+      "capture_id": "B02_M076_A01_20261107_234457_882753",
+      "export_path": "recordings/09_M076/repeat_2/B02_M076_A01_20261107_234457_882753"
+    },
+    {
+      "number": 9,
+      "motion": 76,
+      "name": "Crawl backward",
+      "repeat": 3,
+      "capture_id": "B03_M076_A01_20261107_234541_416818",
+      "export_path": "recordings/09_M076/repeat_3/B03_M076_A01_20261107_234541_416818"
+    },
+    {
+      "number": 9,
+      "motion": 76,
+      "name": "Crawl backward",
+      "repeat": 4,
+      "capture_id": "B04_M076_A01_20261107_234622_502150",
+      "export_path": "recordings/09_M076/repeat_4/B04_M076_A01_20261107_234622_502150"
+    },
+    {
+      "number": 9,
+      "motion": 76,
+      "name": "Crawl backward",
+      "repeat": 5,
+      "capture_id": "B05_M076_A01_20261107_234847_682861",
+      "export_path": "recordings/09_M076/repeat_5/B05_M076_A01_20261107_234847_682861"
+    }
+  ]
+}

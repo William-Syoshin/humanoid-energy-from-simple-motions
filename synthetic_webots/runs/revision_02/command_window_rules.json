@@ -1,0 +1,19 @@
+{
+  "version": "command_window_v1",
+  "command_change_threshold_rad": 1e-06,
+  "threshold_comparison": "strictly greater than",
+  "tail_after_last_change_s": 1.0,
+  "change_time": "time of the latter sample in an adjacent command pair",
+  "start": "first recorded sample",
+  "end": "min(last recorded time, last command-change time + 1.0 s)",
+  "no_command_change": "retain the complete recorded interval",
+  "endpoint_between_samples": "linear interpolation of already computed power series",
+  "primary": "full recorded interval",
+  "supplementary": "shortened window containing joint-command changes",
+  "supplementary_ja": "関節指令変化を含む短縮区間",
+  "history": "compute features, oracle, and predictions on full raw history before slicing",
+  "energy_aggregation": "equal-weight mean of trial absolute relative energy errors",
+  "power_aggregation": "sample-pooled RMSE; includes interpolated endpoint if needed",
+  "prohibited_use": "not for controller, timing, model, hyperparameter, or seed selection",
+  "refitting": "prohibited; use the supplied frozen model files"
+}

@@ -1,0 +1,58 @@
+{
+  "version": "motion_revision_v2",
+  "development_seeds": [
+    91001,
+    91002,
+    91003,
+    91004,
+    91005,
+    91006,
+    91007,
+    91008,
+    91009,
+    91010,
+    91011,
+    91012,
+    91013,
+    91014,
+    91015,
+    91016,
+    91017,
+    91018,
+    91019,
+    91020
+  ],
+  "evaluation_seeds": [
+    101,
+    202,
+    303
+  ],
+  "actions": [
+    "get_up",
+    "lie_down",
+    "walk",
+    "stop",
+    "push_box",
+    "turn_90",
+    "turn_180"
+  ],
+  "immutable": [
+    "synthetic_power_reference",
+    "M1_M5_features",
+    "M1_M5_fitting",
+    "mass",
+    "motor_torque",
+    "motor_PID",
+    "physics_step",
+    "friction",
+    "self_collision",
+    "100Hz_logging"
+  ],
+  "development_selection": "Mechanical criteria only; no energy or prediction-error optimization",
+  "training_recordings": "Reuse original 1000 train and 90 validation by exact hash; explicitly identified as reused",
+  "test_recordings": "New full 21-trial evaluation after freezing revised motion controllers",
+  "original_preserved": true,
+  "development_expansion_reason": "After preserving revision_01 (20/21 mechanical passes), add ten development perturbations for robustness checks. Final seeds remain 101/202/303; no power prediction scores used in controller selection.",
+  "previous_formal_revision": "runs/revision_01",
+  "supplementary_command_window": "Rule fixed before revision_02: final adjacent command change >1e-6 rad plus 1.0 s, capped at full recording. Full interval remains primary. Not used for controller selection."
+}

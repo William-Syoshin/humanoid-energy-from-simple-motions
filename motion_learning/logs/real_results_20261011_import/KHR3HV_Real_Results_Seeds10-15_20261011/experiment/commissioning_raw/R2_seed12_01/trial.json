@@ -1,0 +1,9 @@
+{
+  "trial_id": "R2_seed12_01",
+  "condition": "R2",
+  "weight": 0.3,
+  "training_seed": 12,
+  "repeat": 1,
+  "motion": "motions/R2_lambda0.3_seed12.json",
+  "motion_sha256": "9b858219bd0938dd7d59d7f5d33cdeb3ead8ec41af5e317e4b16c8c45e041030"
+}

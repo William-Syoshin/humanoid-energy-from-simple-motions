@@ -1,0 +1,35 @@
+{
+  "spec": {
+    "split": "test",
+    "id": "push_box_202",
+    "action": "push_box",
+    "context": "whole-body",
+    "duration": 14.0,
+    "seed": 202,
+    "level": null,
+    "joints": [],
+    "amplitude": 0.2,
+    "frequency": 0.6,
+    "offset": 0.0,
+    "phase": 1.5707963267948966
+  },
+  "samples": 1400,
+  "duration": 14.0,
+  "final_height": 0.33369508650285706,
+  "final_h": 6.50407631019867e-06,
+  "forward_m": 0.17654940859525747,
+  "yaw_change": -0.0029289413875228897,
+  "object_displacement": 0.12431441785188213,
+  "max_tau": 0.9199384671578444,
+  "contact_mean": [
+    16.983541269571916,
+    6.622600814643709,
+    0.0,
+    0.3078269544955283,
+    8.336571045013537,
+    8.339189581238008,
+    3.6478571428571427
+  ],
+  "sha256": "5af0244d1384ca501ec8d6414c2405eefd11ee5f0f684c1dcafd4d53ad7eb746",
+  "completed": 1791740859.551872
+}

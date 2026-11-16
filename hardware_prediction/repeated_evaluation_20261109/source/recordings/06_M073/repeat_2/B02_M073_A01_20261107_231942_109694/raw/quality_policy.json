@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "policy_id": "receive_jitter_5ms_user_requested_20261107",
+  "created_utc": "2026-11-07T14:03:11.807153+00:00",
+  "max_receive_jitter_s": 0.005,
+  "previous_max_receive_jitter_s": 0.003,
+  "user_requested": true,
+  "protocol_amended": true,
+  "authorization": "User requested a 5 ms receive-jitter limit and further receiver improvements on 2026-11-07 JST.",
+  "scope": "Current slots and future captures in repeat9_session01; do not restore archived reset slots.",
+  "historical_comparison": "Retain original 3 ms pass/fail separately. This is an amended exploratory threshold, not a newly calibrated timing guarantee.",
+  "other_quality_thresholds_changed": false,
+  "raw_data_changed": false
+}

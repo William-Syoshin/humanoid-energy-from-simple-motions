@@ -1,0 +1,16 @@
+{
+  "title": "Predicting Whole-Body Electrical Energy from Simple Motor Experiences",
+  "snapshot_date": "2026-11-10",
+  "manuscript_filename": "Humanoid_Manuscript_20261110.pdf",
+  "manuscript_sha256": "271f72e1cde231654931810ab2d0b3f15108bd9c7b294fc7ec14f8a0991d48ac",
+  "manuscript_included": false,
+  "figures": 11,
+  "primary_test_recordings": 45,
+  "motion_types": 9,
+  "repeats_per_motion": 5,
+  "original_implementation_commit": "7b144085ab47673770eac49baea1d5a8d524a46c",
+  "local_data_update": "Prepared 2026-11-10; verified for publication 2026-11-13",
+  "previous_snapshot_file": "Available in Git history at the original implementation commit.",
+  "scope_note": "Base eleven-figure snapshot dated 2026-11-10, with revised simulation data/code and two simulation figure assets updated on 2026-11-13. Later Bow/Kick posture illustration not bundled.",
+  "supporting_simulation": "revision_02: 21/21 sustained mechanical checks"
+}

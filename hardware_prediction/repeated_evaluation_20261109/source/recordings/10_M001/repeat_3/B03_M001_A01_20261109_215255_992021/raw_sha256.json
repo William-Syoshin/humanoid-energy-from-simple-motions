@@ -1,0 +1,9 @@
+{
+  "ad.csv": "780a75d06c2e9df16b941035368d02aa977e756a539e05d47a970b7ecf0d7c10",
+  "config.json": "e52d9a5b0908925f231d51bbbd8e37c93be6ba9fabd7d4f1f4fd3b5964be4226",
+  "meta.json": "154b046da48756d5c12b9e1520afa03055a5c27ce80cca6a491daa08c1c3f1b7",
+  "motion_status.json": "cce8defc8ecad7c401c7340dcf3724863a31b57ae7130dee94f6429b5c9cfa59",
+  "power.csv": "a24a65c96fdca7522f480817ff0f2b1113e60c2c9c093e5f0e199a754840f5e2",
+  "quality_policy.json": "6b13102846b4d8ef3b80828ff4ff194680f2afa2394d4de32e1aba8a93e7881b",
+  "state.csv": "eafff5d75162a3003fb0d7423b811f652b202b5c29be1ee92a249cff5852b3b1"
+}

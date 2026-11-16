@@ -1,0 +1,75 @@
+{
+  "seed": 20000,
+  "policy": "/Users/yuchenzhou/Documents/Codex/2026-10-05/webots-khr-3hv-macbook-github-linux-2/outputs/khr3hv_rl/logs/distance_goal_20261011/task_only-lambda0-seed15/final.zip",
+  "condition": "task_only",
+  "duration_s": 11.600000000000001,
+  "distance_m": 0.20076870617420953,
+  "mean_speed_m_s": 0.01730764708398358,
+  "fallen": false,
+  "escaped": false,
+  "completed_horizon": false,
+  "task_success": true,
+  "heading_error_rad": 0.001751409726078155,
+  "lateral_error_m": 0.0019022962746077033,
+  "mean_abs_heading_rad": 0.0015364608602227063,
+  "predicted_energy_J": {
+    "R1": 103.75709796293354,
+    "R2": 103.57786221887955,
+    "R3": 101.70159060765857
+  },
+  "positive_energy_J": {
+    "R1": 103.75709796293354,
+    "R2": 103.57786221887955,
+    "R3": 101.70159060765857
+  },
+  "ood_rate": 0.13362068965517243,
+  "ood_component_sample_rates": {
+    "position": 0.0,
+    "command": 0.0,
+    "velocity": 0.0,
+    "error": 0.0,
+    "pairs": 0.1111111111111111,
+    "context": 0.02564102564102564
+  },
+  "negative_power_rate": 0.0,
+  "reward_terms": {
+    "alive": 0.0,
+    "speed": 0.0,
+    "progress": 20.00000000000001,
+    "upright": 0.0,
+    "tilt": -0.004736784881487028,
+    "heading": -1.4146234750126705e-05,
+    "lateral": -0.0008658600022143784,
+    "joint_velocity": -0.000975018196774602,
+    "action_change": -0.0931499173923752,
+    "ood": -0.7750000000000004,
+    "fall": 0.0,
+    "energy": 0.0,
+    "time": -0.5800000000000004,
+    "goal": 200.0,
+    "timeout": 0.0
+  },
+  "energy_per_m_J": {
+    "R1": 516.7991563032847,
+    "R2": 515.9064088852758,
+    "R3": 506.56097031083533
+  },
+  "task_mode": "distance",
+  "target_distance_m": 0.2,
+  "reached_goal": true,
+  "timed_out": false,
+  "time_to_goal_s": 11.600000000000001,
+  "goal_overshoot_m": 0.0007687061742095158,
+  "termination_reason": "goal",
+  "in_distribution_success": false,
+  "joint_velocity_rms_rad_s": 0.1296559237562223,
+  "tracking_error_rms_rad": 0.011508851546669365,
+  "tilt_rms_rad": 0.02012096944183025,
+  "mean_gait_parameters": [
+    2.6348334805068845,
+    0.025443036091633335,
+    0.003762993289795544,
+    0.013022939091309523,
+    0.012921370659501125
+  ]
+}

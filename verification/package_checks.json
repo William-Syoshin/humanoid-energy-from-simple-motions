@@ -1,0 +1,10 @@
+{
+  "original_copy_count": 5841,
+  "modified_copies": 5,
+  "known_credential_signatures_detected": 0,
+  "symlinks": 0,
+  "maximum_file_bytes": 3786154,
+  "maximum_file": "hardware_prediction/manuscript/frontiers_20261023/analysis/integration_windows_20261101/windows.csv",
+  "all_files_below_100MB": true,
+  "copied_payload_compared_with_copy_time_source_hashes": true
+}

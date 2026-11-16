@@ -1,0 +1,46 @@
+{
+  "episodes": 10,
+  "distance_m": {
+    "mean": 0.20120240296972297,
+    "std": 1.1913490275648456e-05
+  },
+  "mean_speed_m_s": {
+    "mean": 0.021634666985991716,
+    "std": 1.2810204597475456e-06
+  },
+  "fallen": {
+    "mean": 0.0,
+    "std": 0.0
+  },
+  "task_success": {
+    "mean": 1.0,
+    "std": 0.0
+  },
+  "in_distribution_success": {
+    "mean": 0.0,
+    "std": 0.0
+  },
+  "heading_error_rad": {
+    "mean": 0.0021678706538272572,
+    "std": 0.001049384233895002
+  },
+  "ood_rate": {
+    "mean": 0.1021505376344086,
+    "std": 0.0
+  },
+  "negative_power_rate": {
+    "mean": 0.0,
+    "std": 0.0
+  },
+  "eligible_episodes": 10,
+  "predicted_energy_J_all": {
+    "R1": 84.78955765252391,
+    "R2": 81.58784993640623,
+    "R3": 79.69629722884098
+  },
+  "energy_per_m_J_successful": {
+    "R1": 421.4142408900467,
+    "R2": 405.50137055981406,
+    "R3": 396.1001274160042
+  }
+}

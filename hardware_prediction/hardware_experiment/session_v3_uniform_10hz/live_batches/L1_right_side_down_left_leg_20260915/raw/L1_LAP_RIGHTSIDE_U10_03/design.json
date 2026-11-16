@@ -1,0 +1,29 @@
+{
+  "config_sha256": "033ad441c3837a98774caf83b8d4083862dd6ff5445cf6b63651126e05a9cf7d",
+  "manifest_sha256": "7623bca1a5462a4f591b242bb2adf7e6d270a33c171bbd3f85aa4d1a4a766a99",
+  "recipes": {
+    "L1_LKP_RIGHTSIDE_U10_01": "6a0ab25231f967425f4930a5249872aa98a9b34042280c40b5858be23ecb3224",
+    "L1_LKP_RIGHTSIDE_U10_02": "31fe655bf702e67b2670bdf926d6f99171e01aad81114929c41c929449dbbe78",
+    "L1_LKP_RIGHTSIDE_U10_03": "73c40ee72d4f1da2fb4b9e84b2f7a6ffcc90a4c2d23738eb2f767bd84745f0b5",
+    "L1_LAP_RIGHTSIDE_U10_01": "4eb8d2de9a7e7644fd223a11b108aac48e594b75cdb3106bf56fed5d07a076b9",
+    "L1_LAP_RIGHTSIDE_U10_02": "3a750a2148b53c2860c6415e6b0a6edf3cff6386ce18c498ee4a7cdd619a6cc3",
+    "L1_LAP_RIGHTSIDE_U10_03": "8884366692c42b743a1e067245878c741c7facd534b2e1c62fa94dff66b678db",
+    "L1_LAR_RIGHTSIDE_U10_01": "93ba265d5f49f904c9819608c8dfe4a15f7f5e38c70c6387007c764e48070ca3",
+    "L1_LAR_RIGHTSIDE_U10_02": "7b0b88784159c3b404c5bc6d0a58f731392470f7e45b3e6246bd36a22c7019d8",
+    "L1_LAR_RIGHTSIDE_U10_03": "15901008ba2730978f8a5a3e13a8a00f71011a56c6a8780e5d8de9c50565cc09"
+  },
+  "code": {
+    "acquire.py": "6a78873f581cbc1d21a47c07f8b30bb7615a1b05533ead1f43739e6eabf7c14f",
+    "analysis.py": "9882399c5155a0c77be9435a9c6e726bcfa670e11ef637fc7bcc4c438fd49066",
+    "calibration.py": "bfee40b5fadc36c82fa550eaaf72823caa016356c3293cfdc4f1f8d94dcb8434",
+    "core.py": "0cdbbf3708147b9083cf9890f524e475247a371f3a45ac385a80a60a3aded92d",
+    "design.py": "bdfc065288715ffd9d517617972fb6f1e234b3e285d79630f5c52b80c1d7c27e",
+    "experiment_cli.py": "fb08f8b72b96943c10bacfbba2f41b85789ee14d539992865d4f10b2deffbde5",
+    "export_regression_data.py": "30b266e17b6a047f25630ae979aacb74f9dbfabd12e6e0360f186e6040b39d43",
+    "orientation.py": "2b87d4c3f285168ce554dca593afcf8080c1b6f305fd0500c38c610bafd65ed7",
+    "probe_connections.py": "e862f6457831310a466a600d1efaf2e9cb57153d7ec7c35f3d1b5012cddf315d",
+    "processing.py": "eb508527f4d99efc69bcc33f899cc2219128236b2f1e6d9ea0ac4edc8be44945",
+    "protocol.py": "48a21657508570519ee6730cd3f13909be5af766712790e19bf2075d1ac90799"
+  },
+  "excluded": []
+}

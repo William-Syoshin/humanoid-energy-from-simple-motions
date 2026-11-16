@@ -1,0 +1,9 @@
+{
+  "trial_id": "Baseline_seed15_01",
+  "condition": "Task-only",
+  "weight": 0.0,
+  "training_seed": 15,
+  "repeat": 1,
+  "motion": "motions/Task-only_lambda0_seed15.json",
+  "motion_sha256": "44f2c6bb40ed4a26cde3bdeedc28604f8ee2d4a4f51c32e844b89be7fb00dc4e"
+}

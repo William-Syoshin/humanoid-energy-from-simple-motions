@@ -1,0 +1,15 @@
+{
+  "knee_feedback_after_return": {
+    "1": {
+      "ok": true,
+      "position": 7514
+    },
+    "2": {
+      "ok": true,
+      "position": 7479
+    }
+  },
+  "power_samples": 86,
+  "max_current_A": 0.8099,
+  "min_voltage_V": 10.4738
+}

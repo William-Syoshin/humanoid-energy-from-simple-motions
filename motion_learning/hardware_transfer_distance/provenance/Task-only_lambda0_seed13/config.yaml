@@ -1,0 +1,110 @@
+condition: task_only
+seed: 13
+simulation:
+  physics_ms: 4
+  control_ms: 20
+  action_ms: 100
+  episode_s: 40.0
+  settle_s: 1.0
+  gui: false
+  realtime: false
+  startup_timeout_s: 90
+  socket_timeout_s: 120
+  motor_velocity_rad_s: 3.0
+  motor_torque_fraction: 1.0
+  pid:
+  - 10.0
+  - 0.0
+  - 0.0
+  friction: 1.0
+  initial_yaw_std_rad: 0.005
+  sensor_joint_std_rad: 0.0
+  sensor_accel_std_m_s2: 0.0
+  command_latency_steps: 0
+task:
+  target_speed_m_s: 0.012
+  speed_tolerance_m_s: 0.01
+  fall_height_m: 0.22
+  fall_tilt_rad: 0.65
+  heading_limit_rad: 0.35
+  lateral_limit_m: 0.05
+  mode: distance
+  target_distance_m: 0.2
+gait:
+  parameter_names:
+  - period_s
+  - stride_m
+  - lift_m
+  - sway_rad
+  - lean_rad
+  nominal:
+  - 2.8
+  - 0.02
+  - 0.003
+  - 0.02
+  - 0.0
+  lower:
+  - 2.2
+  - 0.012
+  - 0.0015
+  - 0.005
+  - -0.03
+  upper:
+  - 3.4
+  - 0.028
+  - 0.006
+  - 0.035
+  - 0.03
+  slew_per_s:
+  - 0.5
+  - 0.01
+  - 0.004
+  - 0.03
+  - 0.03
+  thigh_m: 0.06375
+  shin_m: 0.0643
+  leg_height_m: 0.122
+  ramp_s: 1.5
+  roll_phase_rad: 0.0
+  arm_swing_rad: 0.08
+  joint_limit_rad: 1.4
+reward:
+  alive: 0.0
+  speed: 0.0
+  progress: 100.0
+  upright: 0.0
+  tilt: 0.5
+  heading: 0.5
+  lateral: 2.0
+  joint_velocity: 0.005
+  action_change: 0.03
+  ood: 0.5
+  fall: 200.0
+  goal: 200.0
+  timeout: 200.0
+  time: 0.05
+energy:
+  weight: 0.0
+  support: feet
+training:
+  total_timesteps: 100000
+  learning_rate: 0.0003
+  batch_size: 64
+  n_steps: 512
+  gamma: 1.0
+  gae_lambda: 0.95
+  n_epochs: 10
+  ent_coef: 0.0
+  clip_range: 0.2
+  device: cpu
+  torch_threads: 1
+  net_arch:
+  - 64
+  - 64
+  log_directory: logs/rl
+  model_save_interval: 25000
+evaluation:
+  episodes: 10
+  seed_start: 20000
+  minimum_speed_fraction: 0.9
+  maximum_ood_rate: 0.1

@@ -1,0 +1,38 @@
+{
+  "M1": {
+    "max_abs_differences": {
+      "cols": 0.0,
+      "scale": 0.0,
+      "beta": 0.0,
+      "alpha": 0.0
+    },
+    "all_arrays_identical": true
+  },
+  "M2": {
+    "max_abs_differences": {
+      "cols": 0.0,
+      "scale": 0.0,
+      "beta": 0.0,
+      "alpha": 0.0
+    },
+    "all_arrays_identical": true
+  },
+  "M3": {
+    "max_abs_differences": {
+      "cols": 0.0,
+      "scale": 0.0,
+      "beta": 0.0,
+      "alpha": 0.0
+    },
+    "all_arrays_identical": true
+  },
+  "M4": {
+    "max_abs_differences": {
+      "cols": 0.0,
+      "scale": 0.0,
+      "beta": 0.0,
+      "alpha": 0.0
+    },
+    "all_arrays_identical": true
+  }
+}

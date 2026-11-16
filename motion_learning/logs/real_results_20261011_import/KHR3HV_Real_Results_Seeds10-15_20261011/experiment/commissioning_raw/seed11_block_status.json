@@ -1,0 +1,14 @@
+{
+  "status": "complete",
+  "started_utc": "2026-10-11T04:40:41.722545+00:00",
+  "completed": [
+    "R1_seed11_01",
+    "R3_seed11_01",
+    "R2_seed11_01",
+    "Baseline_seed11_01"
+  ],
+  "distance_m": null,
+  "automatic_fall_detection": false,
+  "current_trial": "Baseline_seed11_01",
+  "finished_utc": "2026-10-11T04:42:24.893325+00:00"
+}

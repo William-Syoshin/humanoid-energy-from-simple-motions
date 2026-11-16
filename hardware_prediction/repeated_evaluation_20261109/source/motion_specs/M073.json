@@ -1,0 +1,32 @@
+{
+  "motion": 73,
+  "name": "Crawl",
+  "original_trial": "M073_20260915_153043",
+  "mode": "onboard",
+  "frame_multiplier": 1,
+  "support": "ground",
+  "original_observed_motion_s": 18.37063899997156,
+  "original_scored_s": 20.29999999998836,
+  "commands": [],
+  "historical_initial_positions": [
+    7499,
+    10450,
+    11050,
+    4560,
+    7501,
+    7503,
+    4547,
+    3941,
+    10427,
+    7502,
+    10030,
+    7487,
+    5404,
+    4970,
+    7505,
+    9602,
+    7501
+  ],
+  "original_meta_sha256": "023a618f21a37370e52b50396dfb70ad3676e5969e020ca1cf1d18fc9fa6be8f",
+  "historical_project_sha256": null
+}

@@ -1,0 +1,126 @@
+{
+  "recorded_utc": "2026-10-11T04:47:59.905807+00:00",
+  "operator_statement": "じゃあseed12~15についてもじっけんして",
+  "seeds": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "repeats": 1,
+  "trajectory_checks": [
+    {
+      "seed": 12,
+      "condition": "R1",
+      "duration_s": 9.4,
+      "max_abs_angle_deg": 39.54417038483771,
+      "max_speed_rad_s": 0.4882515603553961
+    },
+    {
+      "seed": 12,
+      "condition": "R3",
+      "duration_s": 9.4,
+      "max_abs_angle_deg": 39.54425774007085,
+      "max_speed_rad_s": 0.5182515603553761
+    },
+    {
+      "seed": 12,
+      "condition": "R2",
+      "duration_s": 9.3,
+      "max_abs_angle_deg": 39.54417038483771,
+      "max_speed_rad_s": 0.4882515603553961
+    },
+    {
+      "seed": 12,
+      "condition": "Baseline",
+      "duration_s": 13.3,
+      "max_abs_angle_deg": 47.66866276530315,
+      "max_speed_rad_s": 0.6474254234505761
+    },
+    {
+      "seed": 13,
+      "condition": "R1",
+      "duration_s": 9.5,
+      "max_abs_angle_deg": 44.07197340586615,
+      "max_speed_rad_s": 0.625662062785648
+    },
+    {
+      "seed": 13,
+      "condition": "R3",
+      "duration_s": 9.3,
+      "max_abs_angle_deg": 42.424077727020524,
+      "max_speed_rad_s": 0.572418196194735
+    },
+    {
+      "seed": 13,
+      "condition": "R2",
+      "duration_s": 9.3,
+      "max_abs_angle_deg": 43.674627818753656,
+      "max_speed_rad_s": 0.6227400217957813
+    },
+    {
+      "seed": 13,
+      "condition": "Baseline",
+      "duration_s": 13.3,
+      "max_abs_angle_deg": 45.77917853647083,
+      "max_speed_rad_s": 0.5395621540066342
+    },
+    {
+      "seed": 14,
+      "condition": "R1",
+      "duration_s": 9.4,
+      "max_abs_angle_deg": 39.54417038483771,
+      "max_speed_rad_s": 0.4882515603553961
+    },
+    {
+      "seed": 14,
+      "condition": "R3",
+      "duration_s": 9.4,
+      "max_abs_angle_deg": 39.54417210043461,
+      "max_speed_rad_s": 0.5016470512857085
+    },
+    {
+      "seed": 14,
+      "condition": "R2",
+      "duration_s": 9.6,
+      "max_abs_angle_deg": 39.54417038483771,
+      "max_speed_rad_s": 0.5182515603553844
+    },
+    {
+      "seed": 14,
+      "condition": "Baseline",
+      "duration_s": 13.1,
+      "max_abs_angle_deg": 49.488383985035156,
+      "max_speed_rad_s": 0.7154981397933025
+    },
+    {
+      "seed": 15,
+      "condition": "R1",
+      "duration_s": 9.3,
+      "max_abs_angle_deg": 39.54417038483771,
+      "max_speed_rad_s": 0.4882515603553961
+    },
+    {
+      "seed": 15,
+      "condition": "R3",
+      "duration_s": 9.4,
+      "max_abs_angle_deg": 40.47517348569922,
+      "max_speed_rad_s": 0.5690003287267986
+    },
+    {
+      "seed": 15,
+      "condition": "R2",
+      "duration_s": 9.4,
+      "max_abs_angle_deg": 48.44074931490535,
+      "max_speed_rad_s": 0.8156139662021777
+    },
+    {
+      "seed": 15,
+      "condition": "Baseline",
+      "duration_s": 11.6,
+      "max_abs_angle_deg": 46.16029132617482,
+      "max_speed_rad_s": 0.6091945799672205
+    }
+  ],
+  "distance_m": null
+}

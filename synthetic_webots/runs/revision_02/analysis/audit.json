@@ -1,0 +1,18 @@
+{
+  "source_hash_match": true,
+  "counts": {
+    "train": 1000,
+    "validation": 90,
+    "test": 21,
+    "control": 3
+  },
+  "raw_sha256_verified": 1114,
+  "all_finite": true,
+  "mechanical_pass": 21,
+  "mechanical_total": 21,
+  "validation_only_hyperparameter_selection": true,
+  "excluded_historical_document_hashes": [
+    "reference/figure_provenance.json",
+    "reference/main.tex"
+  ]
+}

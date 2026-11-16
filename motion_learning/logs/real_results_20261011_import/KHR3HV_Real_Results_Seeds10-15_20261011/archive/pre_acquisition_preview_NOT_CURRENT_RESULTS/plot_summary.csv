@@ -1,0 +1,33 @@
+figure,condition,domain,metric,n,expected_n,mean,sample_sd,unit
+replay,R1,sim,speed_m_s,1,1,0.02134939595607402,,training seed
+replay,R1,sim,energy_J,1,1,82.20393943965547,,training seed
+replay,R1,real,speed_m_s,0,3,,,physical replay of one fixed seed
+replay,R1,real,energy_J,0,3,,,physical replay of one fixed seed
+replay,R2,sim,speed_m_s,1,1,0.021275326568145354,,training seed
+replay,R2,sim,energy_J,1,1,79.6491784925152,,training seed
+replay,R2,real,speed_m_s,0,3,,,physical replay of one fixed seed
+replay,R2,real,energy_J,0,3,,,physical replay of one fixed seed
+replay,R3,sim,speed_m_s,1,1,0.021307748343080107,,training seed
+replay,R3,sim,energy_J,1,1,79.68617976252958,,training seed
+replay,R3,real,speed_m_s,0,3,,,physical replay of one fixed seed
+replay,R3,real,energy_J,0,3,,,physical replay of one fixed seed
+replay,Task-only,sim,speed_m_s,1,1,0.01660753351198397,,training seed
+replay,Task-only,sim,energy_J,1,1,102.0352062708159,,training seed
+replay,Task-only,real,speed_m_s,0,3,,,physical replay of one fixed seed
+replay,Task-only,real,energy_J,0,3,,,physical replay of one fixed seed
+goal,R1,sim,goal_time_s,1,1,9.4,,training seed
+goal,R1,sim,goal_energy_J,1,1,82.20393943965547,,training seed
+goal,R1,real,goal_time_s,0,3,,,physical replay of one fixed seed
+goal,R1,real,goal_energy_J,0,3,,,physical replay of one fixed seed
+goal,R2,sim,goal_time_s,1,1,9.5,,training seed
+goal,R2,sim,goal_energy_J,1,1,79.6491784925152,,training seed
+goal,R2,real,goal_time_s,0,3,,,physical replay of one fixed seed
+goal,R2,real,goal_energy_J,0,3,,,physical replay of one fixed seed
+goal,R3,sim,goal_time_s,1,1,9.5,,training seed
+goal,R3,sim,goal_energy_J,1,1,79.68617976252958,,training seed
+goal,R3,real,goal_time_s,0,3,,,physical replay of one fixed seed
+goal,R3,real,goal_energy_J,0,3,,,physical replay of one fixed seed
+goal,Task-only,sim,goal_time_s,1,1,12.1,,training seed
+goal,Task-only,sim,goal_energy_J,1,1,102.0352062708159,,training seed
+goal,Task-only,real,goal_time_s,0,3,,,physical replay of one fixed seed
+goal,Task-only,real,goal_energy_J,0,3,,,physical replay of one fixed seed

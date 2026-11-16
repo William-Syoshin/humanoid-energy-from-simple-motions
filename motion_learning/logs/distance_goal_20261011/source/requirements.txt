@@ -1,0 +1,9 @@
+# Python 3.11. The Webots worker itself uses only the standard library.
+# `controller` is supplied by Webots; do NOT install the PyPI namesake.
+numpy==2.2.6
+gymnasium==1.2.3
+stable-baselines3==2.7.1
+torch==2.8.0
+tensorboard==2.20.0
+PyYAML==6.0.3
+pytest==8.4.2

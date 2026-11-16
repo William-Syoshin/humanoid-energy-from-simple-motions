@@ -1,0 +1,144 @@
+{
+  "usable": true,
+  "energy_J": 78.6897657151292,
+  "aligned_energy_J": 78.68976571494463,
+  "energy_difference_fraction": 2.3455474719447204e-12,
+  "duration_s": 8.0,
+  "analysis_hz": 10.000000002328306,
+  "power": {
+    "samples": 121,
+    "valid_time": true,
+    "rate_hz": 10.0,
+    "max_gap_s": 0.10000000000582077
+  },
+  "feedback": {
+    "0": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.430625148115982,
+      "max_gap_s": 0.2629357000114396
+    },
+    "1": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.432661816025186,
+      "max_gap_s": 0.2609633499523625
+    },
+    "2": {
+      "samples": 175,
+      "valid_time": true,
+      "rate_hz": 14.510981971690757,
+      "max_gap_s": 0.1130235000164248
+    },
+    "3": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.435108476025999,
+      "max_gap_s": 0.2560201500309631
+    },
+    "4": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.4261923593059525,
+      "max_gap_s": 0.25909050001064315
+    },
+    "5": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.427101124431832,
+      "max_gap_s": 0.2560271000256762
+    },
+    "6": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.429613813456861,
+      "max_gap_s": 0.2570257999468595
+    },
+    "7": {
+      "samples": 174,
+      "valid_time": true,
+      "rate_hz": 14.427479401322561,
+      "max_gap_s": 0.11810634995345026
+    },
+    "8": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.432356820198672,
+      "max_gap_s": 0.24802830000407994
+    },
+    "9": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.432158142220147,
+      "max_gap_s": 0.2531777999829501
+    },
+    "10": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.434115210967814,
+      "max_gap_s": 0.2508135000243783
+    },
+    "11": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.434301699405606,
+      "max_gap_s": 0.2604736000066623
+    },
+    "12": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.434707229801048,
+      "max_gap_s": 0.2554612999665551
+    },
+    "13": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.430427933684518,
+      "max_gap_s": 0.25631284998962656
+    },
+    "14": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.431942502848777,
+      "max_gap_s": 0.2566475499770604
+    },
+    "15": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.433115069487768,
+      "max_gap_s": 0.2632883500191383
+    },
+    "16": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.42998429419108,
+      "max_gap_s": 0.2563388000125997
+    }
+  },
+  "analysis_schema": {
+    "feedback": true,
+    "tilt": "accelerometer",
+    "support": true
+  },
+  "joint_velocity_definition": "dq_j is np.gradient of a centered 0.4 s (5 sample) edge-padded moving average of q_j",
+  "tracking_error_definition": "e_j = cmd_j - q_j on the aligned grid",
+  "clock_offset_s": 432516.6943047,
+  "receive_jitter_s": 0.0006703999824821949,
+  "alignment_uncertainty_s": 0.101,
+  "power_definition": "Native calibrated VI, averaged over grid temporal cells; power_W is authoritative",
+  "mechanical_success": null,
+  "aligned_sha256": "b9e23a4ba0045a88f9578c9ef9442b62ce8b2d419d1713832f6660d05862e7d1",
+  "sources": {
+    "acquisition_qc.json": "21e9185de94d8dfd02d436f6517274daf90c1c4facbffab4cb03fd96a011b485",
+    "ad.csv": "15f7241175a9b65a177ea9424137c1a6bdae5b2d60a5d20ff1228df790f7449a",
+    "commands.csv": "bb46660a351a0763f52fc60035384fe25cc6af04accba9fd379bd2f2d6acce98",
+    "config.json": "ce7e5d83dcbc693da08a753da05114255ec075af15fb162e504f80ed5bf13467",
+    "design.json": "965e3ad5327d7c81509df9787e5dfac631415b5545f55ea4430f06685eed8a87",
+    "feedback.csv": "9a0a565f819010b75bc3edcca45be9b0731c8f691504122949cb2cb9fc82ad8e",
+    "meta.json": "516e09f969b2170b3ac99b062d3de10f6b87d7e26e1a75d24444f2d1e1ceaa48",
+    "power.csv": "7617e43423d98e61b1b9bf37f054449ed91eda841a918481e5f0a1dd4e8e791a",
+    "power_events.csv": "68c9cfb74c0046f7e9e229ca0a7146e4901296522d9d7ef5e32c6f278027d0e5",
+    "recipe.json": "2e78a60d4576628882fd5ae3ac6c834b944dc1a8c1c4e996fae600947877df0e"
+  },
+  "processing_config_sha256": "ce7e5d83dcbc693da08a753da05114255ec075af15fb162e504f80ed5bf13467"
+}

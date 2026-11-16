@@ -1,0 +1,13 @@
+{
+  "confirmed_utc": "2026-10-11T04:18:54.958193+00:00",
+  "source": "User answered はい to symmetric natural knee flexion, upright torso and both soles on floor",
+  "confirmed_pitch_signs": {
+    "left_hip_pitch": -1,
+    "left_knee_pitch": 1,
+    "left_ankle_pitch": 1,
+    "right_hip_pitch": 1,
+    "right_knee_pitch": -1,
+    "right_ankle_pitch": -1
+  },
+  "scope": "Supported initial posture; not full gait stability or measured axis calibration"
+}

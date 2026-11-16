@@ -1,0 +1,120 @@
+{
+  "old_legacy_pass": 9,
+  "new_legacy_pass": 21,
+  "new_revised_pass": 21,
+  "total": 21,
+  "all_ridge_fits_identical": true,
+  "M5_refit_check": {
+    "validation_trials": 90,
+    "max_abs_prediction_difference": 0.0,
+    "all_validation_predictions_identical": true
+  },
+  "residual_energy_share_pct": {
+    "original": 1.0566621362392885,
+    "revised": 0.5923913576702099
+  },
+  "original_models": [
+    {
+      "model": "M1",
+      "mean_energy_error_pct": "14.974238307011428",
+      "worst_energy_error_pct": "25.15473708139387",
+      "mean_trial_power_RMSE_W": "1.6345126028310033",
+      "pooled_power_RMSE_W": "1.9356066060827009",
+      "pooled_R2": "0.9124755872168507",
+      "alpha": "1e-05",
+      "validation_RMSE_W": "1.9030538203839051"
+    },
+    {
+      "model": "M2",
+      "mean_energy_error_pct": "12.283669842341439",
+      "worst_energy_error_pct": "22.647983372587518",
+      "mean_trial_power_RMSE_W": "1.304606330853518",
+      "pooled_power_RMSE_W": "1.3922594109768298",
+      "pooled_R2": "0.9547169846105721",
+      "alpha": "100",
+      "validation_RMSE_W": "1.391691957515118"
+    },
+    {
+      "model": "M3",
+      "mean_energy_error_pct": "2.2036517721327193",
+      "worst_energy_error_pct": "5.539635841179678",
+      "mean_trial_power_RMSE_W": "0.48968794690413875",
+      "pooled_power_RMSE_W": "0.6864109644695561",
+      "pooled_R2": "0.9889931400985267",
+      "alpha": "10",
+      "validation_RMSE_W": "0.7159805178728204"
+    },
+    {
+      "model": "M4",
+      "mean_energy_error_pct": "0.34162180404726267",
+      "worst_energy_error_pct": "1.1753372247427705",
+      "mean_trial_power_RMSE_W": "0.06435655368204059",
+      "pooled_power_RMSE_W": "0.17065109913902696",
+      "pooled_R2": "0.9993196800695907",
+      "alpha": "0.1",
+      "validation_RMSE_W": "0.08141113175707922"
+    },
+    {
+      "model": "M5",
+      "mean_energy_error_pct": "2.3438238842721875",
+      "worst_energy_error_pct": "4.743107428002101",
+      "mean_trial_power_RMSE_W": "0.7866657141989083",
+      "pooled_power_RMSE_W": "0.7609267172638733",
+      "pooled_R2": "0.9864736481383158",
+      "alpha": "",
+      "validation_RMSE_W": "0.9859346377839076"
+    }
+  ],
+  "revised_models": [
+    {
+      "model": "M1",
+      "mean_energy_error_pct": "14.550700485380167",
+      "worst_energy_error_pct": "22.96450962313376",
+      "mean_trial_power_RMSE_W": "1.635967729660509",
+      "pooled_power_RMSE_W": "1.7338805929484502",
+      "pooled_R2": "0.9385435778637219",
+      "alpha": "1e-05",
+      "validation_RMSE_W": "1.9030538203839051"
+    },
+    {
+      "model": "M2",
+      "mean_energy_error_pct": "11.013683617566414",
+      "worst_energy_error_pct": "22.64798337258781",
+      "mean_trial_power_RMSE_W": "1.2982940601904147",
+      "pooled_power_RMSE_W": "1.278987621201414",
+      "pooled_R2": "0.9665603607217418",
+      "alpha": "100",
+      "validation_RMSE_W": "1.391691957515118"
+    },
+    {
+      "model": "M3",
+      "mean_energy_error_pct": "2.2994156898842406",
+      "worst_energy_error_pct": "5.539635841179792",
+      "mean_trial_power_RMSE_W": "0.6963448546841798",
+      "pooled_power_RMSE_W": "1.19728422570751",
+      "pooled_R2": "0.9706962349884974",
+      "alpha": "10",
+      "validation_RMSE_W": "0.7159805178728204"
+    },
+    {
+      "model": "M4",
+      "mean_energy_error_pct": "0.23381570849354896",
+      "worst_energy_error_pct": "0.6202932728572614",
+      "mean_trial_power_RMSE_W": "0.027504704287913205",
+      "pooled_power_RMSE_W": "0.052526924954267196",
+      "pooled_R2": "0.9999435982141085",
+      "alpha": "0.1",
+      "validation_RMSE_W": "0.08141113175707922"
+    },
+    {
+      "model": "M5",
+      "mean_energy_error_pct": "1.6264750970078783",
+      "worst_energy_error_pct": "4.743107427999549",
+      "mean_trial_power_RMSE_W": "1.0457987744863875",
+      "pooled_power_RMSE_W": "1.4102946310583133",
+      "pooled_R2": "0.9593417570336037",
+      "alpha": "",
+      "validation_RMSE_W": "0.9859346377839076"
+    }
+  ]
+}

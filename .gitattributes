@@ -1,0 +1,5 @@
+# Archived CRLF data and frozen source are hashed byte-for-byte.
+# Do not apply automatic newline conversion on checkout/commit.
+* -text
+# Treat publication artwork as binary; PDF xref whitespace is significant.
+*.pdf binary

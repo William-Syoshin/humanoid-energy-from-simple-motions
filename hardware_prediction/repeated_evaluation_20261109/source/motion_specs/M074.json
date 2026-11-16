@@ -1,0 +1,32 @@
+{
+  "motion": 74,
+  "name": "Crawl turn left",
+  "original_trial": "M074_20260915_153316",
+  "mode": "onboard",
+  "frame_multiplier": 1,
+  "support": "ground",
+  "original_observed_motion_s": 21.313783499994315,
+  "original_scored_s": 23.20000000001164,
+  "commands": [],
+  "historical_initial_positions": [
+    7490,
+    10450,
+    11041,
+    4569,
+    7492,
+    7503,
+    4566,
+    3941,
+    10427,
+    7502,
+    10157,
+    7496,
+    5395,
+    4931,
+    7505,
+    9602,
+    7501
+  ],
+  "original_meta_sha256": "8197a3c4ca41ab5534db5550b6deceacaea05ae3f2fefc27c8c2ef6a782a67a6",
+  "historical_project_sha256": null
+}

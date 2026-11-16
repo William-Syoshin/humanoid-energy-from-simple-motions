@@ -1,0 +1,8 @@
+{
+  "total_records": 1114,
+  "newly_simulated_test_records": 21,
+  "reused_training_records": 1000,
+  "reused_validation_records": 90,
+  "reused_control_records": 3,
+  "finished": 1794399217.753464
+}

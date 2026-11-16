@@ -1,0 +1,17 @@
+{
+  "energy_J": 97.10886588575565,
+  "mean_power_W": 8.371453955685393,
+  "duration_s": 11.599999999976717,
+  "timing_uncertainty_s": 0.101,
+  "negative_power_samples": 0,
+  "condition": "Baseline",
+  "training_seed": 15,
+  "trial_id": "Baseline_seed15_01",
+  "command_count": 580,
+  "power_sample_count": 147,
+  "distance_m": null,
+  "physical_outcome": "not_individually_reported",
+  "commissioning": true,
+  "mapping_verified": false,
+  "source_dir": "C:\\khr-20cm-20261011\\KHR3HV_20cm_Transfer\\commissioning_raw\\Baseline_seed15_01"
+}

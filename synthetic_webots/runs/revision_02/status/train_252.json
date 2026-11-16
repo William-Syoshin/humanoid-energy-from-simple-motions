@@ -1,0 +1,38 @@
+{
+  "spec": {
+    "split": "train",
+    "id": "252",
+    "action": "L3",
+    "context": "crouching",
+    "duration": 4.0,
+    "seed": 662,
+    "level": 3,
+    "joints": [
+      0,
+      6
+    ],
+    "amplitude": 0.2,
+    "frequency": 0.6,
+    "offset": 0.0,
+    "phase": 3.141592653589793
+  },
+  "samples": 400,
+  "duration": 4.0,
+  "final_height": 0.3149184106612787,
+  "final_h": 0.00419190714253026,
+  "forward_m": -0.0038096829570696544,
+  "yaw_change": -0.6344467627179322,
+  "object_displacement": 1.134510481823722e-18,
+  "max_tau": 1.3783136013969308,
+  "contact_mean": [
+    16.72843830333004,
+    14.194253601560279,
+    0.0,
+    0.0,
+    8.154896367993972,
+    8.573541935336074,
+    2.9325
+  ],
+  "sha256": "9f72b6b4276f54e2b5daa2ba0ed02b839a1dcbf1de491f451d45bc7e481a2a0f",
+  "completed": 1791740359.8311958
+}

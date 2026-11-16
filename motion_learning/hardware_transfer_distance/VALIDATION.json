@@ -1,0 +1,41 @@
+{
+  "created_utc": "2026-10-11T02:16:41.376107+00:00",
+  "experiment": "distance_goal_20261011",
+  "exported_motions": 24,
+  "training_seeds": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "evaluation_seed": 20000,
+  "pilot_trials": 12,
+  "optional_all_seed_trials": 72,
+  "export_checks": "50 Hz reconstructed commands, every archived 10 Hz command and gait parameter matched to 1e-10; model hashes checked against archive",
+  "extracted_archive_checks": {
+    "bundle_integrity": "Verified 24 motion JSON/CSV files and source hashes; pilot 12 and all-seed 72 trial plans. No hardware accessed.",
+    "pytest": ".........                                                                [100%]\n9 passed in 2.66s",
+    "four_condition_dry_run": "passed; no ports opened, no output directories created; uncalibrated mapping refused"
+  },
+  "platform": "darwin",
+  "hardware_executed": false,
+  "windows_hardware_tested": false,
+  "firmware_compiled": false,
+  "limitations": [
+    "Open-loop replay, not online PPO",
+    "No automatic distance sensor or 20 cm stop",
+    "Last target held; controlled neutral transition not included",
+    "Independent actual distance and first-arrival timing required",
+    "Hardware servo mapping, measurement calibration and stability unverified"
+  ],
+  "source_sha256": {
+    "export.py": "e14ca179a7fadf9b62a5db99e005241c510f37ff413c7d30fee09b73a85e8645",
+    "experiment.py": "17bde64c9856f51677d926d8d23cc8b29183688ba685f625fb662842f527ac37",
+    "capture.py": "9c2c76c957e858460ffbb8fcc59666bc9f378804285195891f506f194a4fec6b",
+    "common.py": "156f91de243a9e48f474faf4d0766ce227faa4971ab17ed96755b0285aa0e365",
+    "verify_bundle.py": "9d3ee62c11377a95f98a9edae33fe4d8835de2eaa1d3a01ebada2422e4796e39",
+    "analyze.py": "e22d6c295c0e5afe694e6d1a3fa1c69ef0d25269eb8531e704f8d7739294f9ce"
+  }
+}

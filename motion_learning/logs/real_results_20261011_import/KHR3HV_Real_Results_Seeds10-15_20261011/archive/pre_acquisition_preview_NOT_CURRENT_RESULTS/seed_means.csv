@@ -1,0 +1,5 @@
+condition,training_seed,planned_repeats,valid_repeats,observed_goal_repeats,real_complete,goal_complete,successful_repeats,outcome_success_fraction,sim_speed_m_s,real_speed_m_s,repeat_sd_speed_m_s,sim_energy_J,real_energy_J,repeat_sd_energy_J,sim_goal_time_s,real_goal_time_s,repeat_sd_goal_time_s,sim_goal_energy_J,real_goal_energy_J,repeat_sd_goal_energy_J
+R1,10,3,0,0,False,False,0,0.0,0.02134939595607402,,,82.20393943965547,,,9.4,,,82.20393943965547,,
+R2,10,3,0,0,False,False,0,0.0,0.021275326568145354,,,79.6491784925152,,,9.5,,,79.6491784925152,,
+R3,10,3,0,0,False,False,0,0.0,0.021307748343080107,,,79.68617976252958,,,9.5,,,79.68617976252958,,
+Task-only,10,3,0,0,False,False,0,0.0,0.01660753351198397,,,102.0352062708159,,,12.1,,,102.0352062708159,,

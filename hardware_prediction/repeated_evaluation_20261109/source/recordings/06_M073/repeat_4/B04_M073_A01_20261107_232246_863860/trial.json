@@ -1,0 +1,17 @@
+{
+  "order": 34,
+  "trial_id": "B04_M073",
+  "block": 4,
+  "motion": 73,
+  "name": "Crawl",
+  "mode": "onboard",
+  "frame_multiplier": 1,
+  "support": "ground",
+  "attempt": 1,
+  "started_utc": "2026-11-07T14:22:46.863860+00:00",
+  "retry_reason": "",
+  "primary_attempt": true,
+  "operator": "yuchen",
+  "config_sha256": "2f8d32e133eb15d40334a382ff2df9eeebcd3c62d57db3ba65c9dece4e706b15",
+  "spec_sha256": "86e80bc88ace629736f41dcabcd8056fcdb5d0310c0b07ae73735ccf7bacbd5d"
+}

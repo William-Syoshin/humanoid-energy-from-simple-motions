@@ -1,0 +1,9 @@
+{
+  "trial_id": "Baseline_commissioning_01",
+  "condition": "Task-only",
+  "weight": 0.3,
+  "training_seed": 10,
+  "repeat": 1,
+  "motion": "motions/Task-only_lambda0_seed10.json",
+  "motion_sha256": "fbaa478114c3e9b1d20b8969e516aec8fac94f3a3a8782f2ae3484c30d672d51"
+}

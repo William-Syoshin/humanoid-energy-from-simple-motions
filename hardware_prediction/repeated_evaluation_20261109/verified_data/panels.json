@@ -1,0 +1,488 @@
+[
+  {
+    "number": 1,
+    "name": "Work",
+    "n": 5,
+    "frame_multiplier": 3,
+    "measured_energy_mean_J": 279.2716216827392,
+    "measured_energy_sd_J": 0.9693941860301353,
+    "models": [
+      {
+        "console_number": 1,
+        "motion": "Work",
+        "model": "R0",
+        "n": 5,
+        "mean_error_pct": 9.400628837502882,
+        "sd_percentage_points": 0.3471287342761525,
+        "variance_percentage_points_squared": 0.12049835816016369,
+        "min_error_pct": 8.895271658361846,
+        "max_error_pct": 9.741879957926313
+      },
+      {
+        "console_number": 1,
+        "motion": "Work",
+        "model": "R1",
+        "n": 5,
+        "mean_error_pct": 10.675576743465543,
+        "sd_percentage_points": 0.20961123213690933,
+        "variance_percentage_points_squared": 0.04393686863795329,
+        "min_error_pct": 10.40554686447376,
+        "max_error_pct": 10.980637287564848
+      },
+      {
+        "console_number": 1,
+        "motion": "Work",
+        "model": "R2",
+        "n": 5,
+        "mean_error_pct": 5.360423615759239,
+        "sd_percentage_points": 0.34332379914866545,
+        "variance_percentage_points_squared": 0.11787123106187318,
+        "min_error_pct": 5.087779797839111,
+        "max_error_pct": 5.849188398864336
+      },
+      {
+        "console_number": 1,
+        "motion": "Work",
+        "model": "R3",
+        "n": 5,
+        "mean_error_pct": 4.888515199435783,
+        "sd_percentage_points": 0.3857177962919624,
+        "variance_percentage_points_squared": 0.14877821837632782,
+        "min_error_pct": 4.5716882381332375,
+        "max_error_pct": 5.42690888877173
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "name": "Clap",
+    "n": 5,
+    "frame_multiplier": 6,
+    "measured_energy_mean_J": 374.97466176134924,
+    "measured_energy_sd_J": 1.1176141485416566,
+    "models": [
+      {
+        "console_number": 2,
+        "motion": "Clap",
+        "model": "R0",
+        "n": 5,
+        "mean_error_pct": 6.842613461359224,
+        "sd_percentage_points": 0.3867509281108333,
+        "variance_percentage_points_squared": 0.14957628039459092,
+        "min_error_pct": 6.15640297778558,
+        "max_error_pct": 7.056064406536539
+      },
+      {
+        "console_number": 2,
+        "motion": "Clap",
+        "model": "R1",
+        "n": 5,
+        "mean_error_pct": 7.022328414094476,
+        "sd_percentage_points": 0.33552708696695555,
+        "variance_percentage_points_squared": 0.11257842608853094,
+        "min_error_pct": 6.4565246061092205,
+        "max_error_pct": 7.281852892849468
+      },
+      {
+        "console_number": 2,
+        "motion": "Clap",
+        "model": "R2",
+        "n": 5,
+        "mean_error_pct": 3.6869490585775764,
+        "sd_percentage_points": 0.27406197284296174,
+        "variance_percentage_points_squared": 0.0751099649585763,
+        "min_error_pct": 3.230176858790142,
+        "max_error_pct": 3.960951156638528
+      },
+      {
+        "console_number": 2,
+        "motion": "Clap",
+        "model": "R3",
+        "n": 5,
+        "mean_error_pct": 3.58536391973263,
+        "sd_percentage_points": 0.27461104476699694,
+        "variance_percentage_points_squared": 0.0754112259080216,
+        "min_error_pct": 3.1216705476419775,
+        "max_error_pct": 3.8406565029975606
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "name": "Bow",
+    "n": 5,
+    "frame_multiplier": 6,
+    "measured_energy_mean_J": 237.38123778089493,
+    "measured_energy_sd_J": 1.260500505714031,
+    "models": [
+      {
+        "console_number": 10,
+        "motion": "Bow",
+        "model": "R0",
+        "n": 5,
+        "mean_error_pct": 5.15312899986034,
+        "sd_percentage_points": 0.4025825430103454,
+        "variance_percentage_points_squared": 0.1620727039366766,
+        "min_error_pct": 4.800038093105872,
+        "max_error_pct": 5.824628206169297
+      },
+      {
+        "console_number": 10,
+        "motion": "Bow",
+        "model": "R1",
+        "n": 5,
+        "mean_error_pct": 4.942998409792034,
+        "sd_percentage_points": 0.32119782575217853,
+        "variance_percentage_points_squared": 0.10316804326792683,
+        "min_error_pct": 4.709881853603753,
+        "max_error_pct": 5.470906931820857
+      },
+      {
+        "console_number": 10,
+        "motion": "Bow",
+        "model": "R2",
+        "n": 5,
+        "mean_error_pct": 3.7138253664538494,
+        "sd_percentage_points": 0.2996393938273056,
+        "variance_percentage_points_squared": 0.08978376633319514,
+        "min_error_pct": 3.5145491912607,
+        "max_error_pct": 4.223578729987588
+      },
+      {
+        "console_number": 10,
+        "motion": "Bow",
+        "model": "R3",
+        "n": 5,
+        "mean_error_pct": 2.8134367232928317,
+        "sd_percentage_points": 0.31653305369559354,
+        "variance_percentage_points_squared": 0.10019317408185752,
+        "min_error_pct": 2.6110250726305626,
+        "max_error_pct": 3.3558535760628043
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "name": "Cheer",
+    "n": 5,
+    "frame_multiplier": 6,
+    "measured_energy_mean_J": 288.59502940022765,
+    "measured_energy_sd_J": 1.9462391588161603,
+    "models": [
+      {
+        "console_number": 4,
+        "motion": "Cheer",
+        "model": "R0",
+        "n": 5,
+        "mean_error_pct": 9.128533087121811,
+        "sd_percentage_points": 0.6224810067997766,
+        "variance_percentage_points_squared": 0.3874826038264635,
+        "min_error_pct": 8.368289993134855,
+        "max_error_pct": 9.89029628736627
+      },
+      {
+        "console_number": 4,
+        "motion": "Cheer",
+        "model": "R1",
+        "n": 5,
+        "mean_error_pct": 8.02840110158834,
+        "sd_percentage_points": 0.178375115748871,
+        "variance_percentage_points_squared": 0.03181768191842312,
+        "min_error_pct": 7.7891933217700196,
+        "max_error_pct": 8.193482183703475
+      },
+      {
+        "console_number": 4,
+        "motion": "Cheer",
+        "model": "R2",
+        "n": 5,
+        "mean_error_pct": 2.3783197404642205,
+        "sd_percentage_points": 1.3364789736198424,
+        "variance_percentage_points_squared": 1.7861760469279475,
+        "min_error_pct": 0.7563914154683287,
+        "max_error_pct": 4.261042268255662
+      },
+      {
+        "console_number": 4,
+        "motion": "Cheer",
+        "model": "R3",
+        "n": 5,
+        "mean_error_pct": 2.5205156428550444,
+        "sd_percentage_points": 1.3370741675186162,
+        "variance_percentage_points_squared": 1.7877673294456002,
+        "min_error_pct": 0.9107445005815497,
+        "max_error_pct": 4.403841481276329
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "name": "Kick",
+    "n": 5,
+    "frame_multiplier": 9,
+    "measured_energy_mean_J": 191.76287728502865,
+    "measured_energy_sd_J": 0.614886647137581,
+    "models": [
+      {
+        "console_number": 5,
+        "motion": "Kick",
+        "model": "R0",
+        "n": 5,
+        "mean_error_pct": 9.456493134350628,
+        "sd_percentage_points": 0.4663814554820625,
+        "variance_percentage_points_squared": 0.21751166201756703,
+        "min_error_pct": 8.930385694368649,
+        "max_error_pct": 10.201266727936837
+      },
+      {
+        "console_number": 5,
+        "motion": "Kick",
+        "model": "R1",
+        "n": 5,
+        "mean_error_pct": 7.114580638388572,
+        "sd_percentage_points": 0.48537854032194705,
+        "variance_percentage_points_squared": 0.23559232740506397,
+        "min_error_pct": 6.744119109782155,
+        "max_error_pct": 7.926447927126706
+      },
+      {
+        "console_number": 5,
+        "motion": "Kick",
+        "model": "R2",
+        "n": 5,
+        "mean_error_pct": 0.7131296555774591,
+        "sd_percentage_points": 0.5070574253421193,
+        "variance_percentage_points_squared": 0.2571072325945789,
+        "min_error_pct": 0.11123031685820435,
+        "max_error_pct": 1.2539986183630172
+      },
+      {
+        "console_number": 5,
+        "motion": "Kick",
+        "model": "R3",
+        "n": 5,
+        "mean_error_pct": 1.0185178478996648,
+        "sd_percentage_points": 0.5643943675030006,
+        "variance_percentage_points_squared": 0.3185410020691121,
+        "min_error_pct": 0.24716555788013217,
+        "max_error_pct": 1.5877307622144652
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "name": "Crawl",
+    "n": 5,
+    "frame_multiplier": 1,
+    "measured_energy_mean_J": 210.3186380971386,
+    "measured_energy_sd_J": 5.075351090657113,
+    "models": [
+      {
+        "console_number": 6,
+        "motion": "Crawl",
+        "model": "R0",
+        "n": 5,
+        "mean_error_pct": 15.898652483533237,
+        "sd_percentage_points": 1.9970162186193197,
+        "variance_percentage_points_squared": 3.988073777428606,
+        "min_error_pct": 13.68658831200193,
+        "max_error_pct": 19.074165233908964
+      },
+      {
+        "console_number": 6,
+        "motion": "Crawl",
+        "model": "R1",
+        "n": 5,
+        "mean_error_pct": 9.29690706414898,
+        "sd_percentage_points": 1.5762193270821072,
+        "variance_percentage_points_squared": 2.484467367067171,
+        "min_error_pct": 7.881924522352643,
+        "max_error_pct": 11.805148682355936
+      },
+      {
+        "console_number": 6,
+        "motion": "Crawl",
+        "model": "R2",
+        "n": 5,
+        "mean_error_pct": 3.084230129067968,
+        "sd_percentage_points": 1.6785041141473538,
+        "variance_percentage_points_squared": 2.817376061209593,
+        "min_error_pct": 1.5437979597822564,
+        "max_error_pct": 5.774093458901003
+      },
+      {
+        "console_number": 6,
+        "motion": "Crawl",
+        "model": "R3",
+        "n": 5,
+        "mean_error_pct": 2.4386267615369888,
+        "sd_percentage_points": 1.5771627708237117,
+        "variance_percentage_points_squared": 2.4874424056723274,
+        "min_error_pct": 0.9248810613276002,
+        "max_error_pct": 4.943604876341399
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "name": "Crawl turn left",
+    "n": 5,
+    "frame_multiplier": 1,
+    "measured_energy_mean_J": 192.5087480346091,
+    "measured_energy_sd_J": 4.1497910883085725,
+    "models": [
+      {
+        "console_number": 7,
+        "motion": "Crawl turn left",
+        "model": "R0",
+        "n": 5,
+        "mean_error_pct": 5.451637693052198,
+        "sd_percentage_points": 2.2847634272158315,
+        "variance_percentage_points_squared": 5.220143918343033,
+        "min_error_pct": 2.9917247353388357,
+        "max_error_pct": 8.324357129069325
+      },
+      {
+        "console_number": 7,
+        "motion": "Crawl turn left",
+        "model": "R1",
+        "n": 5,
+        "mean_error_pct": 9.719405587136146,
+        "sd_percentage_points": 0.24536621038888218,
+        "variance_percentage_points_squared": 0.0602045772006012,
+        "min_error_pct": 9.427813951416674,
+        "max_error_pct": 10.027715365913869
+      },
+      {
+        "console_number": 7,
+        "motion": "Crawl turn left",
+        "model": "R2",
+        "n": 5,
+        "mean_error_pct": 7.514301963461795,
+        "sd_percentage_points": 0.41385205910304057,
+        "variance_percentage_points_squared": 0.17127352682382657,
+        "min_error_pct": 6.886278334166616,
+        "max_error_pct": 7.983277975075369
+      },
+      {
+        "console_number": 7,
+        "motion": "Crawl turn left",
+        "model": "R3",
+        "n": 5,
+        "mean_error_pct": 4.667225874818713,
+        "sd_percentage_points": 0.6093284531638125,
+        "variance_percentage_points_squared": 0.37128116383500437,
+        "min_error_pct": 3.9873901397819607,
+        "max_error_pct": 5.42746503564962
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "name": "Crawl turn right",
+    "n": 5,
+    "frame_multiplier": 1,
+    "measured_energy_mean_J": 186.49843599701325,
+    "measured_energy_sd_J": 0.9259025467206659,
+    "models": [
+      {
+        "console_number": 8,
+        "motion": "Crawl turn right",
+        "model": "R0",
+        "n": 5,
+        "mean_error_pct": 8.624671649935964,
+        "sd_percentage_points": 0.5867688625784319,
+        "variance_percentage_points_squared": 0.34429769809158667,
+        "min_error_pct": 8.037743540246797,
+        "max_error_pct": 9.563321981092297
+      },
+      {
+        "console_number": 8,
+        "motion": "Crawl turn right",
+        "model": "R1",
+        "n": 5,
+        "mean_error_pct": 8.082600929251369,
+        "sd_percentage_points": 0.4811371575519985,
+        "variance_percentage_points_squared": 0.2314929643772166,
+        "min_error_pct": 7.27029490306959,
+        "max_error_pct": 8.495940133445874
+      },
+      {
+        "console_number": 8,
+        "motion": "Crawl turn right",
+        "model": "R2",
+        "n": 5,
+        "mean_error_pct": 3.651126470844126,
+        "sd_percentage_points": 1.2044816012943227,
+        "variance_percentage_points_squared": 1.4507759278565358,
+        "min_error_pct": 1.816841726178798,
+        "max_error_pct": 4.628687905065345
+      },
+      {
+        "console_number": 8,
+        "motion": "Crawl turn right",
+        "model": "R3",
+        "n": 5,
+        "mean_error_pct": 3.7630526733362815,
+        "sd_percentage_points": 1.1166522321275845,
+        "variance_percentage_points_squared": 1.2469122075155166,
+        "min_error_pct": 2.1157182037714795,
+        "max_error_pct": 4.748782403652471
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "name": "Backward crawl",
+    "n": 5,
+    "frame_multiplier": 1,
+    "measured_energy_mean_J": 206.36548790908287,
+    "measured_energy_sd_J": 1.4818719372547193,
+    "models": [
+      {
+        "console_number": 9,
+        "motion": "Backward crawl",
+        "model": "R0",
+        "n": 5,
+        "mean_error_pct": 14.745372304185318,
+        "sd_percentage_points": 0.6175995669560725,
+        "variance_percentage_points_squared": 0.38142922510432836,
+        "min_error_pct": 13.662238839876398,
+        "max_error_pct": 15.131161067171393
+      },
+      {
+        "console_number": 9,
+        "motion": "Backward crawl",
+        "model": "R1",
+        "n": 5,
+        "mean_error_pct": 13.18928851398135,
+        "sd_percentage_points": 0.8574796692324742,
+        "variance_percentage_points_squared": 0.7352713831470333,
+        "min_error_pct": 12.677856573056454,
+        "max_error_pct": 14.70658501369576
+      },
+      {
+        "console_number": 9,
+        "motion": "Backward crawl",
+        "model": "R2",
+        "n": 5,
+        "mean_error_pct": 6.475752081179425,
+        "sd_percentage_points": 0.1588602875757011,
+        "variance_percentage_points_squared": 0.025236590968634447,
+        "min_error_pct": 6.256574753337108,
+        "max_error_pct": 6.685892891319066
+      },
+      {
+        "console_number": 9,
+        "motion": "Backward crawl",
+        "model": "R3",
+        "n": 5,
+        "mean_error_pct": 2.5857827863655514,
+        "sd_percentage_points": 0.05581480294273032,
+        "variance_percentage_points_squared": 0.0031152922275358174,
+        "min_error_pct": 2.5174919320411253,
+        "max_error_pct": 2.672528636042602
+      }
+    ]
+  }
+]

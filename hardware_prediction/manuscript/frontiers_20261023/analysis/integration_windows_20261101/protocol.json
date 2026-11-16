@@ -1,0 +1,33 @@
+{
+  "created": "2026-11-01T16:31:00.307538+09:00",
+  "status": "Written before computing window statistics; retrospective exploratory analysis of previously inspected recordings",
+  "models": [
+    "R0",
+    "R1",
+    "R2",
+    "R3"
+  ],
+  "windows_s": [
+    2,
+    5,
+    10
+  ],
+  "primary": "Complete non-overlapping windows anchored at the first sample of each original scored interval. Incomplete trailing windows excluded and duration reported. Original settling samples retained.",
+  "boundary_handling": "Integrate piecewise-linear interpolation by trapezoids with explicit interpolated endpoints; no refitting, clipping, or added smoothing.",
+  "metric": "100*abs(predicted_J-measured_J)/measured_J",
+  "aggregation": "Mean window error within each motion, then unweighted mean of nine motion means. Windows are not independent trials.",
+  "sensitivity": "All complete windows starting at each recorded 0.1 s sample; same motion-balanced averaging. Descriptive only, no confidence intervals or p-values.",
+  "validation": "Reproduce published full-trial energies/errors and independently compare per-window quadrature with cumulative piecewise-linear integrals.",
+  "source_sha256": {
+    "../data/primary_test_trials.csv": "87e128881f6662f46122ba851fa87aaeb7b34d8f4db0ac64bb33d66e06a6ebee",
+    "../data/M004_slow6_pc_20260915_175053_predictions.csv": "3e28cfbf65ace17f7db79ee6e77586931c1d89b1ef614f69d92485063ba49d1e",
+    "../data/M008_slow6_pc_20260915_174814_predictions.csv": "0ffb3fe3f5e43a459c3342440d743991791274d51f182b83a86415cab7916435",
+    "../data/M015_slow6_pc_20260915_154650_predictions.csv": "66a9785c397511ff2be20e4e7d30bb9f1b4e16366c42833ce4ca6d5f2a09684b",
+    "../data/M016_slow3_pc_20260915_155750_predictions.csv": "529b9710f2eaec36fe008b6106a96891f82a70ca4fb7186c21ce47cdabb99a72",
+    "../data/M026_slow9_pc_20260915_154254_predictions.csv": "7760b83d4d22fee729b63a414eb01e7170ac63694d6468f9abf97d0024e37f7d",
+    "../data/M073_20260915_153043_predictions.csv": "2a7b1d9386b7438c2e7abb8f09544bc6dd37e11364746373f18ac88b22e64b24",
+    "../data/M074_20260915_153316_predictions.csv": "a4131b15576ea6cfad7e3730a60696d5b9d2ac448d885b03f4894e9f4ea43949",
+    "../data/M075_20260915_153356_predictions.csv": "a53de98cde2b480ad41bccd072fb0e6a93098a0b666324b4aa290d504159e983",
+    "../data/M076_20260915_153430_predictions.csv": "205182a9e286650c495a2549f331a8f4d9446faafa8666e151f1b23d8ed3f763"
+  }
+}

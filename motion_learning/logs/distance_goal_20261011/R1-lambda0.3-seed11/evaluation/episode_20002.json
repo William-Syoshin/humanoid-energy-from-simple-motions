@@ -1,0 +1,75 @@
+{
+  "seed": 20002,
+  "policy": "/Users/yuchenzhou/Documents/Codex/2026-10-05/webots-khr-3hv-macbook-github-linux-2/outputs/khr3hv_rl/logs/distance_goal_20261011/R1-lambda0.3-seed11/final.zip",
+  "condition": "R1",
+  "duration_s": 9.9,
+  "distance_m": 0.20148530002725745,
+  "mean_speed_m_s": 0.02035205050780378,
+  "fallen": false,
+  "escaped": false,
+  "completed_horizon": false,
+  "task_success": true,
+  "heading_error_rad": 0.0015182137656220857,
+  "lateral_error_m": 0.0033357490069873905,
+  "mean_abs_heading_rad": 0.001542712490935494,
+  "predicted_energy_J": {
+    "R1": 87.41798289046515,
+    "R2": 87.83390158451697,
+    "R3": 85.92696554089322
+  },
+  "positive_energy_J": {
+    "R1": 87.41798289046515,
+    "R2": 87.83390158451697,
+    "R3": 85.92696554089322
+  },
+  "ood_rate": 0.04545454545454545,
+  "ood_component_sample_rates": {
+    "position": 0.0,
+    "command": 0.0,
+    "velocity": 0.0,
+    "error": 0.0,
+    "pairs": 0.02,
+    "context": 0.03
+  },
+  "negative_power_rate": 0.0,
+  "reward_terms": {
+    "alive": 0.0,
+    "speed": 0.0,
+    "progress": 20.0,
+    "upright": 0.0,
+    "tilt": -0.004503333680986464,
+    "heading": -1.1995403285859407e-05,
+    "lateral": -7.146575150707142e-05,
+    "joint_velocity": -0.000777841640468913,
+    "action_change": -0.049210322062299174,
+    "ood": -0.22499999999999998,
+    "fall": 0.0,
+    "energy": -26.225394867139542,
+    "time": -0.4950000000000004,
+    "goal": 200.0,
+    "timeout": 0.0
+  },
+  "energy_per_m_J": {
+    "R1": 433.8677952120528,
+    "R2": 435.9320584312333,
+    "R3": 426.4676655282981
+  },
+  "task_mode": "distance",
+  "target_distance_m": 0.2,
+  "reached_goal": true,
+  "timed_out": false,
+  "time_to_goal_s": 9.9,
+  "goal_overshoot_m": 0.0014853000272574413,
+  "termination_reason": "goal",
+  "in_distribution_success": true,
+  "joint_velocity_rms_rad_s": 0.12535538494506532,
+  "tracking_error_rms_rad": 0.011130774022497921,
+  "tilt_rms_rad": 0.021221059614129817,
+  "mean_gait_parameters": [
+    2.303934577584265,
+    0.02764000000000002,
+    0.001806072527706624,
+    0.007391637945175169,
+    -0.02834999999999996
+  ]
+}

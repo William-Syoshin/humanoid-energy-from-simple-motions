@@ -1,0 +1,16 @@
+{
+  "modified_files": [
+    "hardware_prediction/manuscript/data/transfer_audit_20260928/mechanism_diagnostics.csv",
+    "hardware_prediction/manuscript/data/transfer_audit_20260928/experience_subset_metrics.csv",
+    "hardware_prediction/manuscript/data/transfer_audit_20260928/feature_regularization_metrics.csv",
+    "hardware_prediction/manuscript/scripts/transfer_audit.py",
+    "synthetic_webots/analysis/analyze.py"
+  ],
+  "changes": {
+    "hardware_prediction/manuscript/scripts/transfer_audit.py": "Omit the removed four-condition diagnostic branch; retain all nine-motion calculations and subset seeds unchanged.",
+    "hardware_prediction/manuscript/data/transfer_audit_20260928/*.csv": "Retain only the whole-body group used in the current paper; preserve every row in that group.",
+    "synthetic_webots/analysis/analyze.py": "Write to a new output directory; verify retained design dependencies; omit two obsolete document hashes and historical MuJoCo comparison plotting/reporting. Numeric fits and mechanical criteria unchanged."
+  },
+  "new_files": "Portable offline entry points, numeric plotting, documentation, citation template, checksum helper and verification reports.",
+  "originals_unchanged": true
+}

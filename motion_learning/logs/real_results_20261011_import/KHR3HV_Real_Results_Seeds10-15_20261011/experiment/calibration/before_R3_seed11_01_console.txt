@@ -1,0 +1,151 @@
+{
+  "status": "complete",
+  "purpose": "slow return from previous completed endpoint to shared initial pose, not a walking trial",
+  "created_utc": "2026-10-11T04:41:08.051591+00:00",
+  "targets": [
+    {
+      "name": "left_hip_roll",
+      "id": 6,
+      "sio": 1,
+      "absolute_position": 7500,
+      "expected_previous_position": 7508
+    },
+    {
+      "name": "left_hip_pitch",
+      "id": 7,
+      "sio": 1,
+      "absolute_position": 8026,
+      "expected_previous_position": 8119
+    },
+    {
+      "name": "left_knee_pitch",
+      "id": 8,
+      "sio": 1,
+      "absolute_position": 8548,
+      "expected_previous_position": 8635
+    },
+    {
+      "name": "left_ankle_pitch",
+      "id": 9,
+      "sio": 1,
+      "absolute_position": 6978,
+      "expected_previous_position": 7035
+    },
+    {
+      "name": "left_ankle_roll",
+      "id": 10,
+      "sio": 1,
+      "absolute_position": 7500,
+      "expected_previous_position": 7492
+    },
+    {
+      "name": "right_hip_roll",
+      "id": 6,
+      "sio": 2,
+      "absolute_position": 7500,
+      "expected_previous_position": 7508
+    },
+    {
+      "name": "right_hip_pitch",
+      "id": 7,
+      "sio": 2,
+      "absolute_position": 6974,
+      "expected_previous_position": 7080
+    },
+    {
+      "name": "right_knee_pitch",
+      "id": 8,
+      "sio": 2,
+      "absolute_position": 6452,
+      "expected_previous_position": 6457
+    },
+    {
+      "name": "right_ankle_pitch",
+      "id": 9,
+      "sio": 2,
+      "absolute_position": 8022,
+      "expected_previous_position": 8071
+    },
+    {
+      "name": "right_ankle_roll",
+      "id": 10,
+      "sio": 2,
+      "absolute_position": 7500,
+      "expected_previous_position": 7492
+    },
+    {
+      "name": "left_shoulder_pitch",
+      "id": 1,
+      "sio": 1,
+      "absolute_position": 7500,
+      "expected_previous_position": 7624
+    },
+    {
+      "name": "left_shoulder_roll",
+      "id": 2,
+      "sio": 1,
+      "absolute_position": 7500,
+      "expected_previous_position": 7500
+    },
+    {
+      "name": "left_elbow_pitch",
+      "id": 4,
+      "sio": 1,
+      "absolute_position": 7500,
+      "expected_previous_position": 7500
+    },
+    {
+      "name": "right_shoulder_pitch",
+      "id": 1,
+      "sio": 2,
+      "absolute_position": 7500,
+      "expected_previous_position": 7624
+    },
+    {
+      "name": "right_shoulder_roll",
+      "id": 2,
+      "sio": 2,
+      "absolute_position": 7500,
+      "expected_previous_position": 7500
+    },
+    {
+      "name": "right_elbow_pitch",
+      "id": 4,
+      "sio": 2,
+      "absolute_position": 7500,
+      "expected_previous_position": 7500
+    },
+    {
+      "name": "head_yaw",
+      "id": 0,
+      "sio": 1,
+      "absolute_position": 7500,
+      "expected_previous_position": 7500
+    }
+  ],
+  "basis": "Restore identical initial targets using the same joint signs; require proximity to previous completed endpoint",
+  "visual_confirmation": "User authorized consecutive trials; individual movement outcome not inferred",
+  "start_positions": [
+    7499,
+    8089,
+    8672,
+    7039,
+    7482,
+    7513,
+    7078,
+    6440,
+    8044,
+    7492,
+    7613,
+    7496,
+    7491,
+    7622,
+    7495,
+    7500,
+    7501
+  ],
+  "original_rcb_config": 33433,
+  "returned_to_start_targets": false,
+  "endpoint_behavior": "hold supported initial targets",
+  "power_reader_errors": []
+}

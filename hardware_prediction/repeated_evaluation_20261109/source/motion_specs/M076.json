@@ -1,0 +1,32 @@
+{
+  "motion": 76,
+  "name": "Backward crawl",
+  "original_trial": "M076_20260915_153430",
+  "mode": "onboard",
+  "frame_multiplier": 1,
+  "support": "ground",
+  "original_observed_motion_s": 18.28837880003266,
+  "original_scored_s": 20.20000000001164,
+  "commands": [],
+  "historical_initial_positions": [
+    7499,
+    10450,
+    11041,
+    4569,
+    7501,
+    7513,
+    4537,
+    3960,
+    10427,
+    7502,
+    10128,
+    7506,
+    5404,
+    4970,
+    7466,
+    9612,
+    7501
+  ],
+  "original_meta_sha256": "e9aa84cfd81a980806cffd43599d896b5bfd0645e07ee5da4a3710d63faffb36",
+  "historical_project_sha256": null
+}

@@ -1,0 +1,13 @@
+﻿order,trial_id,condition,training_seed,repeat,replay_duration_s,date_time,battery_voltage_V,temperature_C,surface,rest_s,support_contact,measured_distance_m,first_20cm_time_s,time_uncertainty_s,outcome,video_file,notes
+1,w0.3_s10_r1_R1,R1,10,1,9.4,,,,,,,,,,,,
+2,w0.3_s10_r1_R3,R3,10,1,9.5,,,,,,,,,,,,
+3,w0.3_s10_r1_R2,R2,10,1,9.5,,,,,,,,,,,,
+4,w0.3_s10_r1_Task-only,Task-only,10,1,12.1,,,,,,,,,,,,
+5,w0.3_s10_r2_Task-only,Task-only,10,2,12.1,,,,,,,,,,,,
+6,w0.3_s10_r2_R1,R1,10,2,9.4,,,,,,,,,,,,
+7,w0.3_s10_r2_R2,R2,10,2,9.5,,,,,,,,,,,,
+8,w0.3_s10_r2_R3,R3,10,2,9.5,,,,,,,,,,,,
+9,w0.3_s10_r3_Task-only,Task-only,10,3,12.1,,,,,,,,,,,,
+10,w0.3_s10_r3_R3,R3,10,3,9.5,,,,,,,,,,,,
+11,w0.3_s10_r3_R2,R2,10,3,9.5,,,,,,,,,,,,
+12,w0.3_s10_r3_R1,R1,10,3,9.4,,,,,,,,,,,,

@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "revision": "revision_02",
+  "train": 1000,
+  "validation": 90,
+  "test": 21,
+  "separate_controls": 3,
+  "reused_records_verified": 1093,
+  "raw_hashes_verified": 1114,
+  "sustained_mechanical_pass": 21,
+  "all_saved_numeric_metrics_match": true,
+  "original_ridge_coefficients_unchanged": true,
+  "webots_rerun_performed": false,
+  "power_targets": "synthetic",
+  "mean_energy_error_pct": {
+    "M1": 14.550700485380167,
+    "M2": 11.013683617566414,
+    "M3": 2.2994156898842406,
+    "M4": 0.23381570849354896,
+    "M5": 1.6264750970078783
+  }
+}

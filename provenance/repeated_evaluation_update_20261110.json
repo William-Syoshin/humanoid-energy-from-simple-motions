@@ -1,0 +1,13 @@
+{
+  "source_archive": "FINAL_9motions_5repeats_original_models_20261109.zip",
+  "source_archive_sha256": "c0566b3d6eaa46ab4df564345900d9f7bd54dc846bbde68767de15c854f7b709",
+  "raw_source_files": 697,
+  "model_sha256": "fb9d381ec3b142353725c83f274fad181b509ef9e5a2916d70954fa43b6c1d5e",
+  "primary_models_retrained": false,
+  "new_measurements_collected_by_packaging": false,
+  "source_snapshot_unchanged": true,
+  "default_test_recordings": 45,
+  "old_test_records_retained": true,
+  "synthetic_and_rl_data_changed": false,
+  "remote_updated": false
+}

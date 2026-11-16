@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "started_utc": "2026-10-11T04:48:07.971180+00:00",
+  "completed": [
+    "R1_seed12_01",
+    "R3_seed12_01",
+    "R2_seed12_01",
+    "Baseline_seed12_01",
+    "R1_seed13_01",
+    "R3_seed13_01",
+    "R2_seed13_01",
+    "Baseline_seed13_01",
+    "R1_seed14_01",
+    "R3_seed14_01",
+    "R2_seed14_01",
+    "Baseline_seed14_01",
+    "R1_seed15_01",
+    "R3_seed15_01",
+    "R2_seed15_01",
+    "Baseline_seed15_01"
+  ],
+  "distance_m": null,
+  "automatic_fall_detection": false,
+  "current_trial": "Baseline_seed15_01",
+  "finished_utc": "2026-10-11T04:55:11.321207+00:00"
+}

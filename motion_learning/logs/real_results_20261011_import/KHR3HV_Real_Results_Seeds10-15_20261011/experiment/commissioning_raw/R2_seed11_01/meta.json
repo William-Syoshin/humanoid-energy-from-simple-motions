@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "mock": false,
+  "commissioning": true,
+  "mapping_verified": false,
+  "trial_id": "R2_seed11_01",
+  "plan_sha256": "7769137fbcd0fada59b49fa6dc60a6feff199039f06ac09ec1e7f9df3b39f2ee",
+  "motion_sha256": "37c18e8c10f814a6a1e316c6035c67ff782b8c6417128a199b186748b25eb7b3",
+  "started_utc": "2026-10-11T04:41:44.347891+00:00",
+  "score_start": 410384.3892223,
+  "score_end": 410393.7892223,
+  "end_behavior": "hold_last_target; no automatic neutral transition",
+  "target_distance_m": 0.2,
+  "clock": "time.perf_counter on this PC; device_s additionally logged",
+  "mode": "open_loop_replay_of_archived_policy_commands",
+  "config_sha256": "29dc70b67631974d381c0c89c84b934eec730edf03ca230e0ee8f3d4ea5ef030",
+  "capture_code_sha256": "d2062438e2a8c867c40a389e7d8f5dfe16584a57801cf6255f28c800b646638e",
+  "original_rcb_config": 33433,
+  "pc_control_retained": true,
+  "reader_errors": []
+}

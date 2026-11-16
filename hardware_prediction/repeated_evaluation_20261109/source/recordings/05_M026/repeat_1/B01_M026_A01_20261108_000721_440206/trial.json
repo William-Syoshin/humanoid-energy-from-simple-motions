@@ -1,0 +1,17 @@
+{
+  "order": 1,
+  "trial_id": "B01_M026",
+  "block": 1,
+  "motion": 26,
+  "name": "Kick",
+  "mode": "pc_packets",
+  "frame_multiplier": 9,
+  "support": "feet",
+  "attempt": 1,
+  "started_utc": "2026-11-07T15:07:21.440206+00:00",
+  "retry_reason": "",
+  "primary_attempt": true,
+  "operator": "yuchen",
+  "config_sha256": "2f8d32e133eb15d40334a382ff2df9eeebcd3c62d57db3ba65c9dece4e706b15",
+  "spec_sha256": "0c916ca4384604453eefc50cff4b6870d934c51afef9eb9efa36f222b938ab19"
+}

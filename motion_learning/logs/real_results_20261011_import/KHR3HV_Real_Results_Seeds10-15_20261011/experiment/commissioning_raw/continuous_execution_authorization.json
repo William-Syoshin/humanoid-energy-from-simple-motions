@@ -1,0 +1,10 @@
+{
+  "recorded_utc": "2026-10-11T04:33:11.854917+00:00",
+  "operator_statement": "倒れなさそうなので、全部実験を連続してやってください",
+  "scope": [
+    "R2 once",
+    "Baseline once"
+  ],
+  "distance_m": null,
+  "notes": "R1 and R3 already captured. Keep same signs. No repeated seeds or bundled repeats."
+}

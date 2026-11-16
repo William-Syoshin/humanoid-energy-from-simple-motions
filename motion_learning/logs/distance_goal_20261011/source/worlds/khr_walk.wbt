@@ -1,0 +1,43 @@
+#VRML_SIM R2025a utf8
+EXTERNPROTO "../protos/Khr3hv17RL.proto"
+WorldInfo {
+  basicTimeStep 4
+  randomSeed 0
+  contactProperties [
+    ContactProperties {
+      material1 "default"
+      material2 "default"
+      coulombFriction [ 1 ]
+      bounce 0
+    }
+  ]
+}
+Viewpoint {
+  orientation 0.18647977681302036 0.039175512455475306 -0.9816774277040382 2.8586313035918356
+  position 1.1 0.42 0.7
+  follow "KHR-3HV"
+  followSmoothness 0
+}
+Background { skyColor [ 0.85 0.9 0.95 ] }
+DirectionalLight { direction -1 -1 -2 }
+Solid {
+  translation 0 0 -0.025
+  children [
+    Shape {
+      appearance PBRAppearance { baseColor 0.65 0.68 0.7 roughness 1 metalness 0 }
+      geometry Box { size 20 20 0.05 }
+    }
+  ]
+  name "floor"
+  boundingObject Box { size 20 20 0.05 }
+}
+DEF KHR Khr3hv17RL {
+  controller "khr_rl_controller"
+  supervisor TRUE
+  selfCollision FALSE
+  bodySlot [
+    InertialUnit { name "imu" }
+    Gyro { name "gyro" }
+    Accelerometer { name "accelerometer" }
+  ]
+}

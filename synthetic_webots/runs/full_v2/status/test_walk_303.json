@@ -1,0 +1,35 @@
+{
+  "spec": {
+    "split": "test",
+    "id": "walk_303",
+    "action": "walk",
+    "context": "whole-body",
+    "duration": 12.0,
+    "seed": 303,
+    "level": null,
+    "joints": [],
+    "amplitude": 0.2,
+    "frequency": 0.3,
+    "offset": 0.15,
+    "phase": 1.5707963267948966
+  },
+  "samples": 1200,
+  "duration": 12.0,
+  "final_height": 0.33334858436196696,
+  "final_h": 0.0005334503817012726,
+  "forward_m": 0.14816174222248096,
+  "yaw_change": -0.004659527425185234,
+  "object_displacement": 4.390419671373697e-18,
+  "max_tau": 1.3730105152552181,
+  "contact_mean": [
+    16.677186577246335,
+    5.45733425993989,
+    0.0,
+    0.0,
+    7.998634362230981,
+    8.67855221501536,
+    3.8775
+  ],
+  "sha256": "3da7db9325c0f6dadaffde129171d227621206532ac00cda040941e734cdc4c0",
+  "completed": 1791740911.1749592
+}

@@ -1,0 +1,5 @@
+{
+  "validation_trials": 90,
+  "max_abs_prediction_difference": 0.0,
+  "all_validation_predictions_identical": true
+}

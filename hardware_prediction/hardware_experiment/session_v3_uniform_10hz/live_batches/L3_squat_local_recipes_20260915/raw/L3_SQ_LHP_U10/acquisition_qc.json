@@ -1,0 +1,136 @@
+{
+  "raw": "C:\\Users\\BIRL-\\OneDrive\\Desktop\\KHR_3HV_Ver.7.10_jp\\hardware_experiment\\session_v3_uniform_10hz\\live_batches\\L3_squat_local_recipes_20260915\\raw\\L3_SQ_LHP_U10",
+  "trial_id": "L3_SQ_LHP_U10",
+  "acquisition_complete": true,
+  "primary_candidate": true,
+  "analysis_ready": false,
+  "reasons": [],
+  "power": {
+    "samples": 121,
+    "valid_time": true,
+    "rate_hz": 10.0,
+    "max_gap_s": 0.10000000000582077
+  },
+  "ad": {
+    "samples": 121,
+    "valid_time": true,
+    "rate_hz": 10.003367550298083,
+    "max_gap_s": 0.11560344998724759
+  },
+  "feedback": {
+    "0": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.486595871573694,
+      "max_gap_s": 0.2512616500025615
+    },
+    "1": {
+      "samples": 175,
+      "valid_time": true,
+      "rate_hz": 14.510853090265988,
+      "max_gap_s": 0.11914520000573248
+    },
+    "2": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.486978745351735,
+      "max_gap_s": 0.25061910005752
+    },
+    "3": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.487256312733378,
+      "max_gap_s": 0.2503369499463588
+    },
+    "4": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.487053580517209,
+      "max_gap_s": 0.2437425999669358
+    },
+    "5": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.491710268997719,
+      "max_gap_s": 0.2439997499459423
+    },
+    "6": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.492274929361163,
+      "max_gap_s": 0.2427854499546811
+    },
+    "7": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.490231152657671,
+      "max_gap_s": 0.24617830000352114
+    },
+    "8": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.4925688418944825,
+      "max_gap_s": 0.24473410000791773
+    },
+    "9": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.49651020541469,
+      "max_gap_s": 0.24963474995456636
+    },
+    "10": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.497380269623162,
+      "max_gap_s": 0.25128234998555854
+    },
+    "11": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.497007542694439,
+      "max_gap_s": 0.2565449000103399
+    },
+    "12": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.495048322617288,
+      "max_gap_s": 0.24991704995045438
+    },
+    "13": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.494417105040418,
+      "max_gap_s": 0.2514927500160411
+    },
+    "14": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.497311729797809,
+      "max_gap_s": 0.24538320006104186
+    },
+    "15": {
+      "samples": 54,
+      "valid_time": true,
+      "rate_hz": 4.4967293399641575,
+      "max_gap_s": 0.24530830001458526
+    },
+    "16": {
+      "samples": 53,
+      "valid_time": true,
+      "rate_hz": 4.487279942051732,
+      "max_gap_s": 0.2534157499903813
+    }
+  },
+  "note": "Analysis-ready requires successful prepare and registration; raw completion alone is insufficient.",
+  "hashes": {
+    "ad.csv": "a87a3bb5116ed4d31a5c68f2db54b33bb3b541ab7c8666e225acf753135255a5",
+    "commands.csv": "cec71706e8f3135a38856d3c44af0bd5a3c33093615251d9ad81691170800f54",
+    "config.json": "e92ee66d2d3960c59c31d331991487ddb38afdca0802134be6845753671bbce3",
+    "design.json": "d27a6293eab87b000817e6f212c7e4dd55a941aaa038295e1b99279d7076bd90",
+    "feedback.csv": "d0ff6d7f0530712eec84bd2061bb31a2bcf9cfa10ec29d7e0d7c952dcbd8f658",
+    "meta.json": "0581632efd2c52d087fea73d6a2785860948775df1a75dd49dc9515c6427322b",
+    "power.csv": "af5bdaa4b03e357c3d3d3e349c970eb8abb399415c36599a22c40bc8e4cf630f",
+    "power_events.csv": "63ee13c0cd5922951cba6184aa354903ed761bb84d041574a81847210b196087",
+    "recipe.json": "3bf59ce838d9aba7a3f06308987383868c24a7556f300cc008e2096c5ef41f93"
+  }
+}
