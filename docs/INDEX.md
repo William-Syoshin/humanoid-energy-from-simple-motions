@@ -4,6 +4,9 @@
 
 - [Reviewer guide](REVIEWER_GUIDE.md): main claims, expected values and exact commands.
 - [Reproduction](REPRODUCTION.md): dependencies, offline actions and fresh-acquisition scope.
+- [Detailed methods](MANUSCRIPT_METHODS.md): physical recipes, calibration, preprocessing, feature definitions, validation, and secondary analyses.
+- [Physical trial settings](PHYSICAL_TRIAL_SETTINGS.csv): 139 training/validation trials mapped to exact stored recipes and configurations.
+- [Synthetic reference](SIMULATION_REFERENCE.md): complete reference equation, coefficients, simulator settings, feature groups, and scoring rules.
 - [Data and scope](DATA_AND_SCOPE.md): splits, exclusions, predictor definitions and limitations.
 - [Figure and table map](FIGURE_MAP.md): eleven packaged figures and three tables.
 - [Source-code guide](SOURCE_CODE_GUIDE.md): collection code, analysis entry points and frozen source.

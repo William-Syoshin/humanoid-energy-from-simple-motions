@@ -1,5 +1,7 @@
 # Reviewer guide
 
+For exact methods behind the concise manuscript, see [Detailed methods](MANUSCRIPT_METHODS.md), [the 139-trial recipe index](PHYSICAL_TRIAL_SETTINGS.csv), and [the synthetic reference specification](SIMULATION_REFERENCE.md). These documents link to the frozen implementation; no models or experimental results were changed by this documentation update.
+
 This guide follows the manuscript's evidence: physical prediction, supporting simulation, then motion learning and physical command replay. All commands below run from the repository root. Install [the analysis requirements](../requirements-analysis.txt) first, as described in the [README](../README.md).
 
 ## 1. Check the central prediction result

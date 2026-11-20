@@ -10,6 +10,8 @@ Code, recorded measurements, trained models, and figures accompanying the humano
 |---|---|
 | Check the main claims and limitations | [Reviewer guide](docs/REVIEWER_GUIDE.md) |
 | Reproduce the reported numbers | [Reproduction instructions](docs/REPRODUCTION.md) |
+| Inspect acquisition, preprocessing, and analysis settings | [Detailed methods](docs/MANUSCRIPT_METHODS.md) |
+| Inspect the synthetic power equation and simulation settings | [Simulation reference](docs/SIMULATION_REFERENCE.md) |
 | Locate each figure and table | [Figure and table map](docs/FIGURE_MAP.md) |
 | Understand splits, raw data, and exclusions | [Data and scope](docs/DATA_AND_SCOPE.md) |
 | Read the English experiment reports | [Document index](docs/INDEX.md) |
@@ -77,6 +79,6 @@ Later foot-lift/CEM experiments, earlier 20-second models and unrelated pilots a
 
 ## Citation, license, and contributions
 
-The original implementation is public at [GitHub](https://github.com/William-Syoshin/humanoid-energy-from-simple-motions), commit `7b144085ab47673770eac49baea1d5a8d524a46c`. This update includes all 45 physical test recordings, the revised 21-trial supporting simulation, and their offline analyses. Use the full commit hash of this checkout (`git rev-parse HEAD`) to identify this version. No release tag or DOI has been assigned. **The authors still need to complete citation-author metadata and the reuse-license decision.** [CITATION.cff.example](CITATION.cff.example) is an inactive template; no citation metadata is invented. See [release instructions](docs/RELEASE.md) and [license decision](LICENSE_DECISION.md).
+The implementation is public at [GitHub](https://github.com/William-Syoshin/humanoid-energy-from-simple-motions). The repository includes all 45 physical test recordings, the revised 21-trial supporting simulation, their offline analyses, and detailed method documentation. Use the full commit hash of this checkout (`git rev-parse HEAD`) to identify this version. No release tag or DOI has been assigned. **The authors still need to complete citation-author metadata and the reuse-license decision.** [CITATION.cff.example](CITATION.cff.example) is an inactive template; no citation metadata is invented. See [release instructions](docs/RELEASE.md) and [license decision](LICENSE_DECISION.md).
 
 Third-party terms remain in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). A blanket license has not been applied to vendor code, Webots assets, data, and figures. For reporting a reproducibility issue, see [CONTRIBUTING.md](CONTRIBUTING.md).
